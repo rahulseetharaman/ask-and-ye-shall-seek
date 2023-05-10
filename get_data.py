@@ -1,21 +1,21 @@
-# from torch.utils.data import Dataset
-# from torch.utils.data import Dataset, DataLoader
+from torch.utils.data import Dataset
+from torch.utils.data import Dataset, DataLoader
 import os
 import json
 import csv
 import pandas as pd
 
-class ABGCoQADataset():
-    def __init__(self):
+class ABGCoQADataset(Dataset):
+    def __init__(self, tokenizer):
         super().__init__()
-        # self.all_texts = pd.read_csv(data_path, sep='\t', header=None)
-        # self.contexts = self.all_texts.iloc[:, 0].values.tolist()
-        # self.clques = self.all_texts.iloc[:, 1].values.tolist()
-        # encodings = tokenizer.prepare_seq2seq_batch(self.contexts, self.clques, max_length=512, padding=True, truncation=True, return_tensors="pt")
-        # self.encoder_input_ids = encodings.input_ids
-        # self.encoder_attention_mask = encodings.attention_mask
-        # self.decoder_input_ids = encodings.labels[:, :-1].clone()  # skip last
-        # self.labels = encodings.labels[:, 1:].clone()              # skip first
+        self.dataset = self._build_data('data')
+        self.contexts = [d[0] for d in self.dataset]
+        self.cqs = [d[1] for d in self.dataset]
+        encodings = tokenizer.prepare_seq2seq_batch(self.contexts, self.clques, max_length=512, padding=True, truncation=True, return_tensors="pt")
+        self.encoder_input_ids = encodings.input_ids
+        self.encoder_attention_mask = encodings.attention_mask
+        self.decoder_input_ids = encodings.labels[:, :-1].clone()  # skip last
+        self.labels = encodings.labels[:, 1:].clone()              # skip first
 
     def _build_data(self, data_dir):
         dataset = []
@@ -46,7 +46,7 @@ class ABGCoQADataset():
                             start = -1
                     
                     for cq in clarification_question_list:
-                        dataset.append({'context': f"Story:\n{story}\nHistory:\n{history_turns}\nAmbiguous Question:\n{ambiguous_question}", 'cq': cq})
+                        dataset.append([f"Story:\n{story}\nHistory:\n{history_turns}\nAmbiguous Question:\n{ambiguous_question}", cq])
 
         return dataset
 

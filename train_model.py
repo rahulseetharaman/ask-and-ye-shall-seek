@@ -1,11 +1,11 @@
 import torch
-from transformers import BartTokenizer, BartForConditionalGeneration
+from transformers import AutoModelForSeq2SeqLM, AutoTokenizer
 import numpy as np
 import logging
 logging.getLogger().setLevel(logging.CRITICAL)
 import warnings
 warnings.filterwarnings('ignore')
-from get_data import ClariqDataset
+from get_data import ABGCoQADataset
 import random
 import torch
 from torch.utils.data import Dataset, DataLoader, random_split, RandomSampler, SequentialSampler
@@ -38,11 +38,11 @@ def train():
     # this produces sample output every 100 steps
     sample_every = 10
 
-    tokenizer = BartTokenizer.from_pretrained("prakharz/DIAL-BART0")
-    model = BartForConditionalGeneration.from_pretrained('prakharz/DIAL-BART0')
+    tokenizer = AutoTokenizer.from_pretrained("google/flan-t5-small")
+    model = AutoModelForSeq2SeqLM.from_pretrained('google/flan-t5-small')
     model = model.to(device)
-    train_dataset = ClariqDataset(tokenizer=tokenizer, data_path="./train_bart.txt")
-    val_dataset = ClariqDataset(tokenizer=tokenizer, data_path="./val_bart.txt")
+    train_dataset = ABGCoQADataset(tokenizer=tokenizer)
+    val_dataset = ABGCoQADataset(tokenizer=tokenizer)
 
     batch_size=4
 
@@ -137,8 +137,8 @@ def train():
                 scheduler.step()
 
 
-        model.save_pretrained("bart_model")
-        tokenizer.save_pretrained("bart_tok")
+        model.save_pretrained("ft5-small_model")
+        tokenizer.save_pretrained("ft5-small_tok")
 
         # Calculate the average loss over all of the batches.
         avg_train_loss = total_train_loss / len(train_dataloader)       
