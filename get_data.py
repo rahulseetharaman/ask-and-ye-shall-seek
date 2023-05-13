@@ -11,7 +11,7 @@ class ABGCoQADataset(Dataset):
         self.dataset = self._build_data(data_file)
         self.contexts = [d[0] for d in self.dataset]
         self.cqs = [d[1] for d in self.dataset]
-        encodings = tokenizer.prepare_seq2seq_batch(self.contexts, self.clques, max_length=512, padding=True, truncation=True, return_tensors="pt")
+        encodings = tokenizer.prepare_seq2seq_batch(self.contexts, self.cqs, max_length=512, padding=True, truncation=True, return_tensors="pt")
         self.encoder_input_ids = encodings.input_ids
         self.encoder_attention_mask = encodings.attention_mask
         self.decoder_input_ids = encodings.labels[:, :-1].clone()  # skip last
