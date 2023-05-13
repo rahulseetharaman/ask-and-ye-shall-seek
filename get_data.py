@@ -64,7 +64,7 @@ class ABGCoQADataset(Dataset):
         return dataset
 
     def __len__(self):
-        return len(self.all_texts)
+        return len(self.dataset)
 
     def __getitem__(self, item):
         return self.encoder_input_ids[item], self.encoder_attention_mask[item], self.decoder_input_ids[item], self.labels[item] 
