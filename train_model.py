@@ -41,8 +41,8 @@ def train():
     tokenizer = AutoTokenizer.from_pretrained("google/flan-t5-small")
     model = AutoModelForSeq2SeqLM.from_pretrained('google/flan-t5-small')
     model = model.to(device)
-    train_dataset = ABGCoQADataset(tokenizer=tokenizer)
-    val_dataset = ABGCoQADataset(tokenizer=tokenizer)
+    train_dataset = ABGCoQADataset('coqa_abg_train.json', tokenizer=tokenizer)
+    val_dataset = ABGCoQADataset('coqa_abg_val.json', tokenizer=tokenizer)
 
     batch_size=4
 
