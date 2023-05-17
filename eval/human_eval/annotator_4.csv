@@ -1,0 +1,279 @@
+id,model,cq,grammatical_correctness,diversity,clariscore,relevance
+32xvdsjfpzx14acn2clv6b5aksj2ms|5|2,ft5-large,What did Dwight Eisenhower do to meddle in the sport?,5,2,3,3
+32xvdsjfpzx14acn2clv6b5aksj2ms|5|2,ft5-large,How did Dwight Eisenhower solve their criticism of him?,4,2,2,1
+,,,,,,
+32xvdsjfpzx14acn2clv6b5aksj2ms|5|2,t5_canard,"What did Eisenhower do with the overhanging tree at Augusta National Golf Club?
+",5,2,2,3
+32xvdsjfpzx14acn2clv6b5aksj2ms|5|2,t5_canard,"What did Eisenhower do to prevent the overhanging tree from being named the Eisenhower Tree?
+",5,2,3,4
+,,,,,,
+32xvdsjfpzx14acn2clv6b5aksj2ms|5|2,ft5-small,How did Dwight Eisenhower practice during work?,5,1,3,5
+32xvdsjfpzx14acn2clv6b5aksj2ms|5|2,ft5-small,What did Dwight Eisenhower do?,5,1,3,5
+,,,,,,
+32xvdsjfpzx14acn2clv6b5aksj2ms|5|2,t5_kldiv,"What did Eisenhower do to prevent the overhanging tree from harming Dwight Eisenhower?
+",3,2,2,3
+32xvdsjfpzx14acn2clv6b5aksj2ms|5|2,t5_kldiv,"What did Eisenhower do to stop the overhanging tree from dominating the golf course?
+",5,2,2,3
+,,,,,,
+32xvdsjfpzx14acn2clv6b5aksj2ms|5|2,ft5-xl,what did Barack Obama do before he was elected president?,5,4,4,5
+32xvdsjfpzx14acn2clv6b5aksj2ms|5|2,ft5-xl,How have the last 18 U.S. presidents said to have played golf while in power?,5,4,4,5
+,,,,,,
+32xvdsjfpzx14acn2clv6b5aksj2ms|5|2,bart,"What did Barack Obama do after he was elected?
+",5,1,5,5
+32xvdsjfpzx14acn2clv6b5aksj2ms|5|2,bart,"What did Barack Obama do when he was elected president?
+",5,1,5,5
+,,,,,,
+32xvdsjfpzx14acn2clv6b5aksj2ms|5|2,ft5-base,What putting green did Dwight Eisenhower install during his presidency?,4,2,2,5
+32xvdsjfpzx14acn2clv6b5aksj2ms|5|2,ft5-base,How did Dwight Eisenhower do after Congress criticized him for spending too much time on the golf course?,3,2,2,5
+,,,,,,
+,,,,,,
+3tvss0c0e10rtl0eptbegwgrj6itw9|11|2,ft5-base,Who was displeased this time?,4,3,1,5
+3tvss0c0e10rtl0eptbegwgrj6itw9|11|2,ft5-base,Who was displeased when Fritz showed Stephen the picture after blowing off the splinter?,3,3,2,4
+,,,,,,
+3tvss0c0e10rtl0eptbegwgrj6itw9|11|2,ft5-large,Who was upset that Fritz painted his bicycle?,5,5,3,1
+3tvss0c0e10rtl0eptbegwgrj6itw9|11|2,ft5-large,Who was proud of Fritz that he took the splinter out by himself?,4,5,1,2
+,,,,,,
+3tvss0c0e10rtl0eptbegwgrj6itw9|11|2,bart,"Who was displeased this time?
+",4,1,1,5
+3tvss0c0e10rtl0eptbegwgrj6itw9|11|2,bart,"Who was displeased this time?
+",4,1,1,5
+,,,,,,
+3tvss0c0e10rtl0eptbegwgrj6itw9|11|2,ft5-small,What did the boy drew a picture of his bicycle with milk?,2,5,1,1
+3tvss0c0e10rtl0eptbegwgrj6itw9|11|2,ft5-small,Who was disgusted by the splinter in Fritz's foot?,5,5,1,2
+,,,,,,
+3tvss0c0e10rtl0eptbegwgrj6itw9|11|2,ft5-xl,Who was displeased with Fritz when he drew the toothpaste on the sink?,5,3,4,5
+3tvss0c0e10rtl0eptbegwgrj6itw9|11|2,ft5-xl,Who was displeased this time?,4,3,1,5
+,,,,,,
+3tvss0c0e10rtl0eptbegwgrj6itw9|11|2,t5_canard,"Who was displeased with Fritz and Stephen?
+",5,3,3,5
+3tvss0c0e10rtl0eptbegwgrj6itw9|11|2,t5_canard,"Who was displeased Fritz took the splinter out all by himself?
+",4,3,3,5
+,,,,,,
+3tvss0c0e10rtl0eptbegwgrj6itw9|11|2,t5_kldiv,"Who was displeased with Fritz and Stephen taking the splinter out all by himself?
+",3,2,1,5
+3tvss0c0e10rtl0eptbegwgrj6itw9|11|2,t5_kldiv,"Who was displeased that Fritz got a splinter in his foot?
+",5,2,1,5
+,,,,,,
+,,,,,,
+3igi0vl647kltzms1bysq3xdrrnonr|6|2,t5_kldiv,"From where did the children get their money?
+",5,1,5,5
+3igi0vl647kltzms1bysq3xdrrnonr|6|2,t5_kldiv,"from where did the children get their money?
+",5,1,5,5
+,,,,,,
+3igi0vl647kltzms1bysq3xdrrnonr|6|2,ft5-xl,Where is Chen Jie from?,5,5,5,5
+3igi0vl647kltzms1bysq3xdrrnonr|6|2,ft5-xl,Where is Xiong Shengyue from?,5,5,5,5
+,,,,,,
+3igi0vl647kltzms1bysq3xdrrnonr|6|2,ft5-large,Where did Chen Jie come from?,5,1,5,5
+3igi0vl647kltzms1bysq3xdrrnonr|6|2,ft5-large,Chen Jie is from where?,4,1,5,5
+,,,,,,
+3igi0vl647kltzms1bysq3xdrrnonr|6|2,ft5-small,How many students did Chen Jie have the same gift money?,2,2,4,4
+3igi0vl647kltzms1bysq3xdrrnonr|6|2,ft5-small,How old is Chen Jie from Nanjing?,5,2,3,5
+,,,,,,
+3igi0vl647kltzms1bysq3xdrrnonr|6|2,ft5-base,Where is Chen Jie from?,5,2,5,5
+3igi0vl647kltzms1bysq3xdrrnonr|6|2,ft5-base,What countries did Chen Jie got the gift money from?,3,2,5,3
+,,,,,,
+3igi0vl647kltzms1bysq3xdrrnonr|6|2,bart,"Are you referring to Chen Jie or Yan Honglan?
+",5,1,5,5
+3igi0vl647kltzms1bysq3xdrrnonr|6|2,bart,"Are you referring to Chen Jie or Yan Honglan?
+",5,1,5,5
+,,,,,,
+3igi0vl647kltzms1bysq3xdrrnonr|6|2,t5_canard,"from where did Chen Jie and Xiong Shengyue receive their gift money?
+",5,2,5,5
+3igi0vl647kltzms1bysq3xdrrnonr|6|2,t5_canard,"from where did the 14-year-old Chen Jie come from?
+",5,2,5,5
+,,,,,,
+,,,,,,
+3ydtzai2wxgebz5ld4llfye57wl41m|6|2,ft5-small,How many nations did the Muslim world be depicted total with the New Desert?,3,5,1,3
+3ydtzai2wxgebz5ld4llfye57wl41m|6|2,ft5-small,How many cities did the cowboys participate in?,5,5,1,1
+,,,,,,
+3ydtzai2wxgebz5ld4llfye57wl41m|6|2,t5_canard,"Along with the Sack of Baghdad and the second century AD, what year of the Islamic Golden Age coincided with the end of the Islamic Golden Age?
+",4,3,4,4
+3ydtzai2wxgebz5ld4llfye57wl41m|6|2,t5_canard,"The second Sack of Baghdad and the third was the creation of the Muslim world?
+",3,3,3,3
+,,,,,,
+3ydtzai2wxgebz5ld4llfye57wl41m|6|2,ft5-xl,what event triggered the second end of the Islamic Golden Age?,5,3,5,5
+3ydtzai2wxgebz5ld4llfye57wl41m|6|2,ft5-xl,what happened in 1258 to indicate the end of the Islamic Golden Age?,5,3,3,5
+,,,,,,
+3ydtzai2wxgebz5ld4llfye57wl41m|6|2,bart,"What is the second Islamic state?
+",5,2,5,3
+3ydtzai2wxgebz5ld4llfye57wl41m|6|2,bart,"What is the second
+",2,2,2,1
+,,,,,,
+3ydtzai2wxgebz5ld4llfye57wl41m|6|2,ft5-base,Who followed the Islamic Golden Age?,6,4,1,5
+3ydtzai2wxgebz5ld4llfye57wl41m|6|2,ft5-base,What happened after the Islamic Golden Age was traditionally give as 1258 or 1492?,2,4,1,5
+,,,,,,
+3ydtzai2wxgebz5ld4llfye57wl41m|6|2,t5_kldiv,"What is the second Sack of Baghdad?
+",4,1,5,5
+3ydtzai2wxgebz5ld4llfye57wl41m|6|2,t5_kldiv,"The Sack of Baghdad and the second?
+",2,1,3,4
+,,,,,,
+3ydtzai2wxgebz5ld4llfye57wl41m|6|2,ft5-large,What was the second event in the Islamic Golden Age,5,3,5,5
+3ydtzai2wxgebz5ld4llfye57wl41m|6|2,ft5-large,The Islamic Golden Age coincided with the Middle Ages in the Muslim world.,5,3,1,5
+,,,,,,
+,,,,,,
+3duzq9u6smodzwnuaj1skp1raa8vsa|6|2,ft5-small,What film is Be and Deliver's second academy Award?,2,3,4,1
+3duzq9u6smodzwnuaj1skp1raa8vsa|6|2,ft5-small,What was the name of the Italian film that Skytle got Oscar nominations for best actor?,4,3,5,5
+,,,,,,
+3duzq9u6smodzwnuaj1skp1raa8vsa|6|2,ft5-xl,Which movie are you asking about?,5,3,5,5
+3duzq9u6smodzwnuaj1skp1raa8vsa|6|2,ft5-xl,Which movie is based on a true story?,5,3,5,5
+,,,,,,
+3duzq9u6smodzwnuaj1skp1raa8vsa|6|2,ft5-base,Who won the Academy Award for best actor for My Left Foot?,5,2,5,5
+3duzq9u6smodzwnuaj1skp1raa8vsa|6|2,ft5-base,Who is the name of the movie that was based on Christy Brown?,5,2,5,5
+,,,,,,
+3duzq9u6smodzwnuaj1skp1raa8vsa|6|2,bart,"What was the name of the movie made of My Left Foot?
+",3,1,5,5
+3duzq9u6smodzwnuaj1skp1raa8vsa|6|2,bart,"What was the name of the person in My Left Foot?
+",4,1,5,5
+,,,,,,
+3duzq9u6smodzwnuaj1skp1raa8vsa|6|2,t5_kldiv,"What was the name of a movie made by Jaime Escalante?
+",4,3,5,5
+3duzq9u6smodzwnuaj1skp1raa8vsa|6|2,t5_kldiv,"What was the name of the movie made of Stand and Deliver?
+",3,3,5,5
+,,,,,,
+3duzq9u6smodzwnuaj1skp1raa8vsa|6|2,t5_canard,"What was the name of that movie made by Jaime Escalante?
+",4,3,5,5
+3duzq9u6smodzwnuaj1skp1raa8vsa|6|2,t5_canard,"What was the name for Stand and Deliver?
+",3,3,2,5
+,,,,,,
+3duzq9u6smodzwnuaj1skp1raa8vsa|6|2,ft5-large,What was the name of Daniel Lewis' performance in My Left Foot?,2,3,2,5
+3duzq9u6smodzwnuaj1skp1raa8vsa|6|2,ft5-large,Which movie is the title of the film based on a true story?,3,3,2,5
+,,,,,,
+,,,,,,
+3dbqwde4y6yzlpgaww2thxxmay5n5c|18|2,ft5-small,How did Stewart talk to the bug?,4,3,2,3
+3dbqwde4y6yzlpgaww2thxxmay5n5c|18|2,ft5-small,"Why did Stewart knee out in the doorway and shouted, ""Goodbye, that would be wonderful?""",2,3,2,3
+,,,,,,
+3dbqwde4y6yzlpgaww2thxxmay5n5c|18|2,ft5-large,What did the bug tell Stewart?,5,2,3,5
+3dbqwde4y6yzlpgaww2thxxmay5n5c|18|2,ft5-large,What did the bug say to Stewart when he asked if it could stay at his house?,4,2,5,5
+,,,,,,
+3dbqwde4y6yzlpgaww2thxxmay5n5c|18|2,ft5-xl,What did the bug say before it disappeared?,5,2,5,5
+3dbqwde4y6yzlpgaww2thxxmay5n5c|18|2,ft5-xl,What words did the bug say?,5,2,3,5
+,,,,,,
+3dbqwde4y6yzlpgaww2thxxmay5n5c|18|2,t5_kldiv,"What did the bug say to Stewart when she stood in the doorway and shouted ""Goodbye!""
+",5,2,5,5
+3dbqwde4y6yzlpgaww2thxxmay5n5c|18|2,t5_kldiv,"What did the bug say to Stewart after the storm ended?
+",5,2,5,5
+,,,,,,
+3dbqwde4y6yzlpgaww2thxxmay5n5c|18|2,t5_canard,"What did Stewart say to the bug when it flew around Stewart's house?
+",5,2,4,5
+3dbqwde4y6yzlpgaww2thxxmay5n5c|18|2,t5_canard,"What did the bug say to Stewart when the butterfly flew away from Stewart?
+",5,2,5,5
+,,,,,,
+3dbqwde4y6yzlpgaww2thxxmay5n5c|18|2,bart,"What did the bug say?
+",5,1,3,5
+3dbqwde4y6yzlpgaww2thxxmay5n5c|18|2,bart,"What did the bug say to Stewart?
+",5,1,3,5
+,,,,,,
+3dbqwde4y6yzlpgaww2thxxmay5n5c|18|2,ft5-base,"What did the bug say to Stewart, ""You can talk!""",3,2,3,5
+3dbqwde4y6yzlpgaww2thxxmay5n5c|18|2,ft5-base,What did the bug say to Stewart?,5,2,3,5
+,,,,,,
+,,,,,,
+3pxx5px6lxyuqm3uo2o1yddelnmaba|12|2,ft5-large,Where did Bob and Sally find the treasure?,5,2,5,5
+3pxx5px6lxyuqm3uo2o1yddelnmaba|12|2,ft5-large,Where did you find Bob and Sally's treasure?,5,2,4,5
+,,,,,,
+3pxx5px6lxyuqm3uo2o1yddelnmaba|12|2,ft5-small,Where did Bob and Sally find the treasure map?,5,1,5,5
+3pxx5px6lxyuqm3uo2o1yddelnmaba|12|2,ft5-small,Where did Bob and Sally find the treasure map?,5,1,5,5
+,,,,,,
+3pxx5px6lxyuqm3uo2o1yddelnmaba|12|2,ft5-xl,Where did Bob and Sally find the treasure on their day at the beach?,5,1,5,5
+3pxx5px6lxyuqm3uo2o1yddelnmaba|12|2,ft5-xl,Where did Bob and Sally find the treasure?,5,1,5,5
+,,,,,,
+3pxx5px6lxyuqm3uo2o1yddelnmaba|12|2,t5_canard,"Where did Bob and Sally find the pearl?
+",5,1,5,5
+3pxx5px6lxyuqm3uo2o1yddelnmaba|12|2,t5_canard,"where did Bob and Sally find buried treasure?
+",5,1,5,5
+,,,,,,
+3pxx5px6lxyuqm3uo2o1yddelnmaba|12|2,bart,"Where did they find the treasure?
+",5,1,5,5
+3pxx5px6lxyuqm3uo2o1yddelnmaba|12|2,bart,"Where did they find the treasure?
+",5,1,5,5
+,,,,,,
+3pxx5px6lxyuqm3uo2o1yddelnmaba|12|2,t5_kldiv,"where did Bob and Sally find buried treasure?
+",5,1,5,5
+3pxx5px6lxyuqm3uo2o1yddelnmaba|12|2,t5_kldiv,"where did Bob and Sally find the pearl buried in the beach?
+",5,1,5,5
+,,,,,,
+3pxx5px6lxyuqm3uo2o1yddelnmaba|12|2,ft5-base,Where did Bob and Sally find the treasure map?,5,1,5,5
+3pxx5px6lxyuqm3uo2o1yddelnmaba|12|2,ft5-base,Where did they find the treasure map?,5,1,5,5
+,,,,,,
+,,,,,,
+3uxuoq9okex7oa04blcltbri2p17ab|4|2,ft5-small,Why was Andres Iniesta's injury scarred?,3,4,2,3
+3uxuoq9okex7oa04blcltbri2p17ab|4|2,ft5-small,Why did Andres Iniesta say thats?,3,4,3,4
+,,,,,,
+3uxuoq9okex7oa04blcltbri2p17ab|4|2,t5_kldiv,"What did Dr Oscar Celada say to Andres Iniesta?
+",5,2,5,5
+3uxuoq9okex7oa04blcltbri2p17ab|4|2,t5_kldiv,"What did Dr Oscar Celada say after the match with Poland?
+",5,2,5,5
+,,,,,,
+3uxuoq9okex7oa04blcltbri2p17ab|4|2,bart,"What did Dr Oscar Celada say about Andres Iniesta?
+",5,2,5,5
+3uxuoq9okex7oa04blcltbri2p17ab|4|2,bart,"What did Dr Oscar Celada say?
+",5,2,4,5
+,,,,,,
+3uxuoq9okex7oa04blcltbri2p17ab|4|2,ft5-base,"Who said Dr Oscar Celada told Fernando Torres, ""We moved him to a minor muscle injury?",2,3,4,5
+3uxuoq9okex7oa04blcltbri2p17ab|4|2,ft5-base,Which statement did Andres Iniesta express after the World Cup?,4,3,5,5
+,,,,,,
+3uxuoq9okex7oa04blcltbri2p17ab|4|2,t5_canard,"What did Dr Oscar Celada say after the match with Poland?
+",5,3,5,5
+3uxuoq9okex7oa04blcltbri2p17ab|4|2,t5_canard,"What did Dr Oscar Celada say about Andres Iniesta?
+",5,3,4,5
+,,,,,,
+3uxuoq9okex7oa04blcltbri2p17ab|4|2,ft5-xl,what did the team doctor say?,5,4,4,5
+3uxuoq9okex7oa04blcltbri2p17ab|4|2,ft5-xl,What did Andres Iniesta say after being substituted?,5,4,5,5
+,,,,,,
+3uxuoq9okex7oa04blcltbri2p17ab|4|2,ft5-large,How did the team doctor say Andres Iniesta had a minor thigh complaint?,4,2,3,5
+3uxuoq9okex7oa04blcltbri2p17ab|4|2,ft5-large,What was Dr Oscar Celadas statement about Andres Iniesta being substituted?,5,2,5,5
+,,,,,,
+,,,,,,
+3e13vnj1nnv8j640ytnp9zoocgr1i7|10|2,ft5-small,What kind of year general election was it at the national Republican campaign committee?,3,4,2,3
+3e13vnj1nnv8j640ytnp9zoocgr1i7|10|2,ft5-small,"Where was Bernard Pelosi's ""residency"" polling center in Florida's 13th Congressional District?",5,4,2,2
+,,,,,,
+3e13vnj1nnv8j640ytnp9zoocgr1i7|10|2,t5_canard,"What is the outside of the 13th Congressional District election?
+",5,5,4,3
+3e13vnj1nnv8j640ytnp9zoocgr1i7|10|2,t5_canard,"What did Israel say about the special election of 2014?
+",5,5,1,5
+,,,,,,
+3e13vnj1nnv8j640ytnp9zoocgr1i7|10|2,ft5-xl,What is the outside ad money from that fueled the Republican candidate's victory in the special election in Florida's 13th Congressional District?,3,5,1,3
+3e13vnj1nnv8j640ytnp9zoocgr1i7|10|2,ft5-xl,Where did Republican candidate David Jolly win Tuesday's special election in Florida's 13th Congressional District?,5,5,3,3
+,,,,,,
+3e13vnj1nnv8j640ytnp9zoocgr1i7|10|2,t5_kldiv,"What does the Republican party see as an indicator of the future?
+",5,4,1,3
+3e13vnj1nnv8j640ytnp9zoocgr1i7|10|2,t5_kldiv,"What did Israel tell CNN after the special election?
+",5,4,1,5
+,,,,,,
+3e13vnj1nnv8j640ytnp9zoocgr1i7|10|2,bart,"Do you mean where did David Jolly win the election?
+",5,4,3,3
+3e13vnj1nnv8j640ytnp9zoocgr1i7|10|2,bart,"What did Greg Walden say about the election?
+",5,4,1,5
+,,,,,,
+3e13vnj1nnv8j640ytnp9zoocgr1i7|10|2,ft5-base,What outside ad money did the National Republican Congressional Committee use to win the special election?,4,4,1,3
+3e13vnj1nnv8j640ytnp9zoocgr1i7|10|2,ft5-base,Where did David Jolly vie for a seat in Florida's 13th Congressional District?,5,4,3,4
+,,,,,,
+3e13vnj1nnv8j640ytnp9zoocgr1i7|10|2,ft5-large,What outside dogma is David Jolly referring to?,5,4,1,3
+3e13vnj1nnv8j640ytnp9zoocgr1i7|10|2,ft5-large,The race was consistently in the spotlight with national Republicans framing the election as a referendum on Obamacare?,4,4,1,4
+,,,,,,
+,,,,,,
+3spj033421314nz9s0fyzneywhyyjp|17|2,ft5-small,How many points did Pep Guardiola score in the first half?,5,3,1,5
+3spj033421314nz9s0fyzneywhyyjp|17|2,ft5-small,How did Pep Guardiola make the score?,5,3,1,5
+,,,,,,
+3spj033421314nz9s0fyzneywhyyjp|17|2,ft5-xl,How did Andres Iniesta score his first goal of the season?,5,5,1,5
+3spj033421314nz9s0fyzneywhyyjp|17|2,ft5-xl,Rafael Marquez scored his return from suspension with a similar effort in the 84th minute?,3,5,1,5
+,,,,,,
+3spj033421314nz9s0fyzneywhyyjp|17|2,bart,"How did Zlatan Ibrahimovic get injured?
+",5,5,5,1
+3spj033421314nz9s0fyzneywhyyjp|17|2,bart,"How did Carles Puyol get injured?
+",5,5,5,1
+,,,,,,
+3spj033421314nz9s0fyzneywhyyjp|17|2,ft5-large,How did Zlatan Ibrahimovic get hurt during the match?,5,5,5,1
+3spj033421314nz9s0fyzneywhyyjp|17|2,ft5-large,What was Carles Puyol's facial injury?,5,5,5,1
+,,,,,,
+3spj033421314nz9s0fyzneywhyyjp|17|2,t5_canard,"how was Thiago injured in the 4-0 victory against Racing Santander on Saturday?
+",5,1,5,1
+3spj033421314nz9s0fyzneywhyyjp|17|2,t5_canard,"how was Thiago injured in the 4-0 victory at home to Racing Santander on Saturday?
+",5,1,5,1
+,,,,,,
+3spj033421314nz9s0fyzneywhyyjp|17|2,ft5-base,Zlatan Ibrahimovic has to be replaced after what injury?,4,5,3,5
+3spj033421314nz9s0fyzneywhyyjp|17|2,ft5-base,How did Carles Puyol come back from a facial injury?,5,5,3,5
+,,,,,,
+3spj033421314nz9s0fyzneywhyyjp|17|2,t5_kldiv,"how was Thiago injured in Saturday's 4-0 victory against Racing Santander?
+",5,1,5,1
+3spj033421314nz9s0fyzneywhyyjp|17|2,t5_kldiv,"How was Thiago injured during Barca's 4-0 victory at home to Racing Santander on Saturday?
+",3,1,5,1

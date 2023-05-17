@@ -1,0 +1,560 @@
+32xvdsjfpzx14acn2clv6b5aksj2ms|5|2
+Story:
+John was in the third grade, and nine years old. Every day he had to walk home from school. There were some kids in his class who were mean to him, and during the winter they would throw snowballs at him. John could have told the teacher, but one of the kids was a very pretty girl. She was mean, but John liked her because she was pretty and did not want her to get in trouble. 
+
+One day, his teacher asked John to stay after class to wipe off the chalkboard and to empty the pencil sharpener. By the time he was done, the other kids had gone home. They could no longer throw snowballs at him. John did not mind helping out his teacher, and he soon stayed after class every day. 
+
+John was not very good at math, and sometimes his teacher would help him when he stayed after school. She said if John could help her out for at least two weeks, he could pass his math class. John thought it was a good deal, and ended up being much better at math.
+History:
+Did he tell on them?
+no
+Why not?
+one  was a very pretty girl.
+Ambiguous Question:
+What happened when he helped?
+Ground Truth: Who did he help?
+
+
+3tvss0c0e10rtl0eptbegwgrj6itw9|11|2
+Story:
+Once upon a time, there was a squirrel named Joey. Joey loved to go outside and play with his cousin Jimmy. Joey and Jimmy played silly games together, and were always laughing. One day, Joey and Jimmy went swimming together at their Aunt Julie's pond. Joey woke up early in the morning to eat some food before they left. He couldn't find anything to eat except for pie! Usually, Joey would eat cereal, fruit (a pear), or oatmeal for breakfast. After he ate, he and Jimmy went to the pond. On their way there they saw their friend Jack Rabbit. They dove into the water and swam for several hours. The sun was out, but the breeze was cold. Joey and Jimmy got out of the water and started walking home. Their fur was wet, and the breeze chilled them. When they got home, they dried off, and Jimmy put on his favorite purple shirt. Joey put on a blue shirt with red and green dots. The two squirrels ate some food that Joey's mom, Jasmine, made and went off to bed.
+History:
+Were they happy?
+yes
+Where did they go?
+outside
+Ambiguous Question:
+Then where?
+Ground Truth: Do you mean where did they go when they were outside, or where did they go after they were done outside?
+
+
+3igi0vl647kltzms1bysq3xdrrnonr|6|2
+Story:
+Claude Monet is surely one of the most famous French artists of all. Monet was particularly interested in the effect of light and would paint the same scene in different lighting conditions or times of the day. For example, he painted around 20 versions of the Rouen Cathedral from dawn to dusk. His most famous paintings include his Water lilies series. 
+
+The paintings of Paul Cezanne had a lot of influence in the development of 20th century art, including Cubism and Fauvism . Cezanne is one of the most famous French artists and is known as a "post-impressionist", which was similar in some ways to impressionism but also broke away from some of its limitations. Famous French paintings include his Bathers and Mont St Victoire series. 
+
+Henri Matisse was one of the most important famous French artists of the 20th century. He was considered one of the leaders of the Fauvist movement. He had a long and varied artistic career, painting in different styles ranging from Impressionism to Abstract. In 1941, Matisse was diagnosed with cancer and was forced into a wheelchair. But this didn't stop him completing the amazing Chapel of the Rosary in Vence. 
+
+Degas is probably one of the most fascinating of all the famous French artists. He is known as one of the founders of Impressionism, but his paintings were also influenced by classicism, romanticism, and realism. His style is definitely very unique. He was a prolific artist, producing over one thousand works. He is best known for his paintings of ballet dancers.
+History:
+The third?
+realism
+What kind of style does he have?
+unique
+Ambiguous Question:
+What kind of artist was he?
+Ground Truth: Do you mean what kind of artist was he in terms of notoriety?
+
+
+3ydtzai2wxgebz5ld4llfye57wl41m|6|2
+Story:
+Wang Bing is a 12-year-old boy. He likes sports very much and does well in sports. One afternoon, he comes out of the classroom and sees his father waiting for him at the school gate. He is very glad and he runs to his father. "Dad, please don't wait for me after school next time. I can go home by myself . I have grown up." says Wang Bing. "Let's go," says the father, "I'll cook supper and you can do your homework at home: Mum is still at work."On their way home, Wang Bing sees some boys skating in a park. "Can I go and learn skating. Dad?" asks Wang Bing. "I'm sorry, my boy. You must go home and do your homework," answers his father, "but I can buy you an ice-cream." Then his father buys an ice-cream for him. When Wang Bing wants to eat it, a fly flies to the ice-cream. "Drive off the fly,' says his father, "it's very dirty ."But Wang Bing says with a smile. "You don't let me skate, but can you let him skate for a while ?"
+History:
+why not?
+to do his homework
+Who meets him for his excursion?
+his father
+Ambiguous Question:
+Does he want him to?
+Ground Truth: Do you mean this time or next time?
+
+
+3duzq9u6smodzwnuaj1skp1raa8vsa|6|2
+Story:
+Christopher Thomas, 27, was a writer by night and a teacher by day when he noticed he was always tired and was losing weight fast. Diagnosed with diabetes , Thomas would need to inject himself with insulin three times a day for the rest of his life or risk nerve damage, blindness, and even death. And if that weren't bad enough, he had no health insurance. After a month of feeling upset, Thomas decided he'd better find a way to fight back. He left Canton, Michigan for New York, got a job waiting tables, nicknamed himself the Diabetic Rockstar , and created diabeticrockstar.com, a free online community for diabetics and their loved ones--a place where over 1,100 people share personal stories, information, and resources. 
+
+Jason Swencki"s son, Kody, was diagnosed with type diabetes at six. Father and son visit the online children's forums together most evenings. "Kody gets so excited, writing to kids from all over," says Swencki, one of the site's volunteers. "They know what he's going through, so he doesn't feel alone." Kody is anything but alone: Diabetes is now the seventh leading cause of death in the United States, with 24 million diagnosed cases. And more people are being diagnosed at younger ages. 
+
+These days, Thomas's main focus is his charity, Fight It, which provides medicines and supplies to people--225 to date--who can't afford a diabetic's huge expenses. Fight-it.org has raised about $23,000--in products and in cash. In May, Thomas will hold the first annual Diabetic Rockstar Festival in the Caribbean. 
+
+Even with a staff of 22 volunteers, Thomas often devotes up to 50 hours a week to his cause, while still doing his full-time job waiting tables. "Of the diabetes charities out there, most are putting money into finding a cure," says Bentley Gubar one of Rockstar's original members. "But Christopher is the only person I know saying people need help now."
+History:
+How old was Kody when he was diagnosed with diabetes?
+six
+How many diagnosed cases of diabetes are there?
+24 million
+Ambiguous Question:
+What website did Christopher start?
+Ground Truth: Do you mean which online community website did Christopher start?
+
+
+3dbqwde4y6yzlpgaww2thxxmay5n5c|18|2
+Story:
+Angie went to the library with her mother. First she had to turn in the books she was returning at the return desk. They said hello to the man there. He took their books. Then they went into the adult reading room. Angie sat in a brown chair at the table. She made a drawing of her mother. Her mother found a large red book. Then they went to the Mystery section. Angie sat in a blue chair. She drew a picture of her brother. Her mother found the book. It was a green book. Finally it was time to go to the children's room. It was Story Hour. Miss Hudson was there to read to all the children. She read a book about friendship. After the story Angie sat in the red chair and began drawing. They were drawing pictures of friends. Angie drew a picture of her best friend Lilly. Miss Hudson hung the pictures on the wall. Then Angie and her mother picked out 8 books to read at home. They checked the books out and went home.
+History:
+was she drawing?
+Yes
+Ambiguous Question:
+what did she draw?
+Ground Truth: Do you mean in the Mystery section?
+
+
+3pxx5px6lxyuqm3uo2o1yddelnmaba|12|2
+Story:
+Angie went to the library with her mother. First she had to turn in the books she was returning at the return desk. They said hello to the man there. He took their books. Then they went into the adult reading room. Angie sat in a brown chair at the table. She made a drawing of her mother. Her mother found a large red book. Then they went to the Mystery section. Angie sat in a blue chair. She drew a picture of her brother. Her mother found the book. It was a green book. Finally it was time to go to the children's room. It was Story Hour. Miss Hudson was there to read to all the children. She read a book about friendship. After the story Angie sat in the red chair and began drawing. They were drawing pictures of friends. Angie drew a picture of her best friend Lilly. Miss Hudson hung the pictures on the wall. Then Angie and her mother picked out 8 books to read at home. They checked the books out and went home.
+History:
+who did she draw this time?
+her best friend
+Ambiguous Question:
+did Angie sit in a blue chair?
+Ground Truth: Do you mean when she was drawing a picture of her best friend?
+
+
+3uxuoq9okex7oa04blcltbri2p17ab|4|2
+Story:
+Have you ever tried broccoli ice cream? That's what Oliver serves his customers in the new movie Oliver's Organic Ice Cream. 
+
+The one-minute film was created by kids. A film is a movie. The young students learned their moviemaking skills at the Jacob Burns Film Center. The center is in Pleasantville, New York. Kids who go there learn how to make movies and music videos. 
+
+The character Oliver and his treats are animated. In an animated movie, objects, such as ice cream and paper dolls, appear to be alive or moving. 
+
+Animated movies are made up of hundreds of pictures. It takes 15 pictures to make just one second of film. To make a movie that lasts one minute, students need to take about 900 frames. A frame is a picture. 
+
+Animation expert Joe Summerhays teaches kids the steps to shoot a movie. He says what they learn behind the scenes, however, also counts. Students create their films in small groups. They have to agree on every decision. 
+
+" The benefit of the class is less animation and more problem-solving," Summerhays said. "It's all about teamwork." 
+
+About 4,000 kids have made movies at the Jacob Burns Film Center. Mikey Price, 11, of Briarcliff Manor, New York, is one of them. "I'm actually making a real movie," he said. "It's an adventure."
+History:
+What does Oliver serve?
+broccoli ice cream
+Ambiguous Question:
+in what?
+Ground Truth: Do you mean in what kind of dish?
+
+
+3e13vnj1nnv8j640ytnp9zoocgr1i7|10|2
+Story:
+Researches at Johns Hopkins University's. Applied Physics laboratory ( APL) in Laurel , Maryland have designed a new human-like robot, Its name is Robo Sally. The machine can be controlled from a distance and can he used to do work that is dangerous for human beings. 
+
+Roho Sally has two long arms with human-like hands. She can use her fingers to pick up small objects .examine them in detail and do most things that human hands can do Each finger contains a tiny motor capable of squeezing 20 pounds of pinch foree ,.enough to defuse a bomb under the direction of an operator. She sits on a metal base with wheels that let her move around. turn in tight spaces and climb over small objects, . 
+
+Mike McLoughlin is the main investigator for the Applied Physics Laboratory's Prosthetics Program. "The purpose of that program is to develop prosthetic arms that have all the capability of your natural arms .and you do all the complex motions that we can do with the natural arm- with the robot. " 
+
+It was a difficult job. Mr. McLoughlin says the device had to have many small motors to. have the ability to do what a human hand does; It also needs to have human-like strength. The thumb was especially difficult because it permits the hand .to hold objects. And everything had. to fit into a space about the size of a human hand. 
+
+The next problem .he says .was to figure out how to control the artificial hand. " So we had to figure out how to make the connection between the brain and this arm. 
+
+For search-and-rescue duties.Roho Sally will be operated by a human being using a wire- less machine that is far from the robot. The operator will also wear special gloves and glasses. The glasses permit the operator to see the robot's hands .even though they are far away. 
+
+Mr. McLoughlin says this kind of robots could be used in what he calls "dull , dirty or dan- gerous" situations where fine human finger movements are required. He says the technology is not ready for everyday application .but he predicts that within five years we will see some won- derful improvements.
+History:
+Which was?
+How to control it.
+Ambiguous Question:
+What was involved?
+Ground Truth: Do you mean what would need to be done?
+
+
+3spj033421314nz9s0fyzneywhyyjp|17|2
+Story:
+The Recording Industry Association of America (RIAA) is a trade organization that represents the recording industry in the United States. Its members consist of record labels and distributors, which the RIAA says "create, manufacture and/or distribute approximately 85% of all legally sold recorded music in the United States." The RIAA headquarters is in Washington, D.C. 
+
+The RIAA was formed in 1952. Its original mission was to administer recording copyright fees and problems, work with trade unions, and do research relating to the record industry and government regulations. Early RIAA standards included the RIAA equalization curve, the format of the stereophonic record groove and the dimensions of 33 1/3 rpm, 45 rpm, and 78 rpm records. 
+
+The RIAA says its current mission includes: 
+
+Since 2001, the RIAA has spent $2 to $6 million each year on lobbying in the United States. 
+
+The RIAA also participates in the collective rights management of sound recordings, and it is responsible for certifying Gold and Platinum albums and singles in the United States. 
+
+Cary Sherman has been the RIAA's chairman and CEO since 2011. Sherman joined the RIAA as its general counsel in 1997 and became president of the board of directors in 2001, serving in that position until being made chairman and CEO.
+History:
+Who is CEO?
+Cary Sherman
+Ambiguous Question:
+Did he hold those titles in 2010?
+Ground Truth: Are your asking about the titles of chairman and CEO or the titles of general counsel and president of the board of directors?
+
+
+39asuflu6x74t2n793i5jtuxpy5xek|6|2
+Story:
+CHAPTER III. SWEDENBORG AND THE SIBYL. 
+
+MY narrative may move on again from the point at which it paused in the first chapter. 
+
+Mary and I (as you may remember) had left the bailiff alone at the decoy, and had set forth on our way together to Dermody's cottage. 
+
+As we approached the garden gate, I saw a servant from the house waiting there. He carried a message from my mother--a message for me. 
+
+"My mistress wishes you to go home, Master George, as soon as you can. A letter has come by the coach. My master means to take a post-chaise from London, and sends word that we may expect him in the course of the day." 
+
+Mary's attentive face saddened when she heard those words. 
+
+"Must you really go away, George," she whispered, "before you see what I have got waiting for you at home?" 
+
+I remembered Mary's promised "surprise," the secret of which was only to be revealed to me when we got to the cottage. How could I disappoint her? My poor little lady-love looked ready to cry at the bare prospect of it. 
+
+I dismissed the servant with a message of the temporizing sort. My love to my mother--and I would be back at the house in half an hour. 
+
+We entered the cottage. 
+
+Dame Dermody was sitting in the light of the window, as usual, with one of the mystic books of Emanuel Swedenborg open on her lap. She solemnly lifted her hand on our appearance, signing to us to occupy our customary corner without speaking to her. It was an act of domestic high treason to interrupt the Sibyl at her books. We crept quietly into our places. Mary waited until she saw her grandmother's gray head bend down, and her grandmother's bushy eyebrows contract attentively, over her reading. Then, and then only, the discreet child rose on tiptoe, disappeared noiselessly in the direction of her bedchamber, and came back to me carrying something carefully wrapped up in her best cambric handkerchief. 
+History:
+Did she acknowledge them?
+yes
+Ambiguous Question:
+How?
+Ground Truth: Are you asking how Dame Dermody acknowledged them?
+
+
+33l7pjkhcgyg3k4wrqv82gd51188t6|12|2
+Story:
+Silesia (; ; ; ; Silesian German: "Schläsing"; Silesian: "Ślůnsk" ; ; ; ) is a region of Central Europe located mostly in Poland, with small parts in the Czech Republic and Germany. Its area is about , and its population about 8,000,000. Silesia is located along the Oder River. It consists of Lower Silesia and Upper Silesia. 
+
+The region is rich in mineral and natural resources, and includes several important industrial areas. Silesia's largest city and historical capital is Wrocław. The biggest metropolitan area is the Upper Silesian metropolitan area, the centre of which is Katowice. Parts of the Czech city of Ostrava fall within the borders of Silesia. 
+
+Silesia's borders and national affiliation have changed over time, both when it was a hereditary possession of noble houses and after the rise of modern nation-states. The first known states to hold power there were probably those of Greater Moravia at the end of the 9th century and Bohemia early in the 10th century. In the 10th century, Silesia was incorporated into the early Polish state, and after its division in the 12th century became a Piast duchy. In the 14th century, it became a constituent part of the Bohemian Crown Lands under the Holy Roman Empire, which passed to the Austrian Habsburg Monarchy in 1526.
+History:
+What did it become in the 1100s?
+a Piast duchy
+Ambiguous Question:
+What state ruled the Crown Lands?
+Ground Truth: Are you asking who ruled the Crown Lands before 1526 or after?
+
+
+34fnn24dcm9txoko3yb4ydvtddmy5f|17|2
+Story:
+CAIRO, Egypt (CNN) -- Omar bin Laden has a message for his father, Osama: "Find another way." 
+
+Omar bin Laden says he last saw his father in 2000 when the son decided to leave al Qaeda. 
+
+The son of the most-wanted man in the world spoke Sunday to CNN in a quiet, middle-class suburb about an hour outside Cairo, Egypt. 
+
+Omar bin Laden, who works as a contractor, said he is talking publicly because he wants an end to the violence his father has inspired -- violence that has killed innocent civilians in a spate of attacks around the world, including those of September 11, 2001. 
+
+"I try and say to my father: 'Try to find another way to help or find your goal. This bomb, this weapons, it's not good to use it for anybody,' " he said in English learned in recent months from his British wife. 
+
+He said that's not just his own message, but one that a friend of his father's and other Muslims have expressed to him. "They too say ... my father should change [his] way," he said. Watch whether Omar bin Laden thinks his father will ever be caught » 
+
+He said he hasn't spoken to his father since 2000, when he walked away from an al Qaeda training camp in Afghanistan with his father's blessings. He said he has no idea where his father is, but is confident he will never be caught because locals support him. 
+
+Asked if his father might be living along the Afghan-Pakistan border, he said, "Maybe, maybe not." 
+History:
+what is the son's profession?
+he is a contractor
+Ambiguous Question:
+does he approve of killing?
+Ground Truth: Do you mean does the son approve of the killing?
+
+
+3wygz5xf3wfzjltibfnligqathgks1|4|2
+Story:
+Satire is a genre of literature, and sometimes graphic and performing arts, in which vices, follies, abuses, and shortcomings are held up to ridicule, ideally with the intent of shaming individuals, corporations, government, or society itself into improvement. Although satire is usually meant to be humorous, its greater purpose is often constructive social criticism, using wit to draw attention to both particular and wider issues in society. 
+
+A feature of satire is strong irony or sarcasm—"in satire, irony is militant"—but parody, burlesque, exaggeration, juxtaposition, comparison, analogy, and double entendre are all frequently used in satirical speech and writing. This "militant" irony or sarcasm often professes to approve of (or at least accept as natural) the very things the satirist wishes to attack. 
+
+Satire is nowadays found in many artistic forms of expression, including internet memes, literature, plays, commentary, television shows, and media such as lyrics. 
+
+The word satire comes from the Latin word "satur" and the subsequent phrase "." "Satur" meant "full" but the juxtaposition with "lanx" shifted the meaning to "miscellany or medley": the expression "lanx satura" literally means "a full dish of various kinds of fruits." 
+
+The word "satura" as used by Quintilian, however, was used to denote only Roman verse satire, a strict genre that imposed hexameter form, a narrower genre than what would be later intended as "satire". Quintilian famously said that "satura," that is a satire in hexameter verses, was a literary genre of wholly Roman origin ("satura tota nostra est"). He was aware of and commented on Greek satire, but at the time did not label it as such, although today the origin of satire is considered to be Aristophanes' Old Comedy. The first critic to use the term "satire" in the modern broader sense was Apuleius.
+History:
+What was it used for?
+to denote only Roman verse satire,
+Ambiguous Question:
+what did he say about it?
+Ground Truth: Who are you referring?
+
+
+3sle99er0ndvrub20u40f64nu0bzb2|18|2
+Story:
+Jane's doll, Samantha, was a magical doll. Jane kept Samantha hidden from her friends, even Julie, who was her best friend. Jane didn't want all the other girls from school, like Wanda and Ruth, to find out that she had a magical doll. Samantha could do things other dolls couldn't. Jane would whisper in her ear a secret word, and all of a sudden Samantha would come to life, hopping around, running all over. But Samantha did more than run, she could talk. Jane told Samantha everything, and Samantha understood. One day, Jane was naughty and lied to her mother. Jane's mother put Samantha on top of the refrigerator where Jane could not get to her. Jane was very sad. The one person she told everything to was out of her reach. The next day, Jane had one of the worst days of her life. She needed to tell someone, but Julie wasn't around. She needed Samantha. She had no ladder, chair, or stool to reach her. Julie moved the kitchen table forward towards the refrigerator, and hopped on top. She started to climb up to reach for Samantha, and grabbed her quickly. She came down, dropping Samantha on the floor, and broke Samantha. Jane whispered the secret word, but Samantha didn't awake. Samantha's powers were gone. She couldn't walk, run, talk, or listen. Jane hurt her the one person she could trust the most. Then, Samantha moved, looked at Jane, and a tear came from her eye. Samantha's eyes closed, and she was without life. She cried no more.
+History:
+how?
+Jane would whisper a secret word
+Ambiguous Question:
+What did she do then?
+Ground Truth: Do you mean Samantha?
+
+
+33l7pjkhcgyg3k4wrqv82gd50sbt8b|18|2
+Story:
+CHAPTER XLII. 
+
+GEORGE II. A.D. 1725--1760. 
+
+The reign of George II. was a very warlike one. Indeed he was the last king of England who ever was personally in a battle; and, curiously enough, this battle--that of Fontenoy--was the last that a king of France also was present in. It was, however, not a very interesting battle; and it was not clear who really won it, nor are wars of this time very easy to understand. 
+
+The battle of Fontenoy was fought in the course of a great war to decide who would be emperor of Germany, in which France and England took different sides; and this made Charles Edward Stuart, the eldest son of James, think it was a good moment for trying once again to get back the crown of his forefathers. He was a fine-looking young man, with winning manners, and a great deal more spirit than his father: and when he landed in Scotland with a very few followers, one Highland gentleman after another was so delighted with him that they all brought their clans to join him, and he was at the head of quite a large force, with which he took possession of the town of Edinburgh; but he never could take the castle. The English army was most of it away fighting in Germany, and the soldiers who met him at Prestonpans, close to Edinburgh, were not well managed, and were easily beaten by the Highlanders. Then he marched straight on into England: and there was great terror, for the Highlanders--with their plaids, long swords, and strange language--were thought to be all savage robbers, and the Londoners expected to have every house and shop ruined and themselves murdered: though on the whole the Highlanders behaved very well. They would probably have really entered London if they had gone on, and reached it before the army could come home, but they grew discontented and frightened at being so far away from their own hills; and at Derby. Charles Edward was obliged to let them turn back to Scotland. 
+History:
+Was he old?
+No
+Ambiguous Question:
+How did they dress for battle?
+Ground Truth: Do you mean the English army or the Highlanders?
+
+
+30mvjzjnhmdm3mr1koni06l7n9v9jv|4|2
+Story:
+South Georgia and the South Sandwich Islands (SGSSI) is a British overseas territory in the southern Atlantic Ocean. It is a remote and inhospitable collection of islands, consisting of South Georgia and a chain of smaller islands known as the South Sandwich Islands. South Georgia is long and wide and is by far the largest island in the territory. The South Sandwich Islands lie about southeast of South Georgia. The territory's total land area is . The Falkland Islands are about north-west from its nearest point. 
+
+There is no permanent population on the islands. The present inhabitants are the British Government Officer, Deputy Postmaster, scientists, and support staff from the British Antarctic Survey who maintain scientific bases at Bird Island and at the capital, King Edward Point, as well as museum staff at nearby Grytviken. 
+
+The United Kingdom claimed sovereignty over South Georgia in 1775 and the South Sandwich Islands in 1908. The territory of "South Georgia and the South Sandwich Islands" was formed in 1985; previously it had been governed as part of the Falkland Islands Dependencies. Argentina claimed South Georgia in 1927 and claimed the South Sandwich Islands in 1938. 
+
+Argentina maintained a naval station, Corbeta Uruguay, on Thule Island in the South Sandwich Islands from 1976 until 1982 when it was closed by the Royal Navy. The Argentine claim over South Georgia contributed to the 1982 Falklands War, during which Argentine forces briefly occupied the island. Argentina continues to claim sovereignty over South Georgia and the South Sandwich Islands.
+History:
+Before or after?
+after
+Ambiguous Question:
+In what year?
+Ground Truth: Do you mean when the United Kingdom declared sovereignty over the South Sandwich Islands?
+
+
+3dygaii7pl8ohwblw33ojxx853jqp1|10|2
+Story:
+(RollingStone.com) -- Jon Stewart says that his Rally to Restore Sanity -- and Stephen Colbert's sister event, March to Keep Fear Alive -- are not meant to counter Glenn Beck's Restoring Honor event of last August. 
+
+"The march is like everything that we do, just a construct ... to translate the type of material that Stephen and I do on "The Daily Show" and "Colbert Report," Stewart said at a Q&A last night at New York's 92nd Street Y. 
+
+Instead, the rallies are meant to satirize the political process, and the news coverage spawned from it. 
+
+"I'm less upset about politicians than the media," Stewart, who was quoted by The Hollywood Reporter, said, adding that he "very much" wanted to avoid claims that his rally was a response to Beck's. 
+
+Obama in command: The Rolling Stone interview 
+
+The Rally to Restore Sanity and March to Keep Fear Alive will take place in Washington, D.C. on October 30th. (Halloween costumes will likely be involved.) 
+
+"Think of our event as Woodstock, but with the nudity and drugs replaced by respectful disagreement; the Million Man March, only a lot smaller, and a bit less of a sausage fest; or the Gathering of the Juggalos, but instead of throwing our feces at Tila Tequila, we'll be actively not throwing our feces at Tila Tequila," goes a description on the Rally to Restore Sanity site. 
+
+Matt Taibbi: The truth about the Tea Party 
+
+Conservative host Bill O'Reilly has declined Stewart's invitation to appear at his rally. President Barack Obama, meanwhile, said he was "amused" by the idea. 
+History:
+Will they be very somber?
+No
+Ambiguous Question:
+Who decided not to go?
+Ground Truth: Do you mean who decided not to go to the Rally to Restore Sanity or the Restoring Honor event?
+
+
+3wakvudhuwgr3je2hqtctc3c926u77|12|2
+Story:
+Bhutan, officially the Kingdom of Bhutan, is a landlocked country in South Asia. Located in the Eastern Himalayas, it is bordered by Tibet Autonomous Region in the north, India in the south, the Sikkim state of India and the Chumbi Valley of Tibet in the west, and Arunachal Pradesh state of India in the east. Bhutan is geopolitically in South Asia and is the region's second least populous nation after the Maldives. Thimphu is its capital and largest city, while Phuntsholing is its financial center. 
+
+The independence of Bhutan has endured for centuries, and the territory was never colonized in its history. Situated on the ancient Silk Road between Tibet, the Indian subcontinent and Southeast Asia, the Bhutanese state developed a distinct national identity based on Buddhism. Headed by a spiritual leader known as the Zhabdrung Rinpoche, the territory was composed of many fiefdoms and governed as a Buddhist theocracy. Following a civil war in the 19th century, the House of Wangchuck reunited the country and established relations with the British Empire. Bhutan fostered a strategic partnership with India during the rise of Chinese communism and has a disputed border with the People's Republic of China. In 2008, it transitioned from an absolute monarchy to a constitutional monarchy and held the first election to the National Assembly of Bhutan, that has a two party system characterizing Bhutanese democracy.
+History:
+Where does it rank in city size?
+it is the largest city
+Ambiguous Question:
+Where is it situated?
+Ground Truth: Do you mean Thimphu or the country Bhutan?
+
+
+3ea3qwiz4iv9sqg90c7zf57j4ubitg|6|2
+Story:
+Vancouver is a coastal seaport city in Canada, located in the Lower Mainland region of British Columbia. As the most populous city in the province, the 2016 census recorded 631,486 people in the city, up from 603,502 in 2011. The Greater Vancouver area had a population of 2,463,431 in 2016, making it the third-largest metropolitan area in Canada. Vancouver has the highest population density in Canada with over 5,400 people per square kilometre. With over 250,000 residents, Vancouver is the fourth-most densely populated city in North America behind New York City, San Francisco, and Mexico City according to the 2011 census. Vancouver is one of the most ethnically and linguistically diverse cities in Canada according to that census; 52% of its residents have a first language other than English. Vancouver is classed as a Beta global city. 
+
+Vancouver is consistently named as one of the top five worldwide cities for livability and quality of life, and the Economist Intelligence Unit acknowledged it as the first city ranked among the top-ten of the world's most well-living cities for five consecutive years. Vancouver has hosted many international conferences and events, including the 1954 British Empire and Commonwealth Games, UN Habitat I, Expo 86, the World Police and Fire Games in 1989 and 2009; and the 2010 Winter Olympics and Paralympics which were held in Vancouver and Whistler, a resort community north of the city. In 2014, following thirty years in California, the TED conference made Vancouver its indefinite home. Several matches of the 2015 FIFA Women's World Cup were played in Vancouver, including the final at BC Place.
+History:
+And another?
+San Francisco
+Ambiguous Question:
+Can you name one more?
+Ground Truth: Are you asking for another city in North America?
+
+
+3p59jyt76lk5h527b9m7sp02eunt2g|7|2
+Story:
+Louisville ( , or ) is the largest city in the Commonwealth of Kentucky and the 29th-most populous city in the United States. It is one of two cities in Kentucky designated as first-class, the other being the state's second-largest city of Lexington. Louisville is the historical seat and, since 2003, the nominal seat of Jefferson County. 
+
+Louisville was founded in 1778 by George Rogers Clark and is named after King Louis XVI of France, making Louisville one of the oldest cities west of the Appalachian Mountains. Sited beside the Falls of the Ohio, the only major obstruction to river traffic between the upper Ohio River and the Gulf of Mexico, the settlement first grew as a portage site. It was the founding city of the Louisville and Nashville Railroad, which grew into a system across 13 states. Today, the city is known as the home of the Kentucky Derby, Kentucky Fried Chicken, the University of Louisville and its Louisville Cardinals athletic teams, Louisville Slugger baseball bats, and three of Kentucky's six "Fortune" 500 companies. Its main airport is also the site of United Parcel Service's worldwide air hub. 
+
+Since 2003, Louisville's borders have been the same as those of Jefferson County because of a city-county merger. The official name of this consolidated city-county government is the Louisville/Jefferson County Metro Government, abbreviated to Louisville Metro. Despite the merger and renaming, the term "Jefferson County" continues to be used in some contexts in reference to Louisville Metro, particularly including the incorporated cities outside the "balance" which make up Louisville proper. The city's total consolidated population as of the 2014 census estimate was 760,026. However, the balance total of 612,780 excludes other incorporated places and semiautonomous towns within the county and is the population listed in most sources and national rankings.
+History:
+is it home to any thing else?
+Kentucky Fried Chicken
+Ambiguous Question:
+what is it the main site of?
+Ground Truth: Are you asking what it is the county seat of?
+
+
+3v26sbztbder9sei68k31obqkyzzzz|15|2
+Story:
+The American Broadcasting Company (ABC) (stylized in its logo as abc since 1957) is an American commercial broadcast television network that is owned by the Disney–ABC Television Group, a subsidiary of Disney Media Networks division of The Walt Disney Company. The network is part of the Big Three television networks. The network is headquartered on Columbus Avenue and West 66th Street in Manhattan, with additional major offices and production facilities in New York City, Los Angeles and Burbank, California. 
+
+ABC originally launched on October 12, 1943 as a radio network, separated from and serving as the successor to the NBC Blue Network, which had been purchased by Edward J. Noble. It extended its operations to television in 1948, following in the footsteps of established broadcast networks CBS and NBC. In the mid-1950s, ABC merged with United Paramount Theatres, a chain of movie theaters that formerly operated as a subsidiary of Paramount Pictures. Leonard Goldenson, who had been the head of UPT, made the new television network profitable by helping develop and greenlight many successful series. In the 1980s, after purchasing an 80% interest in cable sports channel ESPN, the network's parent merged with Capital Cities Communications, owner of several print publications, and television and radio stations. In 1996, most of Capital Cities/ABC's assets were purchased by The Walt Disney Company.
+History:
+For how much?
+unknown
+Ambiguous Question:
+By who?
+Ground Truth: Do you mean who purchased the NBC Blue Network?
+
+
+3f1567xtnw53p9vefe7rx7xt13d9qa|13|2
+Story:
+Minot, North Dakota (CNN) -- A spontaneous burst of applause broke out at a Saturday press conference in Minot, North Dakota, when the city's mayor said the Souris River should crest overnight -- about 12 feet higher than flood stage, but several inches short of what had been feared. 
+
+"This is great news," said Mayor Curt Zimbelman. 
+
+This prediction from the National Weather Service proved a rare bright spot in what has been, and continues to be, a trying time for citizens in Minot and neighboring communities. 
+
+The Souris River, which locals call "The Mouse" after the French translation of its name, flows through the center of Minot, a city of about 36,000. About a third of the city's population is under evacuation orders, while at least 3,000 homes have been flooded. 
+
+One resident, Stuart Dull, told CNN about how he, his wife and two children feverishly packed up their belongings ahead of the approaching waters. What they could move out is stashed in a garage, while the family has found a temporary home in a relative's basement. 
+
+"Words kind of escape me," said Dull, describing his feeling after later sneaking back toward his home and seeing it under water. "It's a sense of despair ... and it's maybe a check on some of the things that you hold dear." 
+
+Stuart Collum said he spotted the silver chimney and black roof of his house, where he has lived since 1968, on Saturday -- with the rest of the dwelling under water. 
+History:
+How many houses are gone?
+at least 3,000 homes
+Ambiguous Question:
+Who talked to the reporter?
+Ground Truth: Are you asking who spoke at the press conference to all the gathered reporters or are you asking which of the citizens spoke to the CNN reporter specifically or are you asking about the man who spotted the silver chimney?
+
+
+3ermj6l4dys8qb9t8o2q22miw4fm7v|14|2
+Story:
+It takes more than just practice to become an Olympian. Gold medal performances require some serious nutrition. Have you ever wondered what these successful athletes eat to stay in peak shape? 
+
+Keri Glassman, a registered dietitian and founder of Nutritious Life Meals, appeared on "Good Morning America" today to give you a glimpse into the diets of some top athletes. Some of their meals could surprise you. 
+
+Crazy Calorie Count 
+
+_ One secret of swimmer Michael Phelps' astonishing performance in the 2008 Olympics in Beijing was consuming as many as 12,000 calories in one day. 
+
+Athletes can eat like this and not gain any weight because their workouts are intense. According to Glassman, Phelps' workouts can burn 4,000 to 6,000 calories in a day, and those calories must be replenished in order to train the following day. 
+
+Snacking Secrets 
+
+Some athletes eat wacky (strange, unusual) foods that they swear improve their performance. Yohan Blake, the Jamaica sprinter and 100-meter world champion, has been making waves for stealing champion sprinter Usain Bolt's thunder on the track during the Olympic trials. Asked about how he gets his stamina, Blake answered that he eats 16 bananas per day, Glassman said. 
+
+Jonathan Horton, the lead gymnast on the US team, has a blood sugar problem. His solution is honey. When he starts to feel shaky at the gym, he takes swigs of honey to boost his energy, Glassman said. 
+
+Foods for Recovery 
+
+What are the best foods to help the body recover after rigorous (strict) competition? 
+
+For Olympic swimmer Ryan Lochte, the recovery meal is grilled chicken breasts with Alfredo sauce, whole-grain spaghetti and a salad with lemon juice and olive oil. Lochte, who recently cut out junk food, candy and soda, has undertaken a rigorous strength-training regimen that involves flipping tractor tires, dragging shipyard chains and tossing beer kegs, Glassman said.
+History:
+What else?
+candy and soda
+Ambiguous Question:
+What does he throw to gain strength?
+Ground Truth: Are you asking what Ryan Lochte throws?
+
+
+3d8you6s9ek8zj0xygokny3gep1u6j|13|2
+Story:
+CHAPTER XXVI 
+
+THE SKATING RACE 
+
+For nearly half a mile Peter Slade kept the lead with ease, but then his breath began to fail him. Looking over his shoulder, he saw both Larry and Dick crawling up. 
+
+"No, you don't!" he muttered, and put on a fresh burst of speed that increased his lead by two yards. 
+
+"Peter Slade is going to win!" 
+
+"See how he is running away from the others!" 
+
+So the cries arose and it certainly looked as if the youth mentioned could not possibly be defeated. 
+
+But now both Larry and Dick "dug in for all they were worth," as they themselves expressed it. While there was yet a quarter of a mile to be covered Dick made a spurt and ranged up alongside of his chum. 
+
+"Sorry, but I've got to go ahead!" he cried, gaily. 
+
+"Come on, we'll both go!" yelled Larry, good naturedly, and then the pair put on a fresh effort and in a moment ranged up on either side of Peter Slade. 
+
+"Hullo, they are in a line!" 
+
+"There goes Larry Colby ahead!" 
+
+"Dick Rover is going with him!" 
+
+"Say, but that is skating, eh? Just look at Dick strike out!" 
+
+"Sandwick is coming up, too!" 
+
+"And so is Marley!" 
+
+The last reports were true. The fourth and fifth boy were now directly behind Slade. As Dick and Larry shot ahead, still side by side, Sandwick overtook Slade and so did Marley. In the meantime the sixth boy had lost a skate and dropped out. 
+History:
+who?
+Dick
+Ambiguous Question:
+were they friends?
+Ground Truth: Do you mean Larry and Dick?
+
+
+37w3jxsd668na7z8zzydod86yhkwy3|4|2
+Story:
+(CNN) -- With Walter White dead, fans everywhere are mourning, celebrating, tallying up bets and discussing what just happened. Was the series finale of "Breaking Bad" satisfying? Did it tie up all loose ends? Did the character you wanted to live survive and did the ones you wanted to die get their just deserts? Is it sending you back to the beginning to binge watch it all over again? 
+
+Just when it seemed Walt was heading out of his New Hampshire hideaway to exact revenge on Elliot and Gretchen Schwartz (for dismissing his involvement with Gray Matter Technologies in the episode previous), he pulled the first of several surprises of the evening. Instead of threatening to kill them outright, he asks them to set up a trust fund so that his children would benefit from the money he'd illegally amassed (presumably the goal of his entire meth enterprise to begin with). 
+
+Gretchen and Elliott of course are terrified by his sudden appearance in their ritzy new home, but had they been paying attention, they would have seen Walt waltz on in. His entrance is a bit ironic, considering their wealth and legitimacy is in some way a result of his earlier contributions. He's always been there, in the shadows, whether they acknowledged him or not. 
+
+Bryan Cranston, man of the moment 
+
+Walt wants them to "make it right," but of course, he knows he can't trust them to take care of his kids on a handshake alone, so he brought backup -- two "hitmen" who shine sniper-style red lights on the Schwartzes to lend credibility to Walt's threat that if for any reason his children don't receive the money, "a kind of countdown begins," in which they would be killed. It's a bluff, but they don't know that, so it's a win-win. Walt's children will get the money in a semi-legal fashion, and no one will actually die in the process. 
+History:
+What show was he in?
+Breaking Bad
+Ambiguous Question:
+What was his business?
+Ground Truth: Do you mean with the Schwartz's?
+
+
+35k3o9huabdntgwm99cjdmuqlp6fe0|9|2
+Story:
+Marvel counts among its characters such well-known superheroes as Spider-Man, Iron Man, Captain America, Wolverine, Thor, Hulk, Ant-Man, such teams as the Avengers, the Guardians of the Galaxy, the Fantastic Four, the Inhumans and the X-Men, and antagonists such as Doctor Doom, The Enchantress, Green Goblin, Ultron, Doctor Octopus, Thanos, Magneto and Loki. Most of Marvel's fictional characters operate in a single reality known as the Marvel Universe, with locations that mirror real-life cities. Characters such as Spider-Man, the Fantastic Four, the Avengers, Daredevil and Doctor Strange are based in New York City, whereas the X-Men have historically been based in Salem Center, New York and Hulk's stories often have been set in the American Southwest. 
+
+Martin Goodman founded the company later known as Marvel Comics under the name Timely Publications in 1939. Martin Goodman, a pulp magazine publisher who had started with a Western pulp in 1933, was expanding into the emerging—and by then already highly popular—new medium of comic books. Launching his new line from his existing company's offices at 330 West 42nd Street, New York City, he officially held the titles of editor, managing editor, and business manager, with Abraham Goodman officially listed as publisher.
+History:
+is one named?
+Yes
+Ambiguous Question:
+what is it called?
+Ground Truth: Are you asking the name of the publisher?
+
+
+3vw04l3zlt6dz2eo488x7if4547xxk|14|2
+Story:
+All the animals were having a picnic. Turtle brought hotdogs for everyone. All the animals came to make their hotdogs. Rabbit put ketchup on his hotdog. Duck put mustard on his hotdog. Bear put ketchup and mustard on his hotdog. Turtle and Fox did not put ketchup or mustard on their hotdog. Goose looked at the hotdogs. He did not like hotdogs at all. He was very hungry. He looked around for something else to eat. Duck had brought chips, but Goose did not like chips. Bear had brought salad, but Goose did not like salad. Fox had brought apples, but Goose did not like apples. Rabbit brought carrots, but Goose did not like carrots. Goose looked around for something that he liked. Then he saw something near the edge of the meadow. It was a bunch of red strawberries. Goose liked strawberries very much. He took a basket and gathered up as many strawberries as he could and brought them to the picnic. Everyone was happy, and Goose was not hungry any more.
+History:
+who?
+Goose
+Ambiguous Question:
+why?
+Ground Truth: Are you asking why good didn't eat?
+
+
+3b1nlc6ugzwx47h7t7ycpjt60iagp1|10|2
+Story:
+All the animals were having a picnic. Turtle brought hotdogs for everyone. All the animals came to make their hotdogs. Rabbit put ketchup on his hotdog. Duck put mustard on his hotdog. Bear put ketchup and mustard on his hotdog. Turtle and Fox did not put ketchup or mustard on their hotdog. Goose looked at the hotdogs. He did not like hotdogs at all. He was very hungry. He looked around for something else to eat. Duck had brought chips, but Goose did not like chips. Bear had brought salad, but Goose did not like salad. Fox had brought apples, but Goose did not like apples. Rabbit brought carrots, but Goose did not like carrots. Goose looked around for something that he liked. Then he saw something near the edge of the meadow. It was a bunch of red strawberries. Goose liked strawberries very much. He took a basket and gathered up as many strawberries as he could and brought them to the picnic. Everyone was happy, and Goose was not hungry any more.
+History:
+what was the others reaction?
+Everyone was happy
+Ambiguous Question:
+was he hungry?
+Ground Truth: Do you mean at first?
+
+
+3rxpczqmqpbunfy585nmonb8w0j1gs|12|2
+Story:
+Marcel lived on a farm. Every morning when he woke up, he got dressed, washed his face, and then helped his Pa with the chores before having breakfast. After breakfast, he walked with his sisters to the school in the town. 
+
+One day on his way to school, Marcel remembered he left his books on the table. "Oh no!" he said. "I forgot my books!" 
+
+His older sister Lucianne frowned. "Oh, Marcel, how could you be so forgetful? You'll have to go home and get them." 
+
+Marcel's younger sister Paula was excited. "I can go get your books for you," she said. 
+
+"No," Marcel said. "You're too young to go home by yourself. It'll have to be me." 
+
+"Be careful," Lucianne warned him. "And hurry, or you'll be late for school." 
+
+Marcel chose to leave the road so he could get home faster. So he left the road and ran into the grassy pasture, passing by a group of lambs. The shepherd waved at him as he ran past.
+History:
+Who received the wave?
+Marcel
+Ambiguous Question:
+Was he walking?
+Ground Truth: Are you asking if Marcel was walking?
+
+

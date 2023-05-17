@@ -1,0 +1,279 @@
+id,model,cq,grammatical_correctness,diversity,clariscore,relevance
+32xvdsjfpzx14acn2clv6b5aksj2ms|5|2,ft5-large,What did John do after his teacher asked him to stay after class to clean off the chalkboard and empty the pencil sharpener?,5,4,4,1
+32xvdsjfpzx14acn2clv6b5aksj2ms|5|2,ft5-large,What happened the first time John helped the teacher?,5,4,5,5
+,,,,,,
+32xvdsjfpzx14acn2clv6b5aksj2ms|5|2,bart,"What happened when John helped out his teacher?
+",5,1,5,5
+32xvdsjfpzx14acn2clv6b5aksj2ms|5|2,bart,"What happened when John helped out his teacher?
+",5,1,5,5
+,,,,,,
+32xvdsjfpzx14acn2clv6b5aksj2ms|5|2,ft5-xl,how did the other kids in his class no longer throw snowballs at him?,5,4,4,2
+32xvdsjfpzx14acn2clv6b5aksj2ms|5|2,ft5-xl,What happened to John after he helped his teacher?,5,4,5,5
+,,,,,,
+32xvdsjfpzx14acn2clv6b5aksj2ms|5|2,ft5-small,What happened when John helped him out?,5,4,4,3
+32xvdsjfpzx14acn2clv6b5aksj2ms|5|2,ft5-small,How long did John get the help from his teacher?,5,4,3,2
+,,,,,,
+32xvdsjfpzx14acn2clv6b5aksj2ms|5|2,ft5-base,Why did John end up being much better at math?,5,4,3,2
+32xvdsjfpzx14acn2clv6b5aksj2ms|5|2,ft5-base,"After he helped the other kids, he became much better at math?",5,4,2,2
+,,,,,,
+32xvdsjfpzx14acn2clv6b5aksj2ms|5|2,t5_kldiv,"What happened when John helped the teacher?
+",5,5,4,4
+32xvdsjfpzx14acn2clv6b5aksj2ms|5|2,t5_kldiv,"What happened when John helped the pretty girl in the math class?
+",5,5,4,4
+,,,,,,
+32xvdsjfpzx14acn2clv6b5aksj2ms|5|2,t5_canard,"What happened when John helped out his teacher after school?
+",5,2,5,5
+32xvdsjfpzx14acn2clv6b5aksj2ms|5|2,t5_canard,"What happened when John helped the teacher out?
+",5,2,5,5
+,,,,,,
+,,,,,,
+3tvss0c0e10rtl0eptbegwgrj6itw9|11|2,t5_canard,"Then where did Joey and Jimmy go to go to sleep?
+",5,4,3,3
+3tvss0c0e10rtl0eptbegwgrj6itw9|11|2,t5_canard,"After going to the pond, where did Joey and Jimmy go?
+",5,4,5,3
+,,,,,,
+3tvss0c0e10rtl0eptbegwgrj6itw9|11|2,ft5-xl,Where did Joey and Jimmy walk home from the pond?,5,5,3,3
+3tvss0c0e10rtl0eptbegwgrj6itw9|11|2,ft5-xl,Where did they go after he had eaten?,5,5,3,3
+,,,,,,
+3tvss0c0e10rtl0eptbegwgrj6itw9|11|2,bart,"Do you mean where did Joey and Jimmy go?
+",5,4,2,2
+3tvss0c0e10rtl0eptbegwgrj6itw9|11|2,bart,"Where did Joey and Jimmy go to play outside?
+",5,4,2,3
+,,,,,,
+3tvss0c0e10rtl0eptbegwgrj6itw9|11|2,ft5-small,Where did Joey and Jimmy go after they swam at their Aunt Julie's pond?,5,4,4,4
+3tvss0c0e10rtl0eptbegwgrj6itw9|11|2,ft5-small,Where did Joey and Jimmy go?,5,4,2,3
+,,,,,,
+3tvss0c0e10rtl0eptbegwgrj6itw9|11|2,ft5-base,Where did Joey and Jimmy go after they left?,5,4,2,2
+3tvss0c0e10rtl0eptbegwgrj6itw9|11|2,ft5-base,Where were they swimming together?,5,4,4,4
+,,,,,,
+3tvss0c0e10rtl0eptbegwgrj6itw9|11|2,t5_kldiv,"After their adventure, where did Joey and Jimmy go?
+",5,4,3,4
+3tvss0c0e10rtl0eptbegwgrj6itw9|11|2,t5_kldiv,"After eat some food that Joey's mom made and go off to bed, where did Joey and Jimmy go?
+",5,4,3,2
+,,,,,,
+3tvss0c0e10rtl0eptbegwgrj6itw9|11|2,ft5-large,Where did Joey and Jimmy swim?,5,4,4,4
+3tvss0c0e10rtl0eptbegwgrj6itw9|11|2,ft5-large,Where did Joey and Jimmy take a walk after swimming?,5,4,4,3
+,,,,,,
+,,,,,,
+3igi0vl647kltzms1bysq3xdrrnonr|6|2,ft5-base,Who was Henri Matisse greatly influenced by his painting of ballet dancers?,5,5,3,2
+3igi0vl647kltzms1bysq3xdrrnonr|6|2,ft5-base,How did Paul Cezanne influence impressionism?,5,5,3,3
+,,,,,,
+3igi0vl647kltzms1bysq3xdrrnonr|6|2,ft5-large,Henri Matisse was a prolific artist?,5,5,3,4
+3igi0vl647kltzms1bysq3xdrrnonr|6|2,ft5-large,Did Claude Monet have a unique style?,5,5,3,4
+,,,,,,
+3igi0vl647kltzms1bysq3xdrrnonr|6|2,bart,"What kind of artist was Henri Matisse?
+",5,2,5,4
+3igi0vl647kltzms1bysq3xdrrnonr|6|2,bart,"What kind of artist was Henri Matisse?
+",5,2,5,4
+,,,,,,
+3igi0vl647kltzms1bysq3xdrrnonr|6|2,ft5-small,How did Henri Matisse work in that style?,5,5,3,2
+3igi0vl647kltzms1bysq3xdrrnonr|6|2,ft5-small,What kind of artist was Claude Monet known as?,5,5,5,4
+,,,,,,
+3igi0vl647kltzms1bysq3xdrrnonr|6|2,t5_canard,"What kind of artist was Claude Monet?
+",5,5,5,4
+3igi0vl647kltzms1bysq3xdrrnonr|6|2,t5_canard,"What kind of artist was Degas?
+",5,5,5,4
+,,,,,,
+3igi0vl647kltzms1bysq3xdrrnonr|6|2,t5_kldiv,"What kind of artist was Degas?
+",5,2,5,4
+3igi0vl647kltzms1bysq3xdrrnonr|6|2,t5_kldiv,"What kind of artist was Degas?
+",5,2,5,5
+,,,,,,
+3igi0vl647kltzms1bysq3xdrrnonr|6|2,ft5-xl,"What style were Paul Cezanne, Henri Matisse, and Degas are known for?",5,4,5,5
+3igi0vl647kltzms1bysq3xdrrnonr|6|2,ft5-xl,"Degas has a style very unique to him, what are you talking about?",5,4,5,5
+,,,,,,
+,,,,,,
+3ydtzai2wxgebz5ld4llfye57wl41m|6|2,t5_canard,"Does Wang Bing want to skate for a while?
+",5,3,3,4
+3ydtzai2wxgebz5ld4llfye57wl41m|6|2,t5_canard,"Does Wang Bing want him to skate?
+",5,4,3,2
+,,,,,,
+3ydtzai2wxgebz5ld4llfye57wl41m|6|2,ft5-xl,"No, his father doesn't want him to go skating, but why?",5,3,5,5
+3ydtzai2wxgebz5ld4llfye57wl41m|6|2,ft5-xl,Why does his father not try to let Wang Bing skate?,5,3,4,5
+,,,,,,
+3ydtzai2wxgebz5ld4llfye57wl41m|6|2,bart,"Are you asking if Wang Bing wants his father to meet him?
+",5,3,5,5
+3ydtzai2wxgebz5ld4llfye57wl41m|6|2,bart,"Do you mean Wang Bing?
+",5,3,5,5
+,,,,,,
+3ydtzai2wxgebz5ld4llfye57wl41m|6|2,t5_kldiv,"Does Wang Bing want to skate in a park?
+",5,3,3,3
+3ydtzai2wxgebz5ld4llfye57wl41m|6|2,t5_kldiv,"Does Wang Bing want him to skate?
+",5,3,3,3
+,,,,,,
+3ydtzai2wxgebz5ld4llfye57wl41m|6|2,ft5-large,"No, why not?",5,2,2,2
+3ydtzai2wxgebz5ld4llfye57wl41m|6|2,ft5-large,"No, or No in that moment",4,2,2,2
+,,,,,,
+3ydtzai2wxgebz5ld4llfye57wl41m|6|2,ft5-small,When would Wang Bing's father want Wang Bing to eat the fly?,5,5,2,1
+3ydtzai2wxgebz5ld4llfye57wl41m|6|2,ft5-small,How did Wang Bing want Wang Bing to do his homework?,5,5,2,1
+,,,,,,
+3ydtzai2wxgebz5ld4llfye57wl41m|6|2,ft5-base,Who does his father want Wang Bing's father to do his homework?,3,5,2,2
+3ydtzai2wxgebz5ld4llfye57wl41m|6|2,ft5-base,Why does Wang Bing run in front of his father after school?,5,5,2,3
+,,,,,,
+,,,,,,
+3duzq9u6smodzwnuaj1skp1raa8vsa|6|2,ft5-base,What is the name of Christopher Thomas' website?,5,3,4,4
+3duzq9u6smodzwnuaj1skp1raa8vsa|6|2,ft5-base,"What became diabeticrockstar.com after Christopher Thomas left Canton, Michigan for New York?",5,3,3,4
+,,,,,,
+3duzq9u6smodzwnuaj1skp1raa8vsa|6|2,ft5-xl,Which website did Christopher Thomas create?,5,2,4,4
+3duzq9u6smodzwnuaj1skp1raa8vsa|6|2,ft5-xl,what website did Christopher Thomas start?,5,2,4,4
+,,,,,,
+3duzq9u6smodzwnuaj1skp1raa8vsa|6|2,t5_canard,"What website did Christopher Thomas start to help people with diabetes?
+",5,3,4,4
+3duzq9u6smodzwnuaj1skp1raa8vsa|6|2,t5_canard,"What website did Christopher Thomas start with diabetes?
+",5,3,4,4
+,,,,,,
+3duzq9u6smodzwnuaj1skp1raa8vsa|6|2,bart,"What website did Christopher start?
+",5,2,4,4
+3duzq9u6smodzwnuaj1skp1raa8vsa|6|2,bart,"What website did Christopher start?
+",5,2,4,4
+,,,,,,
+3duzq9u6smodzwnuaj1skp1raa8vsa|6|2,t5_kldiv,"What website did Christopher Thomas start with diabetes?
+",5,2,4,4
+3duzq9u6smodzwnuaj1skp1raa8vsa|6|2,t5_kldiv,"What website did Christopher Thomas start?
+",5,2,4,4
+,,,,,,
+3duzq9u6smodzwnuaj1skp1raa8vsa|6|2,ft5-small,What is the winner of the first annual Diabetic Rockstar Festival in the Caribbean?,5,4,2,2
+3duzq9u6smodzwnuaj1skp1raa8vsa|6|2,ft5-small,Which website did Christopher start from?,5,4,4,3
+,,,,,,
+3duzq9u6smodzwnuaj1skp1raa8vsa|6|2,ft5-large,Who did Christopher Thomas start?,2,4,2,2
+3duzq9u6smodzwnuaj1skp1raa8vsa|6|2,ft5-large,What kind of charity does Christopher Thomas help raise money for?,5,4,3,4
+,,,,,,
+,,,,,,
+3dbqwde4y6yzlpgaww2thxxmay5n5c|18|2,ft5-large,What did Angie draw in the adult reading room?,5,5,5,5
+3dbqwde4y6yzlpgaww2thxxmay5n5c|18|2,ft5-large,What did Angie draw in the mystery room?,5,5,5,5
+,,,,,,
+3dbqwde4y6yzlpgaww2thxxmay5n5c|18|2,t5_kldiv,"what did Angie draw?
+",5,3,4,3
+3dbqwde4y6yzlpgaww2thxxmay5n5c|18|2,t5_kldiv,"what did Angie draw as a child?
+",5,3,4,4
+,,,,,,
+3dbqwde4y6yzlpgaww2thxxmay5n5c|18|2,bart,"What did Angie draw?
+",5,2,4,3
+3dbqwde4y6yzlpgaww2thxxmay5n5c|18|2,bart,"What did Angie draw?
+",5,2,4,3
+,,,,,,
+3dbqwde4y6yzlpgaww2thxxmay5n5c|18|2,ft5-small,What was Miss Hudson drawing when Miss Hudson and Miss Hudson checked out the books?,5,3,3,2
+3dbqwde4y6yzlpgaww2thxxmay5n5c|18|2,ft5-small,What did Miss Hudson draw at home?,5,3,3,2
+,,,,,,
+3dbqwde4y6yzlpgaww2thxxmay5n5c|18|2,t5_canard,"what did Angie draw in the picture of her best friend Lilly?
+",5,5,3,2
+3dbqwde4y6yzlpgaww2thxxmay5n5c|18|2,t5_canard,"what did Angie draw for the story hour?
+",5,5,4,5
+,,,,,,
+3dbqwde4y6yzlpgaww2thxxmay5n5c|18|2,ft5-base,How did Angie make a drawing of her mother?,5,3,3,2
+3dbqwde4y6yzlpgaww2thxxmay5n5c|18|2,ft5-base,What did Angie draw?,5,3,4,3
+,,,,,,
+3dbqwde4y6yzlpgaww2thxxmay5n5c|18|2,ft5-xl,which books did she draw when she was at the library?,5,5,2,2
+3dbqwde4y6yzlpgaww2thxxmay5n5c|18|2,ft5-xl,"In the adult reading room, what did Angie draw?",5,5,5,5
+,,,,,,
+,,,,,,
+3pxx5px6lxyuqm3uo2o1yddelnmaba|12|2,ft5-base,Is Angie laying in a blue chair?,5,4,2,3
+3pxx5px6lxyuqm3uo2o1yddelnmaba|12|2,ft5-base,What color chair did Angie sit in before the Mystery section?,5,4,2,3
+,,,,,,
+3pxx5px6lxyuqm3uo2o1yddelnmaba|12|2,bart,"Did Angie sit in a blue chair?
+",5,2,2,2
+3pxx5px6lxyuqm3uo2o1yddelnmaba|12|2,bart,"Did Angie sit in a blue chair?
+",5,2,2,2
+,,,,,,
+3pxx5px6lxyuqm3uo2o1yddelnmaba|12|2,t5_canard,"Did Angie sit in a blue chair at the library?
+",5,3,2,3
+3pxx5px6lxyuqm3uo2o1yddelnmaba|12|2,t5_canard,"did Angie sit in a blue chair at the children's room during Story Hour?
+",5,4,3,3
+,,,,,,
+3pxx5px6lxyuqm3uo2o1yddelnmaba|12|2,ft5-small,What color chair did Angie sit in?,5,4,2,2
+3pxx5px6lxyuqm3uo2o1yddelnmaba|12|2,ft5-small,How many books were drawing at home?,5,4,1,1
+,,,,,,
+3pxx5px6lxyuqm3uo2o1yddelnmaba|12|2,ft5-xl,In the children's room or in the adult reading room?,5,4,2,2
+3pxx5px6lxyuqm3uo2o1yddelnmaba|12|2,ft5-xl,During the times she sat in a brown chair and in a blue chair?,5,4,2,2
+,,,,,,
+3pxx5px6lxyuqm3uo2o1yddelnmaba|12|2,t5_kldiv,"did Angie sit in a blue chair after reading the story about friendship?
+",5,3,4,4
+3pxx5px6lxyuqm3uo2o1yddelnmaba|12|2,t5_kldiv,"did Angie sit in a blue chair at the children's room reading the story?
+",5,3,4,4
+,,,,,,
+3pxx5px6lxyuqm3uo2o1yddelnmaba|12|2,ft5-large,Yes,1,1,1,1
+3pxx5px6lxyuqm3uo2o1yddelnmaba|12|2,ft5-large,No,1,1,1,1
+,,,,,,
+,,,,,,
+3uxuoq9okex7oa04blcltbri2p17ab|4|2,bart,"What do you mean by broccoli ice cream?
+",5,4,2,2
+3uxuoq9okex7oa04blcltbri2p17ab|4|2,bart,"What type of movie is Mikey Price making?
+",5,4,3,2
+,,,,,,
+3uxuoq9okex7oa04blcltbri2p17ab|4|2,ft5-large,What movie did the kids make?,5,4,2,2
+3uxuoq9okex7oa04blcltbri2p17ab|4|2,ft5-large,Where does Oliver serve his customers broccoli ice cream?,5,4,4,4
+,,,,,,
+3uxuoq9okex7oa04blcltbri2p17ab|4|2,t5_canard,"In what does Oliver serve broccoli ice cream in?
+",5,3,4,4
+3uxuoq9okex7oa04blcltbri2p17ab|4|2,t5_canard,"What is Oliver serving in Oliver's Organic Ice Cream?
+",5,3,4,4
+,,,,,,
+3uxuoq9okex7oa04blcltbri2p17ab|4|2,ft5-small,"What movie is the Jacob Burns Film Center in Pleasantville, New York?",5,3,2,1
+3uxuoq9okex7oa04blcltbri2p17ab|4|2,ft5-small,What is the movie Oliver serves customers in?,5,3,4,4
+,,,,,,
+3uxuoq9okex7oa04blcltbri2p17ab|4|2,ft5-base,What movie is Oliver serving?,5,3,4,4
+3uxuoq9okex7oa04blcltbri2p17ab|4|2,ft5-base,Where does Oliver serve his customers in the Jane Burns Film Center?,5,3,2,1
+,,,,,,
+3uxuoq9okex7oa04blcltbri2p17ab|4|2,ft5-xl,In what format does he serve his customers?,5,5,4,3
+3uxuoq9okex7oa04blcltbri2p17ab|4|2,ft5-xl,what format is the movie Oliver's Organic Ice Cream?,5,5,2,1
+,,,,,,
+3uxuoq9okex7oa04blcltbri2p17ab|4|2,t5_kldiv,"In what is Oliver's Organic Ice Cream served?
+",5,3,5,4
+3uxuoq9okex7oa04blcltbri2p17ab|4|2,t5_kldiv,"What does Oliver serve in Oliver's Organic Ice Cream?
+",5,3,3,3
+,,,,,,
+,,,,,,
+3e13vnj1nnv8j640ytnp9zoocgr1i7|10|2,t5_canard,"Within five years we will see some won- derful improvements in robot technology., says Mike McLoughlin.
+",5,2,1,1
+3e13vnj1nnv8j640ytnp9zoocgr1i7|10|2,t5_canard,"within five years we will see some won- derful improvements in robots. According to Mike McLoughlin,Robo Sally could be used in ""dull, dirty or dangerous"" situations where fine human finger movements are required.
+",5,2,1,1
+,,,,,,
+3e13vnj1nnv8j640ytnp9zoocgr1i7|10|2,ft5-base,Roho Sally motors.,5,1,1,1
+3e13vnj1nnv8j640ytnp9zoocgr1i7|10|2,ft5-base,"Robo Sally, it's the human-like robot that is designed for use in dangerous situations.",5,1,1,1
+,,,,,,
+3e13vnj1nnv8j640ytnp9zoocgr1i7|10|2,ft5-large,World-class performances.,5,1,1,1
+3e13vnj1nnv8j640ytnp9zoocgr1i7|10|2,ft5-large,Robo Sally has two long arms with human-like hands.,5,1,1,1
+,,,,,,
+3e13vnj1nnv8j640ytnp9zoocgr1i7|10|2,ft5-small,Robo Sally will be operated by a human being using the artificial hand.,5,1,1,1
+3e13vnj1nnv8j640ytnp9zoocgr1i7|10|2,ft5-small,Robo Sally will be operated by a human being using a wireless machine as far away.,5,1,1,1
+,,,,,,
+3e13vnj1nnv8j640ytnp9zoocgr1i7|10|2,bart,"What was involved in creating Robo Sally?
+",5,4,4,5
+3e13vnj1nnv8j640ytnp9zoocgr1i7|10|2,bart,"What was involved in the design of the robot?
+",5,4,4,5
+,,,,,,
+3e13vnj1nnv8j640ytnp9zoocgr1i7|10|2,t5_kldiv,"Until 2020, will robots make progress?
+",5,3,1,1
+3e13vnj1nnv8j640ytnp9zoocgr1i7|10|2,t5_kldiv,"Within five years we will see some won- derful improvements in robot technology.
+",5,3,1,1
+,,,,,,
+3e13vnj1nnv8j640ytnp9zoocgr1i7|10|2,ft5-xl,Robo Sally will work safely under the direction of a human being,5,1,1,1
+3e13vnj1nnv8j640ytnp9zoocgr1i7|10|2,ft5-xl,Robo Sally can do what?,5,1,1,1
+,,,,,,
+,,,,,,
+3spj033421314nz9s0fyzneywhyyjp|17|2,bart,"What titles did Cary Sherman hold in 2010?
+",5,3,2,3
+3spj033421314nz9s0fyzneywhyyjp|17|2,bart,"Did he hold those titles in 2010?
+",5,3,2,3
+,,,,,,
+3spj033421314nz9s0fyzneywhyyjp|17|2,t5_canard,"Did Cary Sherman hold the titles of chairman and CEO of the RIAA in 2010?
+",5,3,5,5
+3spj033421314nz9s0fyzneywhyyjp|17|2,t5_canard,"Did Cary Sherman hold the titles of chairman and CEO in 2010?
+",5,3,5,5
+,,,,,,
+3spj033421314nz9s0fyzneywhyyjp|17|2,ft5-small,What title has Cary Sherman been president of the RIAA after the 2010 professional tenure?,3,4,2,1
+3spj033421314nz9s0fyzneywhyyjp|17|2,ft5-small,How many years or years did Cary Sherman hold those titles?,5,4,2,2
+,,,,,,
+3spj033421314nz9s0fyzneywhyyjp|17|2,ft5-large,"Yes, when was Cary Sherman president of the board of directors?",5,4,3,3
+3spj033421314nz9s0fyzneywhyyjp|17|2,ft5-large,Cary Sherman held those titles in 2011?,5,4,2,2
+,,,,,,
+3spj033421314nz9s0fyzneywhyyjp|17|2,ft5-xl,Was Cary Sherman still the general counsel in 2010?,1,2,5,5
+3spj033421314nz9s0fyzneywhyyjp|17|2,ft5-xl,No,1,2,1,1
+,,,,,,
+3spj033421314nz9s0fyzneywhyyjp|17|2,ft5-base,Did Cary Sherman become the president of the board of directors in 2010?,5,3,3,3
+3spj033421314nz9s0fyzneywhyyjp|17|2,ft5-base,From what position does Cary Sherman hold in 2010?,4,3,2,2
+,,,,,,
+3spj033421314nz9s0fyzneywhyyjp|17|2,t5_kldiv,"Did Cary Sherman hold the titles chairman and CEO in 2010?
+",5,3,5,5
+3spj033421314nz9s0fyzneywhyyjp|17|2,t5_kldiv,"Did Cary Sherman hold the position of chairman and CEO in 2010?
+",5,3,5,5

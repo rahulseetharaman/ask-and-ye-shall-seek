@@ -1,0 +1,923 @@
+id,model,cq,grammatical_correctness,diversity,clariscore,relevance
+32xvdsjfpzx14acn2clv6b5aksj2ms|5|2,ft5-base,What did Joe do first when his mother called?,5,5,5,5
+32xvdsjfpzx14acn2clv6b5aksj2ms|5|2,ft5-base,Why did Joe close the book before closing it?,3,5,2,3
+,,,,,,
+32xvdsjfpzx14acn2clv6b5aksj2ms|5|2,ft5-small,How did Joe's mother call him?,5,5,3,3
+32xvdsjfpzx14acn2clv6b5aksj2ms|5|2,ft5-small,Did Joe buy a book that Joe had not read before?,5,5,2,1
+,,,,,,
+32xvdsjfpzx14acn2clv6b5aksj2ms|5|2,ft5-xl,Who did Joe do before his mother called him?,3,3,3,4
+32xvdsjfpzx14acn2clv6b5aksj2ms|5|2,ft5-xl,What did Joe do when his mother called?,5,3,3,4
+,,,,,,
+32xvdsjfpzx14acn2clv6b5aksj2ms|5|2,bart,"What did Joe do first?
+",5,1,2,3
+32xvdsjfpzx14acn2clv6b5aksj2ms|5|2,bart,"What did Joe do first?
+",5,1,2,3
+,,,,,,
+32xvdsjfpzx14acn2clv6b5aksj2ms|5|2,t5_kldiv,"What did Joe do first after asking his mother to call him?
+",5,4,4,4
+32xvdsjfpzx14acn2clv6b5aksj2ms|5|2,t5_kldiv,"What did Joe do first after crying while his mother called him?
+",5,4,4,2
+,,,,,,
+32xvdsjfpzx14acn2clv6b5aksj2ms|5|2,ft5-large,What did Joe do first when his mother called him?,5,5,5,5
+32xvdsjfpzx14acn2clv6b5aksj2ms|5|2,ft5-large,Was Joe ready for dinner when his mother told him it was time for dinner?,5,5,3,3
+,,,,,,
+32xvdsjfpzx14acn2clv6b5aksj2ms|5|2,t5_canard,"What did Joe do first after his mother called him?
+",5,3,5,4
+32xvdsjfpzx14acn2clv6b5aksj2ms|5|2,t5_canard,"What did Joe do first?
+",5,3,2,4
+,,,,,,
+,,,,,,
+3tvss0c0e10rtl0eptbegwgrj6itw9|11|2,ft5-base,What are the common sources of non-market pressures on prices and wages?,5,5,5,5
+3tvss0c0e10rtl0eptbegwgrj6itw9|11|2,ft5-base,"What have Free Market anarchists, market socialists, and some proponents of cooperatives and advocates of profit sharing advocated?",5,5,5,5
+,,,,,,
+3tvss0c0e10rtl0eptbegwgrj6itw9|11|2,ft5-large,What is the laissez-faire principle?,5,5,5,5
+3tvss0c0e10rtl0eptbegwgrj6itw9|11|2,ft5-large,What do you mean by regulated market?,5,5,5,3
+,,,,,,
+3tvss0c0e10rtl0eptbegwgrj6itw9|11|2,ft5-small,What object offered you to reform free markets?,3,5,1,1
+3tvss0c0e10rtl0eptbegwgrj6itw9|11|2,ft5-small,Which is helping Free markets vary from government taxes to tariffs?,2,5,1,1
+,,,,,,
+3tvss0c0e10rtl0eptbegwgrj6itw9|11|2,t5_kldiv,"what else does Friedrich Hayek argue about free markets?
+",5,3,4,2
+3tvss0c0e10rtl0eptbegwgrj6itw9|11|2,t5_kldiv,"what else does Friedrich Hayek argue about besides preserving the unique information contained in the price itself?
+",5,3,3,2
+,,,,,,
+3tvss0c0e10rtl0eptbegwgrj6itw9|11|2,t5_canard,"what else did Friedrich Hayek argue is the goal is the preservation of the unique information contained in the price itself?
+",2,4,4,2
+3tvss0c0e10rtl0eptbegwgrj6itw9|11|2,t5_canard,"In addition to the free market economy what else is critical to Friedrich Hayek's theory?
+",5,4,4,2
+,,,,,,
+3tvss0c0e10rtl0eptbegwgrj6itw9|11|2,bart,"What did Friedrich Hayek argue in ""The Pure Theory of Capital""?
+",5,3,4,4
+3tvss0c0e10rtl0eptbegwgrj6itw9|11|2,bart,"What else is Friedrich Hayek's goal in ""The Pure Theory of Capital""?
+",5,3,4,3
+,,,,,,
+3tvss0c0e10rtl0eptbegwgrj6itw9|11|2,ft5-xl,Which other authorities are not free to intervene in the prices of goods and services?,5,5,2,5
+3tvss0c0e10rtl0eptbegwgrj6itw9|11|2,ft5-xl,How is the concept of a free market different from that of a regulated market?,5,5,2,5
+,,,,,,
+,,,,,,
+3igi0vl647kltzms1bysq3xdrrnonr|6|2,ft5-xl,What are other methods that a government may use to restrict trade and protect the economy?,5,3,3,4
+3igi0vl647kltzms1bysq3xdrrnonr|6|2,ft5-xl,what other government policies are used to restrict trade and protect the economy?,5,3,3,4
+,,,,,,
+3igi0vl647kltzms1bysq3xdrrnonr|6|2,t5_kldiv,"Besides Friedrich Hayek and the Pure Theory of Capital, are there more free market theories?
+",5,3,5,5
+3igi0vl647kltzms1bysq3xdrrnonr|6|2,t5_kldiv,"does Friedrich Hayek mention any more free markets?
+",5,3,5,5
+,,,,,,
+3igi0vl647kltzms1bysq3xdrrnonr|6|2,ft5-large,What are most common examples of non-market pressures on prices and wages?,5,3,4,4
+3igi0vl647kltzms1bysq3xdrrnonr|6|2,ft5-large,Are there more non-market estimates of the laissez-faire principle?,5,3,4,2
+,,,,,,
+3igi0vl647kltzms1bysq3xdrrnonr|6|2,ft5-small,"What policy advocates free-market anarchists, market socialists, and proponents of cooperatives and advocates of profit sharing?",3,4,3,2
+3igi0vl647kltzms1bysq3xdrrnonr|6|2,ft5-small,What are the disadvantages of certain exemptions for free market?,5,4,4,3
+,,,,,,
+3igi0vl647kltzms1bysq3xdrrnonr|6|2,bart,"Are you referring to Friedrich Hayek?
+",5,3,2,1
+3igi0vl647kltzms1bysq3xdrrnonr|6|2,bart,"Are you referring to Friedrich Hayek, Friedrich Zeller, Karl Friedrich
+",4,3,2,1
+,,,,,,
+3igi0vl647kltzms1bysq3xdrrnonr|6|2,t5_canard,"Are there any more examples of free markets in addition to the ones mentioned in the article "" The Pure Theory of Capital ""?
+",5,5,5,5
+3igi0vl647kltzms1bysq3xdrrnonr|6|2,t5_canard,"Is there more free market economics concepts mentioned?
+",5,5,5,5
+,,,,,,
+3igi0vl647kltzms1bysq3xdrrnonr|6|2,ft5-base,What criteria can free market be considered than regulated market?,3,5,3,2
+3igi0vl647kltzms1bysq3xdrrnonr|6|2,ft5-base,"What government tax, subsidies, tariffs, regulations of purely private behavior, or government-granted or coercive monopolies are mentioned here?",4,5,3,2
+,,,,,,
+,,,,,,
+3ydtzai2wxgebz5ld4llfye57wl41m|6|2,ft5-xl,Where is the current location of BBC News Online?,5,5,5,3
+3ydtzai2wxgebz5ld4llfye57wl41m|6|2,ft5-xl,Where was the award category withdrawn from BBC News Online in 2001?,5,5,2,3
+,,,,,,
+3ydtzai2wxgebz5ld4llfye57wl41m|6|2,bart,"Do you mean where was the Best News Site in the United Kingdom
+",5,5,3,4
+3ydtzai2wxgebz5ld4llfye57wl41m|6|2,bart,"What was the location of the judges' award?
+",5,5,2,2
+,,,,,,
+3ydtzai2wxgebz5ld4llfye57wl41m|6|2,ft5-small,Where is the information available to users on the site divided between BBC News Online as well as BBC Sport?,3,5,2,4
+3ydtzai2wxgebz5ld4llfye57wl41m|6|2,ft5-small,Where was the website named best news website?,5,5,2,4
+,,,,,,
+3ydtzai2wxgebz5ld4llfye57wl41m|6|2,t5_kldiv,"where was the Judges' award and the People's Voice award for best news site?
+",4,3,4,4
+3ydtzai2wxgebz5ld4llfye57wl41m|6|2,t5_kldiv,"Where was the Judges' award and the People's Voice award for best news site at the Webby Awards?
+",3,3,4,3
+,,,,,,
+3ydtzai2wxgebz5ld4llfye57wl41m|6|2,t5_canard,"where was the BBC News Online website?
+",4,1,4,4
+3ydtzai2wxgebz5ld4llfye57wl41m|6|2,t5_canard,"where was BBC News Online?
+",3,1,3,3
+,,,,,,
+3ydtzai2wxgebz5ld4llfye57wl41m|6|2,ft5-base,Where was BBC News Online known for being the most frequently accessed news website in the UK when it was withdrawn from the BAFTA Interactive Entertainment Awards?,5,5,2,3
+3ydtzai2wxgebz5ld4llfye57wl41m|6|2,ft5-base,Where are you likely to find the watchdog award from when it was withdrawn?,5,5,2,1
+,,,,,,
+3ydtzai2wxgebz5ld4llfye57wl41m|6|2,ft5-large,Where was BBC News Online listed at the BAFTA Interactive Entertainment Awards?,4,5,4,3
+3ydtzai2wxgebz5ld4llfye57wl41m|6|2,ft5-large,The site was named best news site between 1998 to 2001?,2,5,1,1
+,,,,,,
+,,,,,,
+3duzq9u6smodzwnuaj1skp1raa8vsa|6|2,ft5-small,How long did Bao Xishun catch the shark?,3,5,1,1
+3duzq9u6smodzwnuaj1skp1raa8vsa|6|2,ft5-small,How long has the 12-year-old boy been fishing every day?,5,5,2,2
+,,,,,,
+3duzq9u6smodzwnuaj1skp1raa8vsa|6|2,t5_kldiv,"How did the sheep who climbed a tree hurt anyone else?
+",3,1,1,2
+3duzq9u6smodzwnuaj1skp1raa8vsa|6|2,t5_kldiv,"How did the sheep that climbed a tree hurt them?
+",3,1,1,2
+,,,,,,
+3duzq9u6smodzwnuaj1skp1raa8vsa|6|2,ft5-xl,How was Bao Xishun hurt?,5,4,2,1
+3duzq9u6smodzwnuaj1skp1raa8vsa|6|2,ft5-xl,Bao Xishun is the tallest man in the world how did he get married?,3,4,2,1
+,,,,,,
+3duzq9u6smodzwnuaj1skp1raa8vsa|6|2,ft5-base,How was Aidan Murray Medley hurt?,5,5,5,5
+3duzq9u6smodzwnuaj1skp1raa8vsa|6|2,ft5-base,How did Aidan Murray Medley lose all feeling after catching the shark?,5,5,5,5
+,,,,,,
+3duzq9u6smodzwnuaj1skp1raa8vsa|6|2,ft5-large,How did Bao Xishun hurt Aidan?,5,5,2,3
+3duzq9u6smodzwnuaj1skp1raa8vsa|6|2,ft5-large,How did Bao Xishun hurt?,3,5,2,2
+,,,,,,
+3duzq9u6smodzwnuaj1skp1raa8vsa|6|2,bart,"How did Aidan Murray Medley hurt himself?
+",5,5,5,5
+3duzq9u6smodzwnuaj1skp1raa8vsa|6|2,bart,"How did Aidan Murray Medley lose his feeling?
+",4,5,5,5
+,,,,,,
+3duzq9u6smodzwnuaj1skp1raa8vsa|6|2,t5_canard,"How did the sheep climb a tree to feed on leaves in the Swedish town of Lund hurt them?
+",3,3,3,4
+3duzq9u6smodzwnuaj1skp1raa8vsa|6|2,t5_canard,"How did the sheep that climbed a tree hurt them?
+",5,3,3,4
+,,,,,,
+,,,,,,
+3dbqwde4y6yzlpgaww2thxxmay5n5c|18|2,ft5-small,Why is Russian and other languages considered by the two living member of the East Slavic languages?,3,5,3,3
+3dbqwde4y6yzlpgaww2thxxmay5n5c|18|2,ft5-small,Who is the family of Indo-European languages?,2,5,2,2
+,,,,,,
+3dbqwde4y6yzlpgaww2thxxmay5n5c|18|2,t5_kldiv,"What are the other countries that also use Russian?
+",5,5,5,5
+3dbqwde4y6yzlpgaww2thxxmay5n5c|18|2,t5_kldiv,"What are the countries that use Russian as a second language?
+",5,5,5,5
+,,,,,,
+3dbqwde4y6yzlpgaww2thxxmay5n5c|18|2,ft5-large,What are the more official countries that use Russian?,4,5,4,4
+3dbqwde4y6yzlpgaww2thxxmay5n5c|18|2,ft5-large,"Name the official language in Russia, Belarus, Kazakhstan, Kyrgyzstan and many minor or unrecognised territories that use Russian?",3,5,3,3
+,,,,,,
+3dbqwde4y6yzlpgaww2thxxmay5n5c|18|2,ft5-base,In which countries is Russian officially recognized in?,5,5,5,5
+3dbqwde4y6yzlpgaww2thxxmay5n5c|18|2,ft5-base,"What are the languages in Ukraine, Latvia, Estonia, and Russia?",5,5,3,5
+,,,,,,
+3dbqwde4y6yzlpgaww2thxxmay5n5c|18|2,ft5-xl,Where do the other countries that use Russian use it?,3,4,3,3
+3dbqwde4y6yzlpgaww2thxxmay5n5c|18|2,ft5-xl,Which countries use Russian as their official language?,5,4,5,5
+,,,,,,
+3dbqwde4y6yzlpgaww2thxxmay5n5c|18|2,bart,"What are the other countries that use it?
+",5,3,3,4
+3dbqwde4y6yzlpgaww2thxxmay5n5c|18|2,bart,"Are you referring to other countries that use it?
+",5,3,2,4
+,,,,,,
+3dbqwde4y6yzlpgaww2thxxmay5n5c|18|2,t5_canard,"What are the countries that also use Russian?
+",5,1,4,4
+3dbqwde4y6yzlpgaww2thxxmay5n5c|18|2,t5_canard,"what are the other countries that also use Russian?
+",5,1,4,4
+,,,,,,
+,,,,,,
+3pxx5px6lxyuqm3uo2o1yddelnmaba|12|2,t5_canard,"What was the other topping of the sandwich that Susan, Tim, and Jack put down?
+",5,4,3,5
+3pxx5px6lxyuqm3uo2o1yddelnmaba|12|2,t5_canard,"What was Susan's and Jacks topping on Johns sandwich?
+",5,4,3,5
+,,,,,,
+3pxx5px6lxyuqm3uo2o1yddelnmaba|12|2,ft5-large,What was Susan's favorite topping on the sandwich?,5,5,4,2
+3pxx5px6lxyuqm3uo2o1yddelnmaba|12|2,ft5-large,What was the ingredients one by one?,3,5,2,4
+,,,,,,
+3pxx5px6lxyuqm3uo2o1yddelnmaba|12|2,bart,"What did John eat?
+",5,5,1,3
+3pxx5px6lxyuqm3uo2o1yddelnmaba|12|2,bart,"What was the name of the sandwich?
+",5,5,1,1
+,,,,,,
+3pxx5px6lxyuqm3uo2o1yddelnmaba|12|2,ft5-base,What was Tim's first topping?,5,5,3,4
+3pxx5px6lxyuqm3uo2o1yddelnmaba|12|2,ft5-base,What was the cheese on John's sandwich?,5,5,1,2
+,,,,,,
+3pxx5px6lxyuqm3uo2o1yddelnmaba|12|2,ft5-xl,what type of topping did Susan put down?,5,4,4,5
+3pxx5px6lxyuqm3uo2o1yddelnmaba|12|2,ft5-xl,Susan put what down?,5,4,3,5
+,,,,,,
+3pxx5px6lxyuqm3uo2o1yddelnmaba|12|2,ft5-small,What is the sandwich made?,3,5,2,4
+3pxx5px6lxyuqm3uo2o1yddelnmaba|12|2,ft5-small,What did John put down the topping?,3,5,3,4
+,,,,,,
+3pxx5px6lxyuqm3uo2o1yddelnmaba|12|2,t5_kldiv,"What was Susan's topping on the sandwich?
+",5,4,4,5
+3pxx5px6lxyuqm3uo2o1yddelnmaba|12|2,t5_kldiv,"What was Susan, Tim, Jack, and Susan's topping on the sandwich?
+",3,4,4,5
+,,,,,,
+,,,,,,
+3uxuoq9okex7oa04blcltbri2p17ab|4|2,t5_canard,"where does Zander the 5-year-old son of singer Mindy McCready live?
+",5,2,5,5
+3uxuoq9okex7oa04blcltbri2p17ab|4|2,t5_canard,"where does Zander the 5-year-old boy of singer Mindy McCready live?
+",5,2,5,5
+,,,,,,
+3uxuoq9okex7oa04blcltbri2p17ab|4|2,t5_kldiv,"where does Zander the 5-year-old boy of singer Mindy McCready live?
+",5,3,5,5
+3uxuoq9okex7oa04blcltbri2p17ab|4|2,t5_kldiv,"where does Zander the boy live?
+",4,3,5,5
+,,,,,,
+3uxuoq9okex7oa04blcltbri2p17ab|4|2,ft5-base,Where is Zander's location?,4,5,4,5
+3uxuoq9okex7oa04blcltbri2p17ab|4|2,ft5-base,Where did Mindy McCready's assistant mean the boy is in good health?,3,5,2,3
+,,,,,,
+3uxuoq9okex7oa04blcltbri2p17ab|4|2,bart,"Do you mean where did Mindy McCready take the boy?
+",5,5,2,3
+3uxuoq9okex7oa04blcltbri2p17ab|4|2,bart,"Are you referring to Zander or Mindy?
+",5,5,3,4
+,,,,,,
+3uxuoq9okex7oa04blcltbri2p17ab|4|2,ft5-large,He lives in what state?,5,5,4,5
+3uxuoq9okex7oa04blcltbri2p17ab|4|2,ft5-large,Where is Zander living?,5,5,5,5
+,,,,,,
+3uxuoq9okex7oa04blcltbri2p17ab|4|2,ft5-small,What is Mindy McCready located in the U.S. nestle of the imbroglio's son?,2,5,2,3
+3uxuoq9okex7oa04blcltbri2p17ab|4|2,ft5-small,What country music singer Zander lived in?,2,5,3,3
+,,,,,,
+3uxuoq9okex7oa04blcltbri2p17ab|4|2,ft5-xl,In what state does Zander live?,5,5,5,5
+3uxuoq9okex7oa04blcltbri2p17ab|4|2,ft5-xl,Where was Zander found when he was recovered?,5,5,4,5
+,,,,,,
+,,,,,,
+3e13vnj1nnv8j640ytnp9zoocgr1i7|10|2,ft5-large,"Who was examining Dartie's ""maison de plausibility, savoir faire, and good looks""?",5,4,5,5
+3e13vnj1nnv8j640ytnp9zoocgr1i7|10|2,ft5-large,Who did Dartie have dazzled?,5,4,5,5
+,,,,,,
+3e13vnj1nnv8j640ytnp9zoocgr1i7|10|2,ft5-xl,Who is Dartie?,5,5,3,3
+3e13vnj1nnv8j640ytnp9zoocgr1i7|10|2,ft5-xl,Who is Soames to Winifred?,5,5,3,5
+,,,,,,
+3e13vnj1nnv8j640ytnp9zoocgr1i7|10|2,t5_canard,"Who was the other woman who took the photograph of Winifred and Darties?
+",5,5,3,3
+3e13vnj1nnv8j640ytnp9zoocgr1i7|10|2,t5_canard,"Other than Winifred and Dartie who else did Soames write to?
+",5,5,3,2
+,,,,,,
+3e13vnj1nnv8j640ytnp9zoocgr1i7|10|2,ft5-small,Who would ask Winifred to be insulted for the fifth year after she was engaged to Dartie?,3,5,2,3
+3e13vnj1nnv8j640ytnp9zoocgr1i7|10|2,ft5-small,Who in the younger couple are you interview?,2,5,1,1
+,,,,,,
+3e13vnj1nnv8j640ytnp9zoocgr1i7|10|2,ft5-base,Who was Winifred's brother?,5,5,3,4
+3e13vnj1nnv8j640ytnp9zoocgr1i7|10|2,ft5-base,What was the things that Winifred had described inside of the drawing-room?,4,5,2,4
+,,,,,,
+3e13vnj1nnv8j640ytnp9zoocgr1i7|10|2,t5_kldiv,"Who did M.D.?
+",2,5,3,4
+3e13vnj1nnv8j640ytnp9zoocgr1i7|10|2,t5_kldiv,"Who else was mentioned in the article?
+",5,5,4,2
+,,,,,,
+3e13vnj1nnv8j640ytnp9zoocgr1i7|10|2,bart,"Who was Winifred?
+",5,1,3,5
+3e13vnj1nnv8j640ytnp9zoocgr1i7|10|2,bart,"Who was Winifred?
+",5,1,3,5
+,,,,,,
+,,,,,,
+3spj033421314nz9s0fyzneywhyyjp|17|2,ft5-xl,What is the other name for an antenna?,5,5,5,5
+3spj033421314nz9s0fyzneywhyyjp|17|2,ft5-xl,What would a receptacle be called in the event of a wave entering the antenna?,5,5,3,3
+,,,,,,
+3spj033421314nz9s0fyzneywhyyjp|17|2,t5_canard,"What would an antenna have another name other than aerial?
+",3,2,4,3
+3spj033421314nz9s0fyzneywhyyjp|17|2,t5_canard,"What would an antenna have another name than aerial?
+",3,2,4,3
+,,,,,,
+3spj033421314nz9s0fyzneywhyyjp|17|2,ft5-small,What would the antenna offer an individual or 3 different names?,2,5,2,2
+3spj033421314nz9s0fyzneywhyyjp|17|2,ft5-small,What is the name of an antenna for broadcasting?,5,5,4,3
+,,,,,,
+3spj033421314nz9s0fyzneywhyyjp|17|2,bart,"What is the purpose of an antenna?
+",5,5,2,4
+3spj033421314nz9s0fyzneywhyyjp|17|2,bart,"What would that be?
+",5,5,1,1
+,,,,,,
+3spj033421314nz9s0fyzneywhyyjp|17|2,t5_kldiv,"What would an antenna have another name than aerial?
+",4,2,4,4
+3spj033421314nz9s0fyzneywhyyjp|17|2,t5_kldiv,"What would an antenna name be other than 'aerial'?
+",5,2,4,4
+,,,,,,
+3spj033421314nz9s0fyzneywhyyjp|17|2,ft5-large,What would that be?,5,5,1,1
+3spj033421314nz9s0fyzneywhyyjp|17|2,ft5-large,What would the alternative name for the electrical device which converts electric power into radio waves and vice versa?,5,5,5,5
+,,,,,,
+3spj033421314nz9s0fyzneywhyyjp|17|2,ft5-base,Who is the other owner of the antenna?,5,5,1,1
+3spj033421314nz9s0fyzneywhyyjp|17|2,ft5-base,How is the antenna used for transmitting power in transmission?,5,5,3,5
+,,,,,,
+,,,,,,
+39asuflu6x74t2n793i5jtuxpy5xek|6|2,ft5-large,What did Hilary Duff say about how she feel after the separation from her husband?,,,,
+39asuflu6x74t2n793i5jtuxpy5xek|6|2,ft5-large,How does she feel about her separation from husband Mike Comrie?,,,,
+,,,,,,
+39asuflu6x74t2n793i5jtuxpy5xek|6|2,t5_kldiv,"How does Hilary Duff feel about her new single, "" Chasing the Sun ""?
+",,,,
+39asuflu6x74t2n793i5jtuxpy5xek|6|2,t5_kldiv,"How does Hilary Duff feel about the song Chasing the Sun?
+",,,,
+,,,,,,
+39asuflu6x74t2n793i5jtuxpy5xek|6|2,bart,"Are you referring to Hilary Duff or Mike Comrie?
+",,,,
+39asuflu6x74t2n793i5jtuxpy5xek|6|2,bart,"Do you mean Hilary Duff?
+",,,,
+,,,,,,
+39asuflu6x74t2n793i5jtuxpy5xek|6|2,t5_canard,"How does Hilary Duff feel about her new single, Chasing the Sun?
+",,,,
+39asuflu6x74t2n793i5jtuxpy5xek|6|2,t5_canard,"How does Hilary Duff feel about the release of her new single ""Chasing the Sun,"" from her still-untitled album?
+",,,,
+,,,,,,
+39asuflu6x74t2n793i5jtuxpy5xek|6|2,ft5-base,What is Hilary Duff's feeling after being separated from Mike Comrie?,,,,
+39asuflu6x74t2n793i5jtuxpy5xek|6|2,ft5-base,Who feels very anxious after having the son?,,,,
+,,,,,,
+39asuflu6x74t2n793i5jtuxpy5xek|6|2,ft5-small,Does Hilary Duff like Hilary Duff's feelings when she embarked on her career?,,,,
+39asuflu6x74t2n793i5jtuxpy5xek|6|2,ft5-small,How is Hilary Duff feeling where she feels in the last year?,,,,
+,,,,,,
+39asuflu6x74t2n793i5jtuxpy5xek|6|2,ft5-xl,How is Hilary Duff feeling about her new album?,,,,
+39asuflu6x74t2n793i5jtuxpy5xek|6|2,ft5-xl,"How has Hilary Duff felt about the separation from her husband, Mike Comrie?",,,,
+,,,,,,
+,,,,,,
+33l7pjkhcgyg3k4wrqv82gd51188t6|12|2,ft5-xl,Who is her son's name?,,,,
+33l7pjkhcgyg3k4wrqv82gd51188t6|12|2,ft5-xl,what is the name of the album Luca is on?,,,,
+,,,,,,
+33l7pjkhcgyg3k4wrqv82gd51188t6|12|2,ft5-base,What is Hilary Duff's husband's name?,,,,
+33l7pjkhcgyg3k4wrqv82gd51188t6|12|2,ft5-base,Who is Mike Comrie's son?,,,,
+,,,,,,
+33l7pjkhcgyg3k4wrqv82gd51188t6|12|2,t5_canard,"What is Hilary Duff and Mike Comrie's son's name?
+",,,,
+33l7pjkhcgyg3k4wrqv82gd51188t6|12|2,t5_canard,"What is Hilary Duff's son's name?
+",,,,
+,,,,,,
+33l7pjkhcgyg3k4wrqv82gd51188t6|12|2,ft5-large,What is the name of Hilary Duff's son?,,,,
+33l7pjkhcgyg3k4wrqv82gd51188t6|12|2,ft5-large,What is the name of Luca's son?,,,,
+,,,,,,
+33l7pjkhcgyg3k4wrqv82gd51188t6|12|2,t5_kldiv,"What is the name of Hilary Duff and Mike Comrie's child?
+",,,,
+33l7pjkhcgyg3k4wrqv82gd51188t6|12|2,t5_kldiv,"What is Hilary Duff and Mike Comrie's sons name?
+",,,,
+,,,,,,
+33l7pjkhcgyg3k4wrqv82gd51188t6|12|2,ft5-small,What time is Hilary Duff's divorce a long time?,,,,
+33l7pjkhcgyg3k4wrqv82gd51188t6|12|2,ft5-small,How long did Hilary Duff marry Mike Comrie?,,,,
+,,,,,,
+33l7pjkhcgyg3k4wrqv82gd51188t6|12|2,bart,"What is the name of Hilary Duff's husband?
+",,,,
+33l7pjkhcgyg3k4wrqv82gd51188t6|12|2,bart,"What is the name of Hilary Duff's husband?
+",,,,
+,,,,,,
+,,,,,,
+34fnn24dcm9txoko3yb4ydvtddmy5f|17|2,ft5-small,How many non-combatants died as a result of the war?,,,,
+34fnn24dcm9txoko3yb4ydvtddmy5f|17|2,ft5-small,"How many non-combatants died, two or more noncombatants died in the war or the Ottoman Empire?",,,,
+,,,,,,
+34fnn24dcm9txoko3yb4ydvtddmy5f|17|2,ft5-large,Who joined the Central Powers when more nations entered the war?,,,,
+34fnn24dcm9txoko3yb4ydvtddmy5f|17|2,ft5-large,Who joined the Central Powers in the 1914 World War I?,,,,
+,,,,,,
+34fnn24dcm9txoko3yb4ydvtddmy5f|17|2,t5_canard,"Who joined the Central Powers in World War I?
+",,,,
+34fnn24dcm9txoko3yb4ydvtddmy5f|17|2,t5_canard,"who joined the Central Powers of Germany and Austria-Hungary in World War I (WWI or WW1)?
+",,,,
+,,,,,,
+34fnn24dcm9txoko3yb4ydvtddmy5f|17|2,ft5-xl,What country did the Ottoman Empire and Bulgaria join the Central Powers?,,,,
+34fnn24dcm9txoko3yb4ydvtddmy5f|17|2,ft5-xl,Who did Austria-Hungary take the offensive against the terms of the alliance before it joined the Central Powers?,,,,
+,,,,,,
+34fnn24dcm9txoko3yb4ydvtddmy5f|17|2,t5_kldiv,"who joined the Central Powers of Germany and Austria-Hungary in World War I (WWI or WW1)?
+",,,,
+34fnn24dcm9txoko3yb4ydvtddmy5f|17|2,t5_kldiv,"Who joined the Central Powers during World War I?
+",,,,
+,,,,,,
+34fnn24dcm9txoko3yb4ydvtddmy5f|17|2,bart,"Who joined the Central Powers?
+",,,,
+34fnn24dcm9txoko3yb4ydvtddmy5f|17|2,bart,"Who did Italy join the Central Powers?
+",,,,
+,,,,,,
+34fnn24dcm9txoko3yb4ydvtddmy5f|17|2,ft5-base,Where did Ottoman Empire and Bulgaria join the Central Powers?,,,,
+34fnn24dcm9txoko3yb4ydvtddmy5f|17|2,ft5-base,Who were the Allies a member of the Triple Alliance alongside Germany and Austria-Hungary?,,,,
+,,,,,,
+,,,,,,
+3wygz5xf3wfzjltibfnligqathgks1|4|2,t5_canard,"who did not help along with the American general?
+",,,,
+3wygz5xf3wfzjltibfnligqathgks1|4|2,t5_canard,"who did the Americans help in the war against the French?
+",,,,
+,,,,,,
+3wygz5xf3wfzjltibfnligqathgks1|4|2,bart,"Who was in the possession of intercepted letters from Washington?
+",,,,
+3wygz5xf3wfzjltibfnligqathgks1|4|2,bart,"Who did anyone else help?
+",,,,
+,,,,,,
+3wygz5xf3wfzjltibfnligqathgks1|4|2,ft5-xl,Who was the more honorable general of the two?,,,,
+3wygz5xf3wfzjltibfnligqathgks1|4|2,ft5-xl,Who helped Sir Henry Clinton?,,,,
+,,,,,,
+3wygz5xf3wfzjltibfnligqathgks1|4|2,ft5-small,Who helped some law enforcement deputy?,,,,
+3wygz5xf3wfzjltibfnligqathgks1|4|2,ft5-small,Who helped the French forces?,,,,
+,,,,,,
+3wygz5xf3wfzjltibfnligqathgks1|4|2,ft5-base,Who were Greene and Rawdon in conjunction with?,,,,
+3wygz5xf3wfzjltibfnligqathgks1|4|2,ft5-base,Who helped Greene and Rawdon?,,,,
+,,,,,,
+3wygz5xf3wfzjltibfnligqathgks1|4|2,t5_kldiv,"who helped the Americans in the war?
+",,,,
+3wygz5xf3wfzjltibfnligqathgks1|4|2,t5_kldiv,"who helped in addition to the American general?
+",,,,
+,,,,,,
+3wygz5xf3wfzjltibfnligqathgks1|4|2,ft5-large,Who were the French forces involved in bringing the war to a close?,,,,
+3wygz5xf3wfzjltibfnligqathgks1|4|2,ft5-large,who was Greene and Rawdon's both the better general of the two?,,,,
+,,,,,,
+,,,,,,
+3sle99er0ndvrub20u40f64nu0bzb2|18|2,ft5-small,What was the dog doing when Jack was sitting down?,,,,
+3sle99er0ndvrub20u40f64nu0bzb2|18|2,ft5-small,Why did the dog begin writing after hours of writing?,,,,
+,,,,,,
+3sle99er0ndvrub20u40f64nu0bzb2|18|2,bart,"What was Phil doing?
+",,,,
+3sle99er0ndvrub20u40f64nu0bzb2|18|2,bart,"What was Phil doing?
+",,,,
+,,,,,,
+3sle99er0ndvrub20u40f64nu0bzb2|18|2,t5_canard,"What was Phil doing the next day?
+",,,,
+3sle99er0ndvrub20u40f64nu0bzb2|18|2,t5_canard,"What was the dog doing as Jack went for a ride?
+",,,,
+,,,,,,
+3sle99er0ndvrub20u40f64nu0bzb2|18|2,ft5-large,How was Jack doing when he thought to go on a run?,,,,
+3sle99er0ndvrub20u40f64nu0bzb2|18|2,ft5-large,Why was Jack sitting on the sofa when he decided to go for a ride?,,,,
+,,,,,,
+3sle99er0ndvrub20u40f64nu0bzb2|18|2,t5_kldiv,"What was Jack doing when he went for a ride?
+",,,,
+3sle99er0ndvrub20u40f64nu0bzb2|18|2,t5_kldiv,"What was the dog doing when he got up to write the story?
+",,,,
+,,,,,,
+3sle99er0ndvrub20u40f64nu0bzb2|18|2,ft5-xl,How was Phil doing when Jack saw him?,,,,
+3sle99er0ndvrub20u40f64nu0bzb2|18|2,ft5-xl,How did Jack feel when he wrote his book?,,,,
+,,,,,,
+3sle99er0ndvrub20u40f64nu0bzb2|18|2,ft5-base,When did Jack first look at the things that he saw?,,,,
+3sle99er0ndvrub20u40f64nu0bzb2|18|2,ft5-base,Where was the dog doing things?,,,,
+,,,,,,
+,,,,,,
+33l7pjkhcgyg3k4wrqv82gd50sbt8b|18|2,bart,"What position is being voted on?
+",,,,
+33l7pjkhcgyg3k4wrqv82gd50sbt8b|18|2,bart,"What position is being voted on?
+",,,,
+,,,,,,
+33l7pjkhcgyg3k4wrqv82gd50sbt8b|18|2,ft5-xl,what position is being voted on other than major and captain?,,,,
+33l7pjkhcgyg3k4wrqv82gd50sbt8b|18|2,ft5-xl,what position is being voted on?,,,,
+,,,,,,
+33l7pjkhcgyg3k4wrqv82gd50sbt8b|18|2,ft5-large,What is the other position being voted on?,,,,
+33l7pjkhcgyg3k4wrqv82gd50sbt8b|18|2,ft5-large,Who wants to be a major?,,,,
+,,,,,,
+33l7pjkhcgyg3k4wrqv82gd50sbt8b|18|2,ft5-small,What position is the student taking to vote for next captains?,,,,
+33l7pjkhcgyg3k4wrqv82gd50sbt8b|18|2,ft5-small,What position will Bart Conners vote for in the gymnasium?,,,,
+,,,,,,
+33l7pjkhcgyg3k4wrqv82gd50sbt8b|18|2,ft5-base,Which other major position is being voted on?,,,,
+33l7pjkhcgyg3k4wrqv82gd50sbt8b|18|2,ft5-base,What is Reff Ritter out for?,,,,
+,,,,,,
+33l7pjkhcgyg3k4wrqv82gd50sbt8b|18|2,t5_kldiv,"Besides the captain and major what other position is being voted on?
+",,,,
+33l7pjkhcgyg3k4wrqv82gd50sbt8b|18|2,t5_kldiv,"Besides captain What other position is being voted on at the school today?
+",,,,
+,,,,,,
+33l7pjkhcgyg3k4wrqv82gd50sbt8b|18|2,t5_canard,"Besides Bob Grenwood what other position is being voted on at the election?
+",,,,
+33l7pjkhcgyg3k4wrqv82gd50sbt8b|18|2,t5_canard,"Along with Jack, what other position is being voted on?
+",,,,
+,,,,,,
+,,,,,,
+30mvjzjnhmdm3mr1koni06l7n9v9jv|4|2,ft5-small,What is Mahmoud disliked?,,,,
+30mvjzjnhmdm3mr1koni06l7n9v9jv|4|2,ft5-small,How long did the Libyan leader have been in power in recent months?,,,,
+,,,,,,
+30mvjzjnhmdm3mr1koni06l7n9v9jv|4|2,bart,"Are you referring to Moammar Gadhafi?
+",,,,
+30mvjzjnhmdm3mr1koni06l7n9v9jv|4|2,bart,"Are you referring to Moammar Gadhafi?
+",,,,
+,,,,,,
+30mvjzjnhmdm3mr1koni06l7n9v9jv|4|2,t5_kldiv,"Is Mahmoud liked by the public in Tripoli?
+",,,,
+30mvjzjnhmdm3mr1koni06l7n9v9jv|4|2,t5_kldiv,"Is Mahmoud liked by the Libyan people?
+",,,,
+,,,,,,
+30mvjzjnhmdm3mr1koni06l7n9v9jv|4|2,t5_canard,"Is Mahmoud liked by the Libyan people?
+",,,,
+30mvjzjnhmdm3mr1koni06l7n9v9jv|4|2,t5_canard,"Is Mahmoud liked by many people in Tripoli?
+",,,,
+,,,,,,
+30mvjzjnhmdm3mr1koni06l7n9v9jv|4|2,ft5-base,How many people in Tripoli hate Moammar Gadhafi?,,,,
+30mvjzjnhmdm3mr1koni06l7n9v9jv|4|2,ft5-base,What part of Tripoli hate Moammar Gadhafi?,,,,
+,,,,,,
+30mvjzjnhmdm3mr1koni06l7n9v9jv|4|2,ft5-large,What are you asking if Moammar Gadhafi is liked?,,,,
+30mvjzjnhmdm3mr1koni06l7n9v9jv|4|2,ft5-large,Are there any people in Tripoli that like Moammar Gadhafi in the first glance?,,,,
+,,,,,,
+30mvjzjnhmdm3mr1koni06l7n9v9jv|4|2,ft5-xl,Does Mahmoud think Moammar Gadhafi is liked?,,,,
+30mvjzjnhmdm3mr1koni06l7n9v9jv|4|2,ft5-xl,Is Al-Qaeda in Libya a major terrorist organization?,,,,
+,,,,,,
+,,,,,,
+3dygaii7pl8ohwblw33ojxx853jqp1|10|2,ft5-small,"What did it say, Bethesal Klid and Mahmoud say?",,,,
+3dygaii7pl8ohwblw33ojxx853jqp1|10|2,ft5-small,What do you mean that the National Democratic Party of Libya is made aware of how much?,,,,
+,,,,,,
+3dygaii7pl8ohwblw33ojxx853jqp1|10|2,ft5-base,What are the officials and government minders telling foreign journalists in Tripoli?,,,,
+3dygaii7pl8ohwblw33ojxx853jqp1|10|2,ft5-base,Do the government minders tell foreign journalists that Tripoli is a stronghold of Moammar Gadhafi?,,,,
+,,,,,,
+3dygaii7pl8ohwblw33ojxx853jqp1|10|2,bart,"What do you mean by ""they""?
+",,,,
+3dygaii7pl8ohwblw33ojxx853jqp1|10|2,bart,"What do you mean by ""they""?
+",,,,
+,,,,,,
+3dygaii7pl8ohwblw33ojxx853jqp1|10|2,ft5-xl,What did the government say to foreign journalists on almost hourly basis?,,,,
+3dygaii7pl8ohwblw33ojxx853jqp1|10|2,ft5-xl,"Who are you referring to when you say ""they""?",,,,
+,,,,,,
+3dygaii7pl8ohwblw33ojxx853jqp1|10|2,t5_kldiv,"What do the government officials say about Tripoli's anti-Gadhafi protests?
+",,,,
+3dygaii7pl8ohwblw33ojxx853jqp1|10|2,t5_kldiv,"What do the government say in Tripoli?
+",,,,
+,,,,,,
+3dygaii7pl8ohwblw33ojxx853jqp1|10|2,t5_canard,"What do the government say about protesters in Tripoli?
+",,,,
+3dygaii7pl8ohwblw33ojxx853jqp1|10|2,t5_canard,"What do the government say about the fighting in Tripoli?
+",,,,
+,,,,,,
+3dygaii7pl8ohwblw33ojxx853jqp1|10|2,ft5-large,What did regime officials and government minders tell foreign journalists?,,,,
+3dygaii7pl8ohwblw33ojxx853jqp1|10|2,ft5-large,How does the government often tell the truth about Tripoli?,,,,
+,,,,,,
+,,,,,,
+3wakvudhuwgr3je2hqtctc3c926u77|12|2,ft5-small,What did Jack make for lunch first?,,,,
+3wakvudhuwgr3je2hqtctc3c926u77|12|2,ft5-small,Why did Jack take a nap after both breakfast?,,,,
+,,,,,,
+3wakvudhuwgr3je2hqtctc3c926u77|12|2,ft5-xl,Why did Jack do some cleaning after lunch?,,,,
+3wakvudhuwgr3je2hqtctc3c926u77|12|2,ft5-xl,Why did Jack wake up Saturday morning?,,,,
+,,,,,,
+3wakvudhuwgr3je2hqtctc3c926u77|12|2,t5_kldiv,"Why did Jack take a nap after his meal?
+",,,,
+3wakvudhuwgr3je2hqtctc3c926u77|12|2,t5_kldiv,"Why did Jack nappy after his meal?
+",,,,
+,,,,,,
+3wakvudhuwgr3je2hqtctc3c926u77|12|2,t5_canard,"Why did Jack take a nap after his meal?
+",,,,
+3wakvudhuwgr3je2hqtctc3c926u77|12|2,t5_canard,"Why did Jack not take a nap after his meal?
+",,,,
+,,,,,,
+3wakvudhuwgr3je2hqtctc3c926u77|12|2,bart,"Why did Jack take a nap after his meal?
+",,,,
+3wakvudhuwgr3je2hqtctc3c926u77|12|2,bart,"What did Jack do after his meal?
+",,,,
+,,,,,,
+3wakvudhuwgr3je2hqtctc3c926u77|12|2,ft5-large,Why did Jack clean the kitchen after lunch?,,,,
+3wakvudhuwgr3je2hqtctc3c926u77|12|2,ft5-large,Why did Jack decide to watch the weather while he was eating breakfast?,,,,
+,,,,,,
+3wakvudhuwgr3je2hqtctc3c926u77|12|2,ft5-base,What was Jack doing after his breakfast?,,,,
+3wakvudhuwgr3je2hqtctc3c926u77|12|2,ft5-base,Why did Jack wake up the next day?,,,,
+,,,,,,
+,,,,,,
+3ea3qwiz4iv9sqg90c7zf57j4ubitg|6|2,ft5-small,What else did Jack clean the kitchen?,,,,
+3ea3qwiz4iv9sqg90c7zf57j4ubitg|6|2,ft5-small,How did Jack clean the kitchen?,,,,
+,,,,,,
+3ea3qwiz4iv9sqg90c7zf57j4ubitg|6|2,t5_kldiv,"What else did Jack do for a living room, aside from cleaning the kitchen?
+",,,,
+3ea3qwiz4iv9sqg90c7zf57j4ubitg|6|2,t5_kldiv,"What else did Jack do aside from cleaning the living room?
+",,,,
+,,,,,,
+3ea3qwiz4iv9sqg90c7zf57j4ubitg|6|2,ft5-base,What other foods did Jack grab for breakfast?,,,,
+3ea3qwiz4iv9sqg90c7zf57j4ubitg|6|2,ft5-base,What else did Jack find that he needed to do after lunch?,,,,
+,,,,,,
+3ea3qwiz4iv9sqg90c7zf57j4ubitg|6|2,ft5-large,What else did Jack buy at the store?,,,,
+3ea3qwiz4iv9sqg90c7zf57j4ubitg|6|2,ft5-large,Was Jack a carpenter?,,,,
+,,,,,,
+3ea3qwiz4iv9sqg90c7zf57j4ubitg|6|2,t5_canard,"What else did Jack do other than cleaning the living room?
+",,,,
+3ea3qwiz4iv9sqg90c7zf57j4ubitg|6|2,t5_canard,"What else did Jack do aside from cleaning the kitchen and living room?
+",,,,
+,,,,,,
+3ea3qwiz4iv9sqg90c7zf57j4ubitg|6|2,bart,"What else did Jack do after breakfast?
+",,,,
+3ea3qwiz4iv9sqg90c7zf57j4ubitg|6|2,bart,"What else did Jack do after he got out of bed?
+",,,,
+,,,,,,
+3ea3qwiz4iv9sqg90c7zf57j4ubitg|6|2,ft5-xl,what else did Jack do after breakfast?,,,,
+3ea3qwiz4iv9sqg90c7zf57j4ubitg|6|2,ft5-xl,Jack went back home from the store and cleared the kitchen and living room.,,,,
+,,,,,,
+,,,,,,
+3p59jyt76lk5h527b9m7sp02eunt2g|7|2,ft5-large,Who did the Jordanaires back up for?,,,,
+3p59jyt76lk5h527b9m7sp02eunt2g|7|2,ft5-large,Who did the Jordanaires back up?,,,,
+,,,,,,
+3p59jyt76lk5h527b9m7sp02eunt2g|7|2,t5_canard,"Who did Gordon Stoker sing back up for as a part of the Jordanaires?
+",,,,
+3p59jyt76lk5h527b9m7sp02eunt2g|7|2,t5_canard,"Who did Gordon Stoker sing back up for after Elvis Presley joined RCA in 1956?
+",,,,
+,,,,,,
+3p59jyt76lk5h527b9m7sp02eunt2g|7|2,bart,"Who did Elvis sing back up for?
+",,,,
+3p59jyt76lk5h527b9m7sp02eunt2g|7|2,bart,"Who did Elvis sing back up for?
+",,,,
+,,,,,,
+3p59jyt76lk5h527b9m7sp02eunt2g|7|2,ft5-base,Who did Gordon Stoker sing backup for?,,,,
+3p59jyt76lk5h527b9m7sp02eunt2g|7|2,ft5-base,Who were the Jordanaires a backup singer for and who was Gordon Stoker a part of?,,,,
+,,,,,,
+3p59jyt76lk5h527b9m7sp02eunt2g|7|2,t5_kldiv,"Who did Gordon Stoker sing back up for as a part of the vocal group the Jordanaires?
+",,,,
+3p59jyt76lk5h527b9m7sp02eunt2g|7|2,t5_kldiv,"Who did Gordon Stoker sing back up for?
+",,,,
+,,,,,,
+3p59jyt76lk5h527b9m7sp02eunt2g|7|2,ft5-xl,"Patsy Cline, George Jones, and Jim Reeves were among the many artists the Jordanaires sang back up for.",,,,
+3p59jyt76lk5h527b9m7sp02eunt2g|7|2,ft5-xl,who did Gordon Stoker sing back up for on hits by Elvis Presley?,,,,
+,,,,,,
+3p59jyt76lk5h527b9m7sp02eunt2g|7|2,ft5-small,Who sang backup on hits?,,,,
+3p59jyt76lk5h527b9m7sp02eunt2g|7|2,ft5-small,How long was Gordon Stoker the vocal group on the Jordanaires?,,,,
+,,,,,,
+,,,,,,
+3v26sbztbder9sei68k31obqkyzzzz|15|2,ft5-small,What happened in the incident that made Huang Junjie free from jail?,,,,
+3v26sbztbder9sei68k31obqkyzzzz|15|2,ft5-small,How many years did Lun Junjie jail for match fixing?,,,,
+,,,,,,
+3v26sbztbder9sei68k31obqkyzzzz|15|2,ft5-xl,"Other than Lun Ju, what other officials were arrested as part of the government crackdown on match fixing?",,,,
+3v26sbztbder9sei68k31obqkyzzzz|15|2,ft5-xl,What was the result of Lun Ju's imprisonment?,,,,
+,,,,,,
+3v26sbztbder9sei68k31obqkyzzzz|15|2,ft5-large,Who jailed three other officials for match fixing?,,,,
+3v26sbztbder9sei68k31obqkyzzzz|15|2,ft5-large,What was the conviction for Huang Junjie related to?,,,,
+,,,,,,
+3v26sbztbder9sei68k31obqkyzzzz|15|2,t5_canard,"What else happened to Lun Ju as a referee?
+",,,,
+3v26sbztbder9sei68k31obqkyzzzz|15|2,t5_canard,"What did the court confiscate from Lun Ju besides his assets?
+",,,,
+,,,,,,
+3v26sbztbder9sei68k31obqkyzzzz|15|2,t5_kldiv,"What else was confiscated from Lun Ju besides $737,955?
+",,,,
+3v26sbztbder9sei68k31obqkyzzzz|15|2,t5_kldiv,"What else was confiscated besides $247,975 from seven separate cases of match fixing in China?
+",,,,
+,,,,,,
+3v26sbztbder9sei68k31obqkyzzzz|15|2,bart,"What did the court in Dandong say about Lu?
+",,,,
+3v26sbztbder9sei68k31obqkyzzzz|15|2,bart,"What else did Lu do?
+",,,,
+,,,,,,
+3v26sbztbder9sei68k31obqkyzzzz|15|2,ft5-base,What else did Huang Junjie take charge of in 2002?,,,,
+3v26sbztbder9sei68k31obqkyzzzz|15|2,ft5-base,After 2008 what other officials were jailed for match fixing?,,,,
+,,,,,,
+,,,,,,
+3f1567xtnw53p9vefe7rx7xt13d9qa|13|2,ft5-small,What year was Hilary Duff separated from contributing to the album before the departure from Mike Comrie?,,,,
+3f1567xtnw53p9vefe7rx7xt13d9qa|13|2,ft5-small,What year did Hilary Duff have a break after they were pregnant with their son?,,,,
+,,,,,,
+3f1567xtnw53p9vefe7rx7xt13d9qa|13|2,bart,"When did Hilary Duff and Mike Comrie announce their separation?
+",,,,
+3f1567xtnw53p9vefe7rx7xt13d9qa|13|2,bart,"When did Hilary Duff and Mike Comrie announce their separation?
+",,,,
+,,,,,,
+3f1567xtnw53p9vefe7rx7xt13d9qa|13|2,ft5-large,When was Comrie's son born?,,,,
+3f1567xtnw53p9vefe7rx7xt13d9qa|13|2,ft5-large,When was her son born?,,,,
+,,,,,,
+3f1567xtnw53p9vefe7rx7xt13d9qa|13|2,ft5-base,When was Hilary Duff and Mike Comrie separated?,,,,
+3f1567xtnw53p9vefe7rx7xt13d9qa|13|2,ft5-base,When the baby was born?,,,,
+,,,,,,
+3f1567xtnw53p9vefe7rx7xt13d9qa|13|2,t5_kldiv,"when did Hilary Duff release her album?
+",,,,
+3f1567xtnw53p9vefe7rx7xt13d9qa|13|2,t5_kldiv,"when did Hilary Duff leave the road?
+",,,,
+,,,,,,
+3f1567xtnw53p9vefe7rx7xt13d9qa|13|2,ft5-xl,"When did Hilary Duff announce her separation from her husband, Mike Comrie?",,,,
+3f1567xtnw53p9vefe7rx7xt13d9qa|13|2,ft5-xl,When did Alexis Duff start thinking of new material for her album?,,,,
+,,,,,,
+3f1567xtnw53p9vefe7rx7xt13d9qa|13|2,t5_canard,"when did Hilary Duff leave the road for the album ""Dignity?""
+",,,,
+3f1567xtnw53p9vefe7rx7xt13d9qa|13|2,t5_canard,"When did Hilary Duff's album come out?
+",,,,
+,,,,,,
+,,,,,,
+3ermj6l4dys8qb9t8o2q22miw4fm7v|14|2,bart,"What did the kids need to do before they arrived at the zoo?
+",,,,
+3ermj6l4dys8qb9t8o2q22miw4fm7v|14|2,bart,"What did the kids need to do before they arrived at the zoo?
+",,,,
+,,,,,,
+3ermj6l4dys8qb9t8o2q22miw4fm7v|14|2,ft5-xl,Lean back to see the giraffes?,,,,
+3ermj6l4dys8qb9t8o2q22miw4fm7v|14|2,ft5-xl,What did they need to do after seeing the lions?,,,,
+,,,,,,
+3ermj6l4dys8qb9t8o2q22miw4fm7v|14|2,ft5-base,What information did the kids need to bring their camera to see the giraffes first?,,,,
+3ermj6l4dys8qb9t8o2q22miw4fm7v|14|2,ft5-base,How traveled to the zoo?,,,,
+,,,,,,
+3ermj6l4dys8qb9t8o2q22miw4fm7v|14|2,t5_kldiv,"What did the kids need to do while at the zoo today?
+",,,,
+3ermj6l4dys8qb9t8o2q22miw4fm7v|14|2,t5_kldiv,"What did the kids need to do to get to the zoo?
+",,,,
+,,,,,,
+3ermj6l4dys8qb9t8o2q22miw4fm7v|14|2,ft5-small,What was the kids need to do to see giraffes?,,,,
+3ermj6l4dys8qb9t8o2q22miw4fm7v|14|2,ft5-small,What do you mean when they went to see one other animal?,,,,
+,,,,,,
+3ermj6l4dys8qb9t8o2q22miw4fm7v|14|2,t5_canard,"What did the kids need to do while at the zoo today?
+",,,,
+3ermj6l4dys8qb9t8o2q22miw4fm7v|14|2,t5_canard,"What did the kids need to do after seeing the lions and monkeys at the zoo?
+",,,,
+,,,,,,
+3ermj6l4dys8qb9t8o2q22miw4fm7v|14|2,ft5-large,What were the kids afraid to do when the giraffes moved back?,,,,
+3ermj6l4dys8qb9t8o2q22miw4fm7v|14|2,ft5-large,What were the kids afraid to walk near the lions?,,,,
+,,,,,,
+,,,,,,
+3d8you6s9ek8zj0xygokny3gep1u6j|13|2,ft5-xl,when did Bill Gates quit Harvard?,,,,
+3d8you6s9ek8zj0xygokny3gep1u6j|13|2,ft5-xl,when did Bill Gates quit Harvard University?,,,,
+,,,,,,
+3d8you6s9ek8zj0xygokny3gep1u6j|13|2,ft5-small,When did Bill Gates see the computer?,,,,
+3d8you6s9ek8zj0xygokny3gep1u6j|13|2,ft5-small,When did Bill Gates quit Harvard after 1979?,,,,
+,,,,,,
+3d8you6s9ek8zj0xygokny3gep1u6j|13|2,ft5-base,When did Bill Gates quit Harvard University?,,,,
+3d8you6s9ek8zj0xygokny3gep1u6j|13|2,ft5-base,When did Bill leave Harvard University?,,,,
+,,,,,,
+3d8you6s9ek8zj0xygokny3gep1u6j|13|2,bart,"When did Bill Gates quit Harvard University?
+",,,,
+3d8you6s9ek8zj0xygokny3gep1u6j|13|2,bart,"When did Bill Gates quit Harvard University?
+",,,,
+,,,,,,
+3d8you6s9ek8zj0xygokny3gep1u6j|13|2,t5_canard,"when did Bill Gates quit harvard?
+",,,,
+3d8you6s9ek8zj0xygokny3gep1u6j|13|2,t5_canard,"when did Bill Gates quit Harvard?
+",,,,
+,,,,,,
+3d8you6s9ek8zj0xygokny3gep1u6j|13|2,ft5-large,When did Bill Gates leave Harvard in his third school year?,,,,
+3d8you6s9ek8zj0xygokny3gep1u6j|13|2,ft5-large,when was he leaving Harvard?,,,,
+,,,,,,
+3d8you6s9ek8zj0xygokny3gep1u6j|13|2,t5_kldiv,"when did Bill Gates quit Harvard University?
+",,,,
+3d8you6s9ek8zj0xygokny3gep1u6j|13|2,t5_kldiv,"when did Bill Gates quit Harvard?
+",,,,
+,,,,,,
+,,,,,,
+37w3jxsd668na7z8zzydod86yhkwy3|4|2,t5_canard,"Which of the men mentioned was the other?
+",,,,
+37w3jxsd668na7z8zzydod86yhkwy3|4|2,t5_canard,"Which one of Joseph Poorgrass, Matthew Moon, Fray and Susan Tall named besides himself?
+",,,,
+,,,,,,
+37w3jxsd668na7z8zzydod86yhkwy3|4|2,ft5-xl,who was the second person mentioned in the passage to claim that the sheep were getting blasted?,,,,
+37w3jxsd668na7z8zzydod86yhkwy3|4|2,ft5-xl,who came running up to the house of the mistress of the Upper Farm?,,,,
+,,,,,,
+37w3jxsd668na7z8zzydod86yhkwy3|4|2,ft5-small,Who did Joseph Poorgrass say he was sitting at home looking for Ephesians?,,,,
+37w3jxsd668na7z8zzydod86yhkwy3|4|2,ft5-small,What did Henery Fray think of the sheep?,,,,
+,,,,,,
+37w3jxsd668na7z8zzydod86yhkwy3|4|2,ft5-base,Who was Matthew accused of destroying the fence?,,,,
+37w3jxsd668na7z8zzydod86yhkwy3|4|2,ft5-base,Who is Joseph Poorgrass?,,,,
+,,,,,,
+37w3jxsd668na7z8zzydod86yhkwy3|4|2,ft5-large,Who was fray's facial expression?,,,,
+37w3jxsd668na7z8zzydod86yhkwy3|4|2,ft5-large,What is the name of the runner up to Gabriel Oak?,,,,
+,,,,,,
+37w3jxsd668na7z8zzydod86yhkwy3|4|2,t5_kldiv,"Which of the four gentlemen, was mentioned in Chapter XXI?
+",,,,
+37w3jxsd668na7z8zzydod86yhkwy3|4|2,t5_kldiv,"which one did Joseph Poorgrass, Matthew Moon, Fray and Susan Tall come into besides the sheep?
+",,,,
+,,,,,,
+37w3jxsd668na7z8zzydod86yhkwy3|4|2,bart,"Who was Joseph Poorgrass?
+",,,,
+37w3jxsd668na7z8zzydod86yhkwy3|4|2,bart,"Do you mean who?
+",,,,
+,,,,,,
+,,,,,,
+35k3o9huabdntgwm99cjdmuqlp6fe0|9|2,t5_kldiv,"What was the rooster called in Omaha?
+",,,,
+35k3o9huabdntgwm99cjdmuqlp6fe0|9|2,t5_kldiv,"What was the rooster called when sitting on the fence?
+",,,,
+,,,,,,
+35k3o9huabdntgwm99cjdmuqlp6fe0|9|2,bart,"What was the name of the animal that was on the fence?
+",,,,
+35k3o9huabdntgwm99cjdmuqlp6fe0|9|2,bart,"What was the name of the animal called?
+",,,,
+,,,,,,
+35k3o9huabdntgwm99cjdmuqlp6fe0|9|2,ft5-xl,What was the name of the rooster sitting on the fence?,,,,
+35k3o9huabdntgwm99cjdmuqlp6fe0|9|2,ft5-xl,The rooster's name was Omaha.,,,,
+,,,,,,
+35k3o9huabdntgwm99cjdmuqlp6fe0|9|2,ft5-large,What is the story about the lucky cow?,,,,
+35k3o9huabdntgwm99cjdmuqlp6fe0|9|2,ft5-large,What did the roosters name be?,,,,
+,,,,,,
+35k3o9huabdntgwm99cjdmuqlp6fe0|9|2,t5_canard,"What was the rooster called when the farmer opened the barn door?
+",,,,
+35k3o9huabdntgwm99cjdmuqlp6fe0|9|2,t5_canard,"What was the rooster called when Max was sitting on the fence?
+",,,,
+,,,,,,
+35k3o9huabdntgwm99cjdmuqlp6fe0|9|2,ft5-small,What animal named Max is the roosters name?,,,,
+35k3o9huabdntgwm99cjdmuqlp6fe0|9|2,ft5-small,"How did Max pushed the roosters name, Omaha, to the gates?",,,,
+,,,,,,
+35k3o9huabdntgwm99cjdmuqlp6fe0|9|2,ft5-base,What animal is Omaha called?,,,,
+35k3o9huabdntgwm99cjdmuqlp6fe0|9|2,ft5-base,What is Omaha used to be?,,,,
+,,,,,,
+,,,,,,
+3vw04l3zlt6dz2eo488x7if4547xxk|14|2,ft5-base,How many inhabitants were there in Easter Island by 1722?,,,,
+3vw04l3zlt6dz2eo488x7if4547xxk|14|2,ft5-base,How many residents on Easter Island in 2013?,,,,
+,,,,,,
+3vw04l3zlt6dz2eo488x7if4547xxk|14|2,ft5-small,What number of Peopoles did it have?,,,,
+3vw04l3zlt6dz2eo488x7if4547xxk|14|2,ft5-small,What year was Pitcairn Island home to the original artefacts of the late Rapa Nui people?,,,,
+,,,,,,
+3vw04l3zlt6dz2eo488x7if4547xxk|14|2,ft5-xl,How many people lived on Easter Island in 1877?,,,,
+3vw04l3zlt6dz2eo488x7if4547xxk|14|2,ft5-xl,"In 1722, when did the island's population drop to 2,000–3,000?",,,,
+,,,,,,
+3vw04l3zlt6dz2eo488x7if4547xxk|14|2,bart,"How many inhabitants did Easter Island have in 2013?
+",,,,
+3vw04l3zlt6dz2eo488x7if4547xxk|14|2,bart,"How many people lived on Easter Island?
+",,,,
+,,,,,,
+3vw04l3zlt6dz2eo488x7if4547xxk|14|2,t5_canard,"how many peopole did Easter Island have?
+",,,,
+3vw04l3zlt6dz2eo488x7if4547xxk|14|2,t5_canard,"how many peopole does Easter Island have?
+",,,,
+,,,,,,
+3vw04l3zlt6dz2eo488x7if4547xxk|14|2,ft5-large,How many people arrived on Easter Island in 1722?,,,,
+3vw04l3zlt6dz2eo488x7if4547xxk|14|2,ft5-large,How many people lived on the island before Europeans arrived in 1722?,,,,
+,,,,,,
+3vw04l3zlt6dz2eo488x7if4547xxk|14|2,t5_kldiv,"how many peopole did Easter Island have?
+",,,,
+3vw04l3zlt6dz2eo488x7if4547xxk|14|2,t5_kldiv,"how many peopoles does Easter Island have?
+",,,,
+,,,,,,
+,,,,,,
+3b1nlc6ugzwx47h7t7ycpjt60iagp1|10|2,ft5-base,Who has authority over Burundi when national courts are unwilling or unable to prosecute criminals?,,,,
+3b1nlc6ugzwx47h7t7ycpjt60iagp1|10|2,ft5-base,Who has authority over the International Criminal Court?,,,,
+,,,,,,
+3b1nlc6ugzwx47h7t7ycpjt60iagp1|10|2,t5_kldiv,"Who do the registry have authority over?
+",,,,
+3b1nlc6ugzwx47h7t7ycpjt60iagp1|10|2,t5_kldiv,"Who do the Registrar and Presidency have authority over?
+",,,,
+,,,,,,
+3b1nlc6ugzwx47h7t7ycpjt60iagp1|10|2,ft5-small,Who is the registrar trying to control the administrative functions of the ICC?,,,,
+3b1nlc6ugzwx47h7t7ycpjt60iagp1|10|2,ft5-small,How many organs are there?,,,,
+,,,,,,
+3b1nlc6ugzwx47h7t7ycpjt60iagp1|10|2,ft5-xl,Who does the Presidency have authority over?,,,,
+3b1nlc6ugzwx47h7t7ycpjt60iagp1|10|2,ft5-xl,What crimes does the ICC have jurisdiction over?,,,,
+,,,,,,
+3b1nlc6ugzwx47h7t7ycpjt60iagp1|10|2,t5_canard,"Who do the Registrars have authority over the International Criminal Court?
+",,,,
+3b1nlc6ugzwx47h7t7ycpjt60iagp1|10|2,t5_canard,"Who does the Registry have authority over?
+",,,,
+,,,,,,
+3b1nlc6ugzwx47h7t7ycpjt60iagp1|10|2,bart,"Who does the ICC have authority over?
+",,,,
+3b1nlc6ugzwx47h7t7ycpjt60iagp1|10|2,bart,"Who do they have authority over?
+",,,,
+,,,,,,
+3b1nlc6ugzwx47h7t7ycpjt60iagp1|10|2,ft5-large,Who has the authority of the ICC?,,,,
+3b1nlc6ugzwx47h7t7ycpjt60iagp1|10|2,ft5-large,Who has authority over the ICC?,,,,
+,,,,,,
+,,,,,,
+3rxpczqmqpbunfy585nmonb8w0j1gs|12|2,ft5-large,When did Nicki Minaj give a pointed speech at the BET Awards?,,,,
+3rxpczqmqpbunfy585nmonb8w0j1gs|12|2,ft5-large,When was the Msicha Spectacular and Ms Azalea announced both their feud?,,,,
+,,,,,,
+3rxpczqmqpbunfy585nmonb8w0j1gs|12|2,ft5-xl,What was the date of the BET Awards when Nicki Minaj gave a pointed acceptance speech?,,,,
+3rxpczqmqpbunfy585nmonb8w0j1gs|12|2,ft5-xl,What day was the BET Awards held?,,,,
+,,,,,,
+3rxpczqmqpbunfy585nmonb8w0j1gs|12|2,ft5-base,When did Iggy Azalea publicly acknowledge Iggy Azalea?,,,,
+3rxpczqmqpbunfy585nmonb8w0j1gs|12|2,ft5-base,What date did Nicki Minaj bring Iggy Azalea to the BET Awards?,,,,
+,,,,,,
+3rxpczqmqpbunfy585nmonb8w0j1gs|12|2,ft5-small,How long did Iggy Azalea tweet the acceptance speech at the BET awards?,,,,
+3rxpczqmqpbunfy585nmonb8w0j1gs|12|2,ft5-small,How long before the World aired Nicki Minaj vs. Iggy Azalea's acceptance speech?,,,,
+,,,,,,
+3rxpczqmqpbunfy585nmonb8w0j1gs|12|2,t5_kldiv,"when did Nicki Minaj win the BET award?
+",,,,
+3rxpczqmqpbunfy585nmonb8w0j1gs|12|2,t5_kldiv,"when did Nicki Minaj give an appearance at the BET Awards?
+",,,,
+,,,,,,
+3rxpczqmqpbunfy585nmonb8w0j1gs|12|2,bart,"When did Nicki Minaj first write ""Fancy""?
+",,,,
+3rxpczqmqpbunfy585nmonb8w0j1gs|12|2,bart,"When did Nicki Minaj write ""Fancy""?
+",,,,
+,,,,,,
+3rxpczqmqpbunfy585nmonb8w0j1gs|12|2,t5_canard,"when did Nicki Minaj announce his feud with Iggy Azalea?
+",,,,
+3rxpczqmqpbunfy585nmonb8w0j1gs|12|2,t5_canard,"when did Nicki Minaj start to feud with Iggy Azalea?
+",,,,
+,,,,,,
+,,,,,,
+3skemfqbz35h01e9xhhg1pq9hoe8kw|6|2,t5_kldiv,"what else did Brad do aside from calling the daycare centre?
+",,,,
+3skemfqbz35h01e9xhhg1pq9hoe8kw|6|2,t5_kldiv,"what else did Brad say aside from saying ""yes"" to Sue?
+",,,,
+,,,,,,
+3skemfqbz35h01e9xhhg1pq9hoe8kw|6|2,ft5-large,Did Sue arrange to help Brad before he left?,,,,
+3skemfqbz35h01e9xhhg1pq9hoe8kw|6|2,ft5-large,what else did Brad discover after he realized the talk show was over and writing would be impossible after the talk show was over?,,,,
+,,,,,,
+3skemfqbz35h01e9xhhg1pq9hoe8kw|6|2,bart,"What else did Brad do after he arrived at work?
+",,,,
+3skemfqbz35h01e9xhhg1pq9hoe8kw|6|2,bart,"What else did Alex do?
+",,,,
+,,,,,,
+3skemfqbz35h01e9xhhg1pq9hoe8kw|6|2,ft5-xl,What did Randy do at eight o'clock?,,,,
+3skemfqbz35h01e9xhhg1pq9hoe8kw|6|2,ft5-xl,What did Randy do at 10:17?,,,,
+,,,,,,
+3skemfqbz35h01e9xhhg1pq9hoe8kw|6|2,ft5-small,What else do you mean by the lecture centre?,,,,
+3skemfqbz35h01e9xhhg1pq9hoe8kw|6|2,ft5-small,Who was reading the talk show?,,,,
+,,,,,,
+3skemfqbz35h01e9xhhg1pq9hoe8kw|6|2,ft5-base,Who borrowed the newspapers?,,,,
+3skemfqbz35h01e9xhhg1pq9hoe8kw|6|2,ft5-base,what other things did Alex tell when he locked himself in the bathroom?,,,,
+,,,,,,
+3skemfqbz35h01e9xhhg1pq9hoe8kw|6|2,t5_canard,"what else did Brad do aside from calling the daycare centre to bring the boys over?
+",,,,
+3skemfqbz35h01e9xhhg1pq9hoe8kw|6|2,t5_canard,"What else did Brad say besides ""yes"" and ""can I bring the boys over in a few minutes?""
+",,,,
+,,,,,,
+,,,,,,
+34x6j5flptysvl8n1qy4m1bww3kjqz|5|2,t5_kldiv,"Who created the dirigible balloon?
+",,,,
+34x6j5flptysvl8n1qy4m1bww3kjqz|5|2,t5_kldiv,"Who created the first dirigible balloon?
+",,,,
+,,,,,,
+34x6j5flptysvl8n1qy4m1bww3kjqz|5|2,ft5-base,Who was the Montgolfier brothers designing the first untethered human lighter-than-air flight?,,,,
+34x6j5flptysvl8n1qy4m1bww3kjqz|5|2,ft5-base,Who created the Montgolfier brothers?,,,,
+,,,,,,
+34x6j5flptysvl8n1qy4m1bww3kjqz|5|2,ft5-xl,Who created the pull-tethered human flight in 1783?,,,,
+34x6j5flptysvl8n1qy4m1bww3kjqz|5|2,ft5-xl,Who created the modern age of aviation?,,,,
+,,,,,,
+34x6j5flptysvl8n1qy4m1bww3kjqz|5|2,bart,"Who created the first human-powered dirigible?
+",,,,
+34x6j5flptysvl8n1qy4m1bww3kjqz|5|2,bart,"Who created the first human-powered dirigible?
+",,,,
+,,,,,,
+34x6j5flptysvl8n1qy4m1bww3kjqz|5|2,t5_canard,"who created the first dirigible balloon?
+",,,,
+34x6j5flptysvl8n1qy4m1bww3kjqz|5|2,t5_canard,"who created the dirigible balloon?
+",,,,
+,,,,,,
+34x6j5flptysvl8n1qy4m1bww3kjqz|5|2,ft5-small,Who is the Montgolfier brothers who created the hot air balloon?,,,,
+34x6j5flptysvl8n1qy4m1bww3kjqz|5|2,ft5-small,What was the successful flight?,,,,
+,,,,,,
+34x6j5flptysvl8n1qy4m1bww3kjqz|5|2,ft5-large,"Who made the first untethered human lighter-than-air flight on November 21, 1783?",,,,
+34x6j5flptysvl8n1qy4m1bww3kjqz|5|2,ft5-large,Who was the flying automaton of Archytas of Tarentum created by?,,,,
+,,,,,,
+,,,,,,
+3qemnnsb2xz5mh3gvv3njczontvd7i|7|2,t5_kldiv,"What happened to Haye versus Chisora's opponent on Saturday?
+",,,,
+3qemnnsb2xz5mh3gvv3njczontvd7i|7|2,t5_kldiv,"What happened to Chisora's opponent in the Munich brawl?
+",,,,
+,,,,,,
+3qemnnsb2xz5mh3gvv3njczontvd7i|7|2,t5_canard,"What happened to Chisora's opponent in the fight between Haye and Chisora?
+",,,,
+3qemnnsb2xz5mh3gvv3njczontvd7i|7|2,t5_canard,"What happened to Haye versus Chisora opponent on Saturday?
+",,,,
+,,,,,,
+3qemnnsb2xz5mh3gvv3njczontvd7i|7|2,ft5-base,Who was evasive punishment for Dereck Chisora's bout?,,,,
+3qemnnsb2xz5mh3gvv3njczontvd7i|7|2,ft5-base,What caused Chisora's boxing opponent to retire?,,,,
+,,,,,,
+3qemnnsb2xz5mh3gvv3njczontvd7i|7|2,bart,"What happened to Chisora's opponent?
+",,,,
+3qemnnsb2xz5mh3gvv3njczontvd7i|7|2,bart,"What happened to Chisora's opponent?
+",,,,
+,,,,,,
+3qemnnsb2xz5mh3gvv3njczontvd7i|7|2,ft5-large,What happened to David Haye's opponent after his bust-up with Chisora?,,,,
+3qemnnsb2xz5mh3gvv3njczontvd7i|7|2,ft5-large,What was Chisora's opponent's name compared to Lennox Lewis' pre-fight rumble with Mike Tyson last decade?,,,,
+,,,,,,
+3qemnnsb2xz5mh3gvv3njczontvd7i|7|2,ft5-small,Where did Chisora went after his opponent was banned by the World Boxing Council?,,,,
+3qemnnsb2xz5mh3gvv3njczontvd7i|7|2,ft5-small,What was David Haye's opponent banned by the World Boxing Council and the British Boxing Board of Control after his bust-up with Haye at a press conference?,,,,
+,,,,,,
+3qemnnsb2xz5mh3gvv3njczontvd7i|7|2,ft5-xl,Who was the opponent of Dereck Chisora in the boxing match?,,,,
+3qemnnsb2xz5mh3gvv3njczontvd7i|7|2,ft5-xl,What is the name of the boxer who defeated Chisora in the World Boxing Council and the British Boxing Board of Control title fight?,,,,

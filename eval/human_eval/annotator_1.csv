@@ -1,0 +1,279 @@
+id,model,cq,grammatical_correctness,diversity,clariscore,relevance
+32xvdsjfpzx14acn2clv6b5aksj2ms|5|2,ft5-xl,What color was the book found by Angie's mother in the adult reading room?,5,2,5,5
+32xvdsjfpzx14acn2clv6b5aksj2ms|5|2,ft5-xl,The book Angie's mother found was what color?,5,2,5,5
+,,,,,,
+32xvdsjfpzx14acn2clv6b5aksj2ms|5|2,bart,"What color was the book?
+",5,2,2,5
+32xvdsjfpzx14acn2clv6b5aksj2ms|5|2,bart,"What color was the book that Angie found?
+",5,2,4,5
+,,,,,,
+32xvdsjfpzx14acn2clv6b5aksj2ms|5|2,ft5-large,What color was the large book Angie's mother found?,4,3,5,5
+32xvdsjfpzx14acn2clv6b5aksj2ms|5|2,ft5-large,What color was the book Angie made a drawing of her mother?,2,3,2,2
+,,,,,,
+32xvdsjfpzx14acn2clv6b5aksj2ms|5|2,t5_kldiv,"what color was the book Angie and her mother found?
+",4,1,4,3
+32xvdsjfpzx14acn2clv6b5aksj2ms|5|2,t5_kldiv,"What color was the book Angie and her mother found?
+",4,1,4,3
+,,,,,,
+32xvdsjfpzx14acn2clv6b5aksj2ms|5|2,ft5-small,How color was the book color?,1,3,1,1
+32xvdsjfpzx14acn2clv6b5aksj2ms|5|2,ft5-small,How color was the book the Red chair painted with?,1,3,1,1
+,,,,,,
+32xvdsjfpzx14acn2clv6b5aksj2ms|5|2,ft5-base,What color was the large red book?,5,3,4,5
+32xvdsjfpzx14acn2clv6b5aksj2ms|5|2,ft5-base,What color was the book she drew a picture of?,5,3,2,1
+,,,,,,
+32xvdsjfpzx14acn2clv6b5aksj2ms|5|2,t5_canard,"what color was the book Angie and her mother found?
+",4,1,4,3
+32xvdsjfpzx14acn2clv6b5aksj2ms|5|2,t5_canard,"What color was the book Angie and her mother found?
+",4,1,4,3
+,,,,,,
+,,,,,,
+3tvss0c0e10rtl0eptbegwgrj6itw9|11|2,ft5-xl,What kind of movie is the Jacob Burns Film Center?,3,5,1,4
+3tvss0c0e10rtl0eptbegwgrj6itw9|11|2,ft5-xl,How many movies have kids made at the Jacob Burns Film Center?,5,5,1,4
+,,,,,,
+3tvss0c0e10rtl0eptbegwgrj6itw9|11|2,t5_canard,"In what does Oliver serve broccoli ice cream in?
+",4,1,5,2
+3tvss0c0e10rtl0eptbegwgrj6itw9|11|2,t5_canard,"in what does Oliver serve broccoli ice cream in?
+",4,1,5,2
+,,,,,,
+3tvss0c0e10rtl0eptbegwgrj6itw9|11|2,bart,"What type of movie are you referring to?
+",5,2,1,3
+3tvss0c0e10rtl0eptbegwgrj6itw9|11|2,bart,"What type of movie is Mikey Price making?
+",5,2,1,1
+,,,,,,
+3tvss0c0e10rtl0eptbegwgrj6itw9|11|2,ft5-base,What movie is Oliver's Organic Ice Cream located in?,5,4,1,1
+3tvss0c0e10rtl0eptbegwgrj6itw9|11|2,ft5-base,Where does Oliver serve broccoli ice cream?,5,4,5,1
+,,,,,,
+3tvss0c0e10rtl0eptbegwgrj6itw9|11|2,ft5-large,what movie does Oliver serve the customers?,2,3,1,1
+3tvss0c0e10rtl0eptbegwgrj6itw9|11|2,ft5-large,Where does Oliver's Organic Ice Cream appear in a movie?,5,3,2,1
+,,,,,,
+3tvss0c0e10rtl0eptbegwgrj6itw9|11|2,ft5-small,What event does the Jacob Burns Film Center hold?,5,4,1,4
+3tvss0c0e10rtl0eptbegwgrj6itw9|11|2,ft5-small,What film did Joe Summerhays teach kids?,3,4,1,2
+,,,,,,
+3tvss0c0e10rtl0eptbegwgrj6itw9|11|2,t5_kldiv,"What does Oliver serve in Oliver's Organic Ice Cream?
+",5,4,3,1
+3tvss0c0e10rtl0eptbegwgrj6itw9|11|2,t5_kldiv,"In what way does Oliver serve broccoli ice cream?
+",5,4,2,1
+,,,,,,
+,,,,,,
+3igi0vl647kltzms1bysq3xdrrnonr|6|2,ft5-large,What states took over Silesia after the rise of modern nation-states?,5,2,3,4
+3igi0vl647kltzms1bysq3xdrrnonr|6|2,ft5-large,What states ruled the region before the rise of modern nation-states?,5,2,3,4
+,,,,,,
+3igi0vl647kltzms1bysq3xdrrnonr|6|2,t5_canard,"What other state ruled Silesia in addition to Bohemia?
+",5,1,5,5
+3igi0vl647kltzms1bysq3xdrrnonr|6|2,t5_canard,"What other state ruled Silesia other than Bohemia?
+",5,1,5,5
+,,,,,,
+3igi0vl647kltzms1bysq3xdrrnonr|6|2,bart,"What other state ruled Silesia?
+",5,1,3,4
+3igi0vl647kltzms1bysq3xdrrnonr|6|2,bart,"What other state ruled Silesia?
+",5,1,3,4
+,,,,,,
+3igi0vl647kltzms1bysq3xdrrnonr|6|2,t5_kldiv,"Besides Bohemia, what other state ruled Silesia?
+",5,1,5,5
+3igi0vl647kltzms1bysq3xdrrnonr|6|2,t5_kldiv,"What other state ruled Silesia besides Bohemia?
+",5,1,5,5
+,,,,,,
+3igi0vl647kltzms1bysq3xdrrnonr|6|2,ft5-xl,Who ruled Silesia in the 10th century?,5,4,4,5
+3igi0vl647kltzms1bysq3xdrrnonr|6|2,ft5-xl,Where was Silesia ruled by when it became a part of Poland?,3,4,4,2
+,,,,,,
+3igi0vl647kltzms1bysq3xdrrnonr|6|2,ft5-small,Which other state gave up power there?,5,5,3,3
+3igi0vl647kltzms1bysq3xdrrnonr|6|2,ft5-small,What other states did silesia take control of?,5,5,2,4
+,,,,,,
+3igi0vl647kltzms1bysq3xdrrnonr|6|2,ft5-base,Which states held power in Silesia before the 14th century?,5,4,3,5
+3igi0vl647kltzms1bysq3xdrrnonr|6|2,ft5-base,What other state ruled Silesia the 10th century?,5,4,5,5
+,,,,,,
+,,,,,,
+3ydtzai2wxgebz5ld4llfye57wl41m|6|2,ft5-xl,Who was the police officer that helped Jim Sikes?,5,1,5,5
+3ydtzai2wxgebz5ld4llfye57wl41m|6|2,ft5-xl,Who was the officer that helped?,4,1,5,5
+,,,,,,
+3ydtzai2wxgebz5ld4llfye57wl41m|6|2,t5_canard,"Who helped Jim Sikes when the car got stuck on a southern California interstate?
+",4,1,4,5
+3ydtzai2wxgebz5ld4llfye57wl41m|6|2,t5_canard,"Who helped Jim Sikes get stuck when his car got stuck on a southern California interstate?
+",5,1,4,4
+,,,,,,
+3ydtzai2wxgebz5ld4llfye57wl41m|6|2,ft5-large,Who helped Jim Sikes with the car's stop after it became stuck?,2,3,1,2
+3ydtzai2wxgebz5ld4llfye57wl41m|6|2,ft5-large,Who helped Jim Sikes stop the car?,5,3,4,5
+,,,,,,
+3ydtzai2wxgebz5ld4llfye57wl41m|6|2,ft5-base,"According to the story, who helped Jim Sikes with the car's accelerator after it became stuck?",5,3,5,5
+3ydtzai2wxgebz5ld4llfye57wl41m|6|2,ft5-base,Who helped Jim Sikes in the incident?,5,3,5,5
+,,,,,,
+3ydtzai2wxgebz5ld4llfye57wl41m|6|2,ft5-small,Who helped Conceived a California Highway Patrol officer?,3,4,2,2
+3ydtzai2wxgebz5ld4llfye57wl41m|6|2,ft5-small,Who helped Jim Sikes to stop the car from moving in the southern California interstate?,2,4,3,2
+,,,,,,
+3ydtzai2wxgebz5ld4llfye57wl41m|6|2,bart,"Who helped Jim Sikes?
+",4,1,3,4
+3ydtzai2wxgebz5ld4llfye57wl41m|6|2,bart,"Who helped Jim Sikes?
+",4,1,3,4
+,,,,,,
+3ydtzai2wxgebz5ld4llfye57wl41m|6|2,t5_kldiv,"Who helped the driver of a Toyota Prius when the accelerator got stuck on the southern California interstate?
+",5,4,4,4
+3ydtzai2wxgebz5ld4llfye57wl41m|6|2,t5_kldiv,"Who helped the driver of a Toyota Prius get past the car on Interstate 8 in southern California?
+",5,4,1,1
+,,,,,,
+,,,,,,
+3duzq9u6smodzwnuaj1skp1raa8vsa|6|2,t5_kldiv,"what is the Inequality-adjusted Human Development Index (IHDI)?
+",5,1,2,5
+3duzq9u6smodzwnuaj1skp1raa8vsa|6|2,t5_kldiv,"what is the Inequality-adjusted Human Development Index (IHDI )?
+",5,1,2,5
+,,,,,,
+3duzq9u6smodzwnuaj1skp1raa8vsa|6|2,t5_canard,"what is the Inequality-adjusted Human Development Index?
+",5,1,2,5
+3duzq9u6smodzwnuaj1skp1raa8vsa|6|2,t5_canard,"what is the Inequality-adjusted Human Development Index (IHDI)?
+",5,1,2,5
+,,,,,,
+3duzq9u6smodzwnuaj1skp1raa8vsa|6|2,ft5-small,How does a country score higher HDI on its life expectancy?,3,3,3,4
+3duzq9u6smodzwnuaj1skp1raa8vsa|6|2,ft5-small,How much does the HDI support?,2,3,3,2
+,,,,,,
+3duzq9u6smodzwnuaj1skp1raa8vsa|6|2,ft5-xl,What other indicators are used to rank countries into the four tiers of human development?,5,5,5,5
+3duzq9u6smodzwnuaj1skp1raa8vsa|6|2,ft5-xl,What is the Inequality-adjusted Human Development Index (IHDI)?,5,5,2,5
+,,,,,,
+3duzq9u6smodzwnuaj1skp1raa8vsa|6|2,bart,"What is the name of the other one?
+",5,4,3,3
+3duzq9u6smodzwnuaj1skp1raa8vsa|6|2,bart,"What is the name of the person who developed the HDI?
+",5,4,2,5
+,,,,,,
+3duzq9u6smodzwnuaj1skp1raa8vsa|6|2,ft5-large,What is the Inequality-adjusted Human Development Index?,5,4,2,5
+3duzq9u6smodzwnuaj1skp1raa8vsa|6|2,ft5-large,What is the other indicator in the Human Development Index?,5,4,5,5
+,,,,,,
+3duzq9u6smodzwnuaj1skp1raa8vsa|6|2,ft5-base,What is the Index of Inequality-adjusted Human Development Index?,2,5,2,1
+3duzq9u6smodzwnuaj1skp1raa8vsa|6|2,ft5-base,What is the HDI and income per capita grouped together?,4,5,2,2
+,,,,,,
+,,,,,,
+3dbqwde4y6yzlpgaww2thxxmay5n5c|18|2,bart,"Do you mean when did the United Kingdom claim sovereignty over South Georgia?
+",5,2,5,5
+3dbqwde4y6yzlpgaww2thxxmay5n5c|18|2,bart,"What year did the United Kingdom claim sovereignty over South Georgia?
+",5,2,5,5
+,,,,,,
+3dbqwde4y6yzlpgaww2thxxmay5n5c|18|2,t5_kldiv,"In what year did argentina claim south Georgia?
+",5,3,2,5
+3dbqwde4y6yzlpgaww2thxxmay5n5c|18|2,t5_kldiv,"In what year did Argentina claim sovereignty over South Georgia and the South Sandwich Islands?
+",5,3,2,5
+,,,,,,
+3dbqwde4y6yzlpgaww2thxxmay5n5c|18|2,ft5-xl,When did the British claim sovereignty over the Falkland Islands?,5,5,4,5
+3dbqwde4y6yzlpgaww2thxxmay5n5c|18|2,ft5-xl,When did the United Kingdom claim sovereignty over South Georgia?,5,5,5,5
+,,,,,,
+3dbqwde4y6yzlpgaww2thxxmay5n5c|18|2,t5_canard,"In what year did argentina claim sovereignty over south Georgia and the South Sandwich Islands?
+",5,1,2,5
+3dbqwde4y6yzlpgaww2thxxmay5n5c|18|2,t5_canard,"In what year did argentina claim sovereignty over South Georgia and the South Sandwich Islands?
+",5,1,2,5
+,,,,,,
+3dbqwde4y6yzlpgaww2thxxmay5n5c|18|2,ft5-base,In what year saw the United Kingdom claim sovereignty over South Georgia?,3,5,5,4
+3dbqwde4y6yzlpgaww2thxxmay5n5c|18|2,ft5-base,When did Argentina claim South Georgia in 1927?,5,5,3,5
+,,,,,,
+3dbqwde4y6yzlpgaww2thxxmay5n5c|18|2,ft5-small,How many years after the Argentine claim over South Georgia contributed to South Georgia's Gulf War?,5,4,2,5
+3dbqwde4y6yzlpgaww2thxxmay5n5c|18|2,ft5-small,Where was Argentina in 1927 or 1927 bordering South Georgia?,2,4,2,1
+,,,,,,
+3dbqwde4y6yzlpgaww2thxxmay5n5c|18|2,ft5-large,what year was Argentina's claim of sovereignty over South Georgia and the South Sandwich Islands?,5,5,2,4
+3dbqwde4y6yzlpgaww2thxxmay5n5c|18|2,ft5-large,The United Kingdom claimed sovereignty over South Georgia in 1775 and the South Sandwich Islands in 1908.,5,5,1,1
+,,,,,,
+,,,,,,
+3pxx5px6lxyuqm3uo2o1yddelnmaba|12|2,ft5-large,what kind of airline hub is its main site of?,5,4,2,1
+3pxx5px6lxyuqm3uo2o1yddelnmaba|12|2,ft5-large,What is the primary site of the Louisville and Nashville Railroad?,5,4,2,3
+,,,,,,
+3pxx5px6lxyuqm3uo2o1yddelnmaba|12|2,bart,"What is the main site of Louisville's main airport?
+",4,2,4,4
+3pxx5px6lxyuqm3uo2o1yddelnmaba|12|2,bart,"What is the main site of the Louisville and Nashville Railroad?
+",5,2,1,4
+,,,,,,
+3pxx5px6lxyuqm3uo2o1yddelnmaba|12|2,ft5-small,"How near is Louisville (the city of Lexington, or the main site of Kentucky, Kentucky Fried Chicken, the University of Louisville and its Louisville Cardinals athletic teams?",2,4,2,1
+3pxx5px6lxyuqm3uo2o1yddelnmaba|12|2,ft5-small,Louisville's major airport is the site of United Parcel Service's worldwide air hub?,2,4,1,2
+,,,,,,
+3pxx5px6lxyuqm3uo2o1yddelnmaba|12|2,t5_canard,"what is Louisville the main site of for Kentucky Fried Chicken?
+",3,1,2,1
+3pxx5px6lxyuqm3uo2o1yddelnmaba|12|2,t5_canard,"What is Louisville the main site of Kentucky Fried Chicken?
+",2,1,2,1
+,,,,,,
+3pxx5px6lxyuqm3uo2o1yddelnmaba|12|2,t5_kldiv,"what is Louisville the main site of Kentucky Fried Chicken?
+",2,3,2,1
+3pxx5px6lxyuqm3uo2o1yddelnmaba|12|2,t5_kldiv,"what is Louisville the main site of besides Kentucky Fried Chicken?
+",5,3,4,4
+,,,,,,
+3pxx5px6lxyuqm3uo2o1yddelnmaba|12|2,ft5-xl,What event is the city the main site of?,3,3,3,2
+3pxx5px6lxyuqm3uo2o1yddelnmaba|12|2,ft5-xl,what is it the main site of?,5,3,2,3
+,,,,,,
+3pxx5px6lxyuqm3uo2o1yddelnmaba|12|2,ft5-base,What is the main site of the airport located in Louisville?,4,4,3,3
+3pxx5px6lxyuqm3uo2o1yddelnmaba|12|2,ft5-base,What airport is located under Louisville Metro?,4,4,2,1
+,,,,,,
+,,,,,,
+3uxuoq9okex7oa04blcltbri2p17ab|4|2,bart,"What was the name of the movie made of My Left Foot?
+",2,1,2,2
+3uxuoq9okex7oa04blcltbri2p17ab|4|2,bart,"What was the name of the movie made of My Left Foot?
+",2,1,2,2
+,,,,,,
+3uxuoq9okex7oa04blcltbri2p17ab|4|2,ft5-base,What movie based on the real story of Christy Brown?,2,4,3,4
+3uxuoq9okex7oa04blcltbri2p17ab|4|2,ft5-base,What was the true story of Christy Brown?,5,4,2,4
+,,,,,,
+3uxuoq9okex7oa04blcltbri2p17ab|4|2,ft5-xl,example of what?,5,3,2,4
+3uxuoq9okex7oa04blcltbri2p17ab|4|2,ft5-xl,example of what movie?,5,3,3,4
+,,,,,,
+3uxuoq9okex7oa04blcltbri2p17ab|4|2,t5_kldiv,"Was there a movie made of Stand and Deliver?
+",4,3,4,4
+3uxuoq9okex7oa04blcltbri2p17ab|4|2,t5_kldiv,"Was there a movie made of Stand and Deliver or My Left Foot?
+",5,3,4,4
+,,,,,,
+3uxuoq9okex7oa04blcltbri2p17ab|4|2,ft5-large,What was the film based on?,5,4,5,5
+3uxuoq9okex7oa04blcltbri2p17ab|4|2,ft5-large,Where was the real example of Christy Brown in the real story?,5,4,5,5
+,,,,,,
+3uxuoq9okex7oa04blcltbri2p17ab|4|2,ft5-small,What film did they create when they first entered the high school?,5,5,3,4
+3uxuoq9okex7oa04blcltbri2p17ab|4|2,ft5-small,How many Oscars did Philip Rush get as an academy award for best actor?,5,5,2,4
+,,,,,,
+3uxuoq9okex7oa04blcltbri2p17ab|4|2,t5_canard,"Was there a movie made of Stand and Deliver?
+",5,3,2,4
+3uxuoq9okex7oa04blcltbri2p17ab|4|2,t5_canard,"Was there a movie made of Stand and Deliver or Shine?
+",5,3,2,4
+,,,,,,
+,,,,,,
+3e13vnj1nnv8j640ytnp9zoocgr1i7|10|2,ft5-large,How much was the Sunday circulation lower than its 1990 peak?,5,4,4,2
+3e13vnj1nnv8j640ytnp9zoocgr1i7|10|2,ft5-large,How much lower was the average daily circulation from its 1990 peak when it was controlled by Tony O'Reilly's Independent News & Media?,5,4,5,4
+,,,,,,
+3e13vnj1nnv8j640ytnp9zoocgr1i7|10|2,ft5-xl,"In June 2015, what was the daily circulation down from 1990?",5,4,5,5
+3e13vnj1nnv8j640ytnp9zoocgr1i7|10|2,ft5-xl,"The Sunday edition had a circulation of just over 97,000 in June 2015, how much lower than its 1990 peak?",5,4,4,2
+,,,,,,
+3e13vnj1nnv8j640ytnp9zoocgr1i7|10|2,bart,"How much was circulation down since 1990?
+",4,1,2,3
+3e13vnj1nnv8j640ytnp9zoocgr1i7|10|2,bart,"How much was the circulation down since 1990?
+",5,1,2,3
+,,,,,,
+3e13vnj1nnv8j640ytnp9zoocgr1i7|10|2,ft5-base,How was circulation down since 1990 relative to the Sunday edition?,3,3,3,3
+3e13vnj1nnv8j640ytnp9zoocgr1i7|10|2,ft5-base,How long had circulation down from 1990 to 2015?,2,3,2,3
+,,,,,,
+3e13vnj1nnv8j640ytnp9zoocgr1i7|10|2,t5_canard,"How much was circulation down since 1990 for ""The Independent ""?
+",5,1,3,4
+3e13vnj1nnv8j640ytnp9zoocgr1i7|10|2,t5_canard,"How much was circulation down since 1990 of ""The Independent""?
+",5,1,3,4
+,,,,,,
+3e13vnj1nnv8j640ytnp9zoocgr1i7|10|2,ft5-small,How much higher was daily circulation down from 1990?,5,4,3,4
+3e13vnj1nnv8j640ytnp9zoocgr1i7|10|2,ft5-small,"How much lower was daily circulation down from 1980, according to September 2011?",5,4,2,4
+,,,,,,
+3e13vnj1nnv8j640ytnp9zoocgr1i7|10|2,t5_kldiv,"How much was circulation down since 1990 for the Sunday edition of ""The Independent ""?
+",5,3,4,3
+3e13vnj1nnv8j640ytnp9zoocgr1i7|10|2,t5_kldiv,"How much was circulation down since 1990 of ""The Independent""?
+",5,3,3,3
+,,,,,,
+,,,,,,
+3spj033421314nz9s0fyzneywhyyjp|17|2,t5_canard,"Did one of the scientists dispute the name of the Silurian system?
+",5,4,2,4
+3spj033421314nz9s0fyzneywhyyjp|17|2,t5_canard,"The Silurian was first identified by Roderick Murchison and Adam Sedgwick and was named after the strata of the Baltic island of Gotland.
+",5,4,1,2
+,,,,,,
+3spj033421314nz9s0fyzneywhyyjp|17|2,ft5-xl,What was the alternative name for the Silurian?,5,5,3,3
+3spj033421314nz9s0fyzneywhyyjp|17|2,ft5-xl,What are the major events in the Silurian Period?,5,5,2,3
+,,,,,,
+3spj033421314nz9s0fyzneywhyyjp|17|2,ft5-base,The official rock beds defined the Silurian system.,4,2,1,2
+3spj033421314nz9s0fyzneywhyyjp|17|2,ft5-base,The Silurian system played a decisive role in the resolution of the conflict between Charles Lapworth and Charles Lapworth.,4,2,1,3
+,,,,,,
+3spj033421314nz9s0fyzneywhyyjp|17|2,ft5-small,Who was the Silurian system first identified?,5,4,2,4
+3spj033421314nz9s0fyzneywhyyjp|17|2,ft5-small,Who had identified the Silurian system from the Latin name for Wales in 1935?,3,4,2,4
+,,,,,,
+3spj033421314nz9s0fyzneywhyyjp|17|2,t5_kldiv,"In 1835 Charles Lapworth proposed a new Ordovician system based on the strata of the Baltic island of Gotland...
+",5,2,1,3
+3spj033421314nz9s0fyzneywhyyjp|17|2,t5_kldiv,"An early alternative name for the Silurian was ""Gotlandian"" after the strata of the Baltic island of Gotland..
+",5,2,1,3
+,,,,,,
+3spj033421314nz9s0fyzneywhyyjp|17|2,ft5-large,What geographical area were the Silurian rocks found?,5,4,3,4
+3spj033421314nz9s0fyzneywhyyjp|17|2,ft5-large,"During the Silurian, what milestone did terrestrial life first appear on land?",5,4,3,4
+,,,,,,
+3spj033421314nz9s0fyzneywhyyjp|17|2,bart,"What did Roderick Murchison name after?
+",4,4,2,3
+3spj033421314nz9s0fyzneywhyyjp|17|2,bart,"What was the name of Roderick Murchison?
+",3,4,2,2

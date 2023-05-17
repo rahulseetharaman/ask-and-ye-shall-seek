@@ -1,0 +1,656 @@
+32xvdsjfpzx14acn2clv6b5aksj2ms|5|2
+Story:
+Angie went to the library with her mother. First she had to turn in the books she was returning at the return desk. They said hello to the man there. He took their books. Then they went into the adult reading room. Angie sat in a brown chair at the table. She made a drawing of her mother. Her mother found a large red book. Then they went to the Mystery section. Angie sat in a blue chair. She drew a picture of her brother. Her mother found the book. It was a green book. Finally it was time to go to the children's room. It was Story Hour. Miss Hudson was there to read to all the children. She read a book about friendship. After the story Angie sat in the red chair and began drawing. They were drawing pictures of friends. Angie drew a picture of her best friend Lilly. Miss Hudson hung the pictures on the wall. Then Angie and her mother picked out 8 books to read at home. They checked the books out and went home.
+History:
+what did she draw?
+her mother
+what did her mother find?
+the book.\
+Ambiguous Question:
+what color was it?
+Ground Truth: Do you mean the first book?
+
+
+3tvss0c0e10rtl0eptbegwgrj6itw9|11|2
+Story:
+Have you ever tried broccoli ice cream? That's what Oliver serves his customers in the new movie Oliver's Organic Ice Cream. 
+
+The one-minute film was created by kids. A film is a movie. The young students learned their moviemaking skills at the Jacob Burns Film Center. The center is in Pleasantville, New York. Kids who go there learn how to make movies and music videos. 
+
+The character Oliver and his treats are animated. In an animated movie, objects, such as ice cream and paper dolls, appear to be alive or moving. 
+
+Animated movies are made up of hundreds of pictures. It takes 15 pictures to make just one second of film. To make a movie that lasts one minute, students need to take about 900 frames. A frame is a picture. 
+
+Animation expert Joe Summerhays teaches kids the steps to shoot a movie. He says what they learn behind the scenes, however, also counts. Students create their films in small groups. They have to agree on every decision. 
+
+" The benefit of the class is less animation and more problem-solving," Summerhays said. "It's all about teamwork." 
+
+About 4,000 kids have made movies at the Jacob Burns Film Center. Mikey Price, 11, of Briarcliff Manor, New York, is one of them. "I'm actually making a real movie," he said. "It's an adventure."
+History:
+How many have made movies?
+About 4,000 kids
+What does Oliver serve?
+broccoli ice cream
+Ambiguous Question:
+in what?
+Ground Truth: Do you mean what container?
+
+
+3igi0vl647kltzms1bysq3xdrrnonr|6|2
+Story:
+Silesia (; ; ; ; Silesian German: "Schläsing"; Silesian: "Ślůnsk" ; ; ; ) is a region of Central Europe located mostly in Poland, with small parts in the Czech Republic and Germany. Its area is about , and its population about 8,000,000. Silesia is located along the Oder River. It consists of Lower Silesia and Upper Silesia. 
+
+The region is rich in mineral and natural resources, and includes several important industrial areas. Silesia's largest city and historical capital is Wrocław. The biggest metropolitan area is the Upper Silesian metropolitan area, the centre of which is Katowice. Parts of the Czech city of Ostrava fall within the borders of Silesia. 
+
+Silesia's borders and national affiliation have changed over time, both when it was a hereditary possession of noble houses and after the rise of modern nation-states. The first known states to hold power there were probably those of Greater Moravia at the end of the 9th century and Bohemia early in the 10th century. In the 10th century, Silesia was incorporated into the early Polish state, and after its division in the 12th century became a Piast duchy. In the 14th century, it became a constituent part of the Bohemian Crown Lands under the Holy Roman Empire, which passed to the Austrian Habsburg Monarchy in 1526.
+History:
+What are the other two countries it is part of?
+the Czech Republic and Germany.
+When did Bohemia rule there?
+the 10th century
+Ambiguous Question:
+What other state ruled it?
+Ground Truth: Do you mean what state ruled it at the end of the 9th century?
+
+
+3ydtzai2wxgebz5ld4llfye57wl41m|6|2
+Story:
+(CNN) -- The driver of a Toyota Prius says he was taken on a wild ride Monday after the car's accelerator became stuck, reaching speeds in excess of 90 mph on a winding, hilly portion of a southern California interstate. 
+
+It took the California Highway Patrol to bring the car safely to a stop. 
+
+The driver, Jim Sikes, said he was traveling east on Interstate 8 outside of the San Diego area when he attempted to pass a slower vehicle. 
+
+"I pushed the gas pedal to pass a car, and it just did something kind of funny ... and it just stuck there," he said at a news conference outside a Highway Patrol office. "As I was going, I was trying the brakes ... and it just kept speeding up." 
+
+Sikes said he called 911 for help, and dispatchers talked him through instructions on how he might be able to stop the car. But nothing worked. 
+
+At one point, Sikes said he reached down to try to pull the accelerator up, but it "stayed right where it was." 
+
+Alerted by emergency dispatchers, a California Highway Patrol officer was able to catch up to Sikes' Prius and used the patrol car's public address system to instruct Sikes to apply the brakes and the emergency brake at the same time. 
+
+The tactic worked, and the car slowed to about 50 mph. Sikes said he was able to shut off the car, and it rolled to a stop. The responding officer, Todd Neibert, positioned his patrol car in front of the Prius as a precaution to prevent it from moving again. 
+History:
+Where?
+California
+What road?
+A southern California interstate.
+Ambiguous Question:
+Who helped?
+Ground Truth: Do you mean who initially tried to help?
+
+
+3duzq9u6smodzwnuaj1skp1raa8vsa|6|2
+Story:
+The Human Development Index (HDI) is a composite statistic of life expectancy, education, and income per capita indicators, which are used to rank countries into four tiers of human development. A country scores higher HDI when the life expectancy at birth is longer, the education period is longer, and the income per capita is higher. The HDI was developed by the Pakistani economist Mahbub ul Haq, often framed in terms of whether people are able to "be" and "do" desirable things in their life, and was published by the United Nations Development Programme. 
+
+The 2010 Human Development Report introduced an Inequality-adjusted Human Development Index (IHDI). While the simple HDI remains useful, it stated that "the IHDI is the actual level of human development (accounting for inequality)," and "the HDI can be viewed as an index of 'potential' human development (or the maximum IHDI that could be achieved if there were no inequality)."
+History:
+and another?
+income per capita
+is there another one?
+yes
+Ambiguous Question:
+what is it?
+Ground Truth: Do you want to know the one that starts with "l"?
+
+
+3dbqwde4y6yzlpgaww2thxxmay5n5c|18|2
+Story:
+South Georgia and the South Sandwich Islands (SGSSI) is a British overseas territory in the southern Atlantic Ocean. It is a remote and inhospitable collection of islands, consisting of South Georgia and a chain of smaller islands known as the South Sandwich Islands. South Georgia is long and wide and is by far the largest island in the territory. The South Sandwich Islands lie about southeast of South Georgia. The territory's total land area is . The Falkland Islands are about north-west from its nearest point. 
+
+There is no permanent population on the islands. The present inhabitants are the British Government Officer, Deputy Postmaster, scientists, and support staff from the British Antarctic Survey who maintain scientific bases at Bird Island and at the capital, King Edward Point, as well as museum staff at nearby Grytviken. 
+
+The United Kingdom claimed sovereignty over South Georgia in 1775 and the South Sandwich Islands in 1908. The territory of "South Georgia and the South Sandwich Islands" was formed in 1985; previously it had been governed as part of the Falkland Islands Dependencies. Argentina claimed South Georgia in 1927 and claimed the South Sandwich Islands in 1938. 
+
+Argentina maintained a naval station, Corbeta Uruguay, on Thule Island in the South Sandwich Islands from 1976 until 1982 when it was closed by the Royal Navy. The Argentine claim over South Georgia contributed to the 1982 Falklands War, during which Argentine forces briefly occupied the island. Argentina continues to claim sovereignty over South Georgia and the South Sandwich Islands.
+History:
+In the same year as they took control of South Georgia?
+no
+Before or after?
+after
+Ambiguous Question:
+In what year?
+Ground Truth: Do you want to know when the United Kingdom claimed sovereignty over the South Sandwich Islands?
+
+
+3pxx5px6lxyuqm3uo2o1yddelnmaba|12|2
+Story:
+Louisville ( , or ) is the largest city in the Commonwealth of Kentucky and the 29th-most populous city in the United States. It is one of two cities in Kentucky designated as first-class, the other being the state's second-largest city of Lexington. Louisville is the historical seat and, since 2003, the nominal seat of Jefferson County. 
+
+Louisville was founded in 1778 by George Rogers Clark and is named after King Louis XVI of France, making Louisville one of the oldest cities west of the Appalachian Mountains. Sited beside the Falls of the Ohio, the only major obstruction to river traffic between the upper Ohio River and the Gulf of Mexico, the settlement first grew as a portage site. It was the founding city of the Louisville and Nashville Railroad, which grew into a system across 13 states. Today, the city is known as the home of the Kentucky Derby, Kentucky Fried Chicken, the University of Louisville and its Louisville Cardinals athletic teams, Louisville Slugger baseball bats, and three of Kentucky's six "Fortune" 500 companies. Its main airport is also the site of United Parcel Service's worldwide air hub. 
+
+Since 2003, Louisville's borders have been the same as those of Jefferson County because of a city-county merger. The official name of this consolidated city-county government is the Louisville/Jefferson County Metro Government, abbreviated to Louisville Metro. Despite the merger and renaming, the term "Jefferson County" continues to be used in some contexts in reference to Louisville Metro, particularly including the incorporated cities outside the "balance" which make up Louisville proper. The city's total consolidated population as of the 2014 census estimate was 760,026. However, the balance total of 612,780 excludes other incorporated places and semiautonomous towns within the county and is the population listed in most sources and national rankings.
+History:
+what is louisville home to?
+the Kentucky Derby
+is it home to any thing else?
+Kentucky Fried Chicken
+Ambiguous Question:
+what is it the main site of?
+Ground Truth: Are you asking what the main airport is the site of?
+
+
+3uxuoq9okex7oa04blcltbri2p17ab|4|2
+Story:
+My Left Foot (1989) Imagine being a prisoner of your own body, unable to make any movements except to move your left foot. The main character in My Left Foot, based on the real story of cerebral palsy sufferer Christy Brown, can barely move his mouth to speak, but by controlling his left foot, he's able to express himself as an artist and poet. For his moving performance of Brown, Daniel Lewis won his first Academy Award for best actor. Shine (1996) Do you have a talent you're afraid to share with the world? David Helfgott seemed meant from childhood to be "one of the truly great pianists," but the pressures of performing (and pleasing his father) resulted in a complete breakdown. Ten years in a mental institution didn't weaken Helfgott's musical gift: When he was rediscovered, he was playing concertos in a bar. Shine received s even Oscar nominations , and Geoffrey Rush won best actor for his performance of Helfgott. Life Is Beautiful (1997) Nothing's more powerful than the love between a parent and a child. In this heartbreaking Italian film, a father (Roberto Benigni) makes an unbelievable sacrifice for his 4-year-old son: trapped in a Nazi concentration camp in 1945, the Jewish man convinces his boy that they are playing a complicated game. He manages to spare him the horror of the terrible war, and even in his final moments of life, keeps his son smiling and hopeful. Benigni won the best actor Oscar. Stand and Deliver (1988) Few people can inspire us more than a good teacher. Jaime Escalante (Edward James Olmos got Oscar nomination for best actor) is a great one. Employed at a high school where kids are expected to fail, Escalante challenges his math students to struggle for better things, like getting good grades in the AP exam. Despite the obstacles in their lives, the classmates accomplish their goals, thanks to Mr. Escalante's support. The real Jaime Escalante, the Best Teacher in America, says that Stand and Deliver is " 90% truth, 10% drama."
+History:
+Was there an example?
+yes
+Was there a movie made of it?
+yes
+Ambiguous Question:
+What was the name?
+Ground Truth: Was the movie about cerebral palsy?
+
+
+3e13vnj1nnv8j640ytnp9zoocgr1i7|10|2
+Story:
+The Independent is a British online newspaper. Established in 1986 as an independent national morning newspaper published in London, it was controlled by Tony O'Reilly's Independent News & Media from 1997 until it was sold to Russian oligarch Alexander Lebedev in 2010. The last printed edition of "The Independent" was published Saturday 20 March 2016, leaving only its digital editions. 
+
+Nicknamed the "Indy", it began as a broadsheet, but changed to tabloid (compact) format in 2003. Until September 2011, the paper described itself on the banner at the top of every newspaper as "free from party political bias, free from proprietorial influence". It tends to take a pro-market stance on economic issues. 
+
+The daily edition was named "National Newspaper of the Year" at the 2004 British Press Awards. 
+
+In June 2015, it had an average daily circulation of just below 58,000, 85 per cent down from its 1990 peak, while the Sunday edition had a circulation of just over 97,000. 
+
+Launched in 1986, the first issue of "The Independent" was published on 7 October in broadsheet format. It was produced by Newspaper Publishing plc and created by Andreas Whittam Smith, Stephen Glover and Matthew Symonds. All three partners were former journalists at "The Daily Telegraph" who had left the paper towards the end of Lord Hartwell's ownership. Marcus Sieff was the first chairman of Newspaper Publishing, and Whittam Smith took control of the paper.
+History:
+In 2015 which had higher circulation, daily or Sunday?
+Sunday
+How much lower was daily circulation down from 1990?
+85 per cent
+Ambiguous Question:
+How much was circulation down since 1990?
+Ground Truth: Do you want to know how much total circulation was down?
+
+
+3spj033421314nz9s0fyzneywhyyjp|17|2
+Story:
+The Silurian is a geologic period and system spanning 24.6 million years from the end of the Ordovician Period, at million years ago (Mya), to the beginning of the Devonian Period, Mya. As with other geologic periods, the rock beds that define the period's start and end are well identified, but the exact dates are uncertain by several million years. The base of the Silurian is set at a major Ordovician–Silurian extinction events when 60% of marine species were wiped out. 
+
+A significant evolutionary milestone during the Silurian was the diversification of jawed and bony fish. Multi-cellular life also began to appear on land in the form of small, bryophyte-like and vascular plants that grew beside lakes, streams, and coastlines, and terrestrial arthropods are also first found on land during the Silurian. However, terrestrial life would not greatly diversify and affect the landscape until the Devonian. 
+
+The Silurian system was first identified by British geologist Roderick Murchison, who was examining fossil-bearing sedimentary rock strata in south Wales in the early 1830s. He named the sequences for a Celtic tribe of Wales, the Silures, inspired by his friend Adam Sedgwick, who had named the period of his study the Cambrian, from the Latin name for Wales. This naming does not indicate any correlation between the occurrence of the Silurian rocks and the land inhabited by the Silures. In 1835 the two men presented a joint paper, under the title "On the Silurian and Cambrian Systems, Exhibiting the Order in which the Older Sedimentary Strata Succeed each other in England and Wales," which was the germ of the modern geological time scale. As it was first identified, the "Silurian" series when traced farther afield quickly came to overlap Sedgwick's "Cambrian" sequence, however, provoking furious disagreements that ended the friendship. Charles Lapworth resolved the conflict by defining a new Ordovician system including the contested beds. An early alternative name for the Silurian was ""Gotlandian"" after the strata of the Baltic island of Gotland.
+History:
+Where?
+south Wales
+Did he name it after something?
+yes
+Ambiguous Question:
+After what?
+Ground Truth: Do you mean the Silurian system?
+
+
+39asuflu6x74t2n793i5jtuxpy5xek|6|2
+Story:
+John and Bobby joined the same company together just after graduation from college the same year. Both worked very hard. After several years, however, the boss promoted Bobby to the position of manager but John remained an ordinary worker. John couldn't 
+
+it anymore, gave his resignation to the boss and complained that the boss only promoted those who only said good words to him. 
+
+The boss knew John worked very hard for the years. He thought for a moment and said, "I hope you will do one more thing for our company before you leave." 
+
+John agreed. The boss asked him to go and find anyone selling watermelons in the market. John went and returned soon. He said he had found a man selling water melons. The boss asked how much they per kilo. John shook his head and went back to the seller to ask and returned to tell the boss $1.2 per kilo. 
+
+The boss told John to wait a second, and he called Bobby to come to his office. He asked Bobby to go and find anyone selling watermelons in the market. Bobby went, returned and said, "Boss, only one person is selling watermelons. $1.2 per kg, and $10 for 10 kg. He has 340 melons in all, 58 of which are on the table. Every melon weighs about 2 kg. Brought from the South two days ago, they are fresh and red. " 
+
+John was impressed and realized the difference between himself and Bobby. He decided not to resign but to learn from Bobby.
+History:
+how many things did he ask of John before John left?
+one more thing
+did John say yes?
+Yes
+Ambiguous Question:
+What did he want him to find?
+Ground Truth: By "him" do you mean the boss, John, or Bobby?
+
+
+33l7pjkhcgyg3k4wrqv82gd51188t6|12|2
+Story:
+(CNN) -- A court in Fulton County, Georgia, has temporarily stopped the scheduled Monday night execution of condemned murderer Warren Hill. 
+
+Hill was sentenced to death for the 1990 killing of Joseph Handspike, another inmate in a Georgia state prison. 
+
+He was convicted of beating Handspike to death with a nail-studded board while serving a life sentence in the 1985 killing of his girlfriend, Myra Wright. His lawyers have argued that Hill is mentally retarded. 
+
+Last minute stay of execution granted in February 
+
+"Today, the Court found that more time is needed to explore Mr. Hill's complaint, which raises serious concerns about the extreme secrecy surrounding the execution process in Georgia, and the new Lethal Injection Secrecy Act, which took effect one day before Georgia issued a death warrant for Mr. Hill," Brian Kammer, Hill's attorney said in a statement. 
+
+Monday is not the first time Hill's execution has been halted. 
+
+He had previously been scheduled to die last July, but the state Supreme Court stopped the execution on procedural grounds. Hill was granted another stay in February. 
+
+According to Kammer, a briefing on Hill's complaint will take place Thursday. A new execution date is expected to be set for the same day, he said. 
+
+"Ultimately, we are hopeful that the United States Supreme Court will hear Mr. Hill's pending Petition for Writ of Habeas Corpus, and will have the opportunity to consider the important new evidence in this case, that there is unanimous consensus among all the doctors who have examined Mr. Hill, including three who previously testified for the state, that he is a person with mental retardation, and thus ineligible for the death penalty," said Kammer. 
+History:
+Was there something wrong with this man?
+Yes
+What?
+mental retardation
+Ambiguous Question:
+Can a man with that issue be executed?
+Ground Truth: Do you mean in the United States?
+
+
+34fnn24dcm9txoko3yb4ydvtddmy5f|17|2
+Story:
+Tony was riding his bike home from school. Then he saw Cindy riding her bike in front of him. 
+
+Tony yelled, "Hey, Cindy!" Then he rode faster to catch up with her. 
+
+Cindy said, "Tony! Hey! Where are you going?" 
+
+"I'm going to the empty lot on Maple Street to ride my bike. The other kids are going to be there. Do you want to come?" 
+
+"Sure," said Cindy. 
+
+Tony and Cindy rode to Maple Street, to the empty lot. The empty lot did not have a house on it. Instead, it had big hills of dirt, and it had trees cut down on the ground. There was a low part that became a pond after it rained. The lot had been empty for a couple of years, because times were bad and the builder couldn't find a buyer for another house. The kids had ridden their bikes over the hills of dirt, around the cut trees, and through the muddy pond. There were bike trails all over the empty lot. There were even places where the kids could jump their bikes. 
+
+There were three other children riding their bikes at the empty lot when Tony and Cindy arrived: Lana, Billy and Chris. 
+
+Cindy said, "I am calling my mom to let her know that I'm here." 
+
+Tony said, "That's a good idea. Can I use your phone when you're done?" 
+
+Cindy said "Sure! Keep it for now. I'm going to go on the jump path. I was scared to try it last time. I don't want to break my phone if I fall. I'm leaving my backpack here, too." 
+
+"Okay." said Tony. "I'll watch. You'll do good."
+History:
+what did Cindy do?
+called her mom
+did anyone else?
+yes
+Ambiguous Question:
+who?
+Ground Truth: Do you mean who else called their mom or who else was with Cindy?
+
+
+3wygz5xf3wfzjltibfnligqathgks1|4|2
+Story:
+Santa Claus makes sure that every year at Christmas time that his reindeer are ready to deliver gifts to girls and boys all over the world. Without the reindeer, how would Santa fly from home to home? The most important thing that Santa has to do for the reindeer is to make sure they have their coffee on Christmas Eve. Without the coffee, they won't stay awake for very long. Sleeping reindeer are not very helpful. Santa also gives the reindeer candy to keep up their energy. In the North Pole, the main candy is candy canes in red and white. Reindeer love the candy canes that are different colors best and Santa says that helps them fly faster. Next, Santa has to make sure that the reindeer have a good meal before they go. Santa wants to make sure he doesn't have to share the cookies kids leave for him. The last thing Santa has to do is make sure the reindeer know where they are going. Santa has only been lost one time on Christmas Eve and he does not want that to happen again.
+History:
+What candy does he feed them most often?
+Candy canes.
+How many times has he been lost?
+Once.
+Ambiguous Question:
+Why does he make sure they are well fed?
+Ground Truth: Do you want to know why he feeds them candy or why he feeds them a good meal?
+
+
+3sle99er0ndvrub20u40f64nu0bzb2|18|2
+Story:
+Sudha Chandran, a classical dancer from India, had to have her right leg cut after a car accident.She was also cut off on her bright career road. 
+
+However, she didn't stop struggling. In the painful three months that followed, Sudha met a doctor who had an operation on her leg. So strongly she wanted to go back to dancing after she had been fitted with a man-made leg. Sudha knew that she believed in herself and could realize her dream,so she began her brave journey back to the world of dancing -- learning to balance, bend, stretch,walk, and turn. 
+
+After every public recital , she might ask her dad about her performance. "You stillhave a long way to go" was the answer she used to get in return. In January 1984, Sudha gained popularity again by giving a public recital in Bombay. She performed in such a great manner that it moved everyone to tears and this performance pushed her to the number one position again. That evening when she asked her dad the same question, he didn't say anything. He just touched her feet as a praise. 
+
+Sudha's comeback was so touching that a film producer decided to make the story into a film,which has moved more and more people. 
+
+When someone asked Sudha how she had managed to dance again, she said quite simply, "YOU DON'T NEED FEET TO DANCE." Nothing is impossible in this world. If you have the will to win,you can achieve anything.
+History:
+And her home country?
+India
+Name a skill Sudha had to relearn in order to dance again.
+balance
+Ambiguous Question:
+And another?
+Ground Truth: Do you want to know the one that starts with "b"?
+
+
+33l7pjkhcgyg3k4wrqv82gd50sbt8b|18|2
+Story:
+(CNN) -- The fledgling International Premier Tennis League suffered a blow when two of the world's most recognized female athletes snubbed the event. 
+
+Max Eisenbud, the agent of both Maria Sharapova and Li Na, told CNN on Thursday that neither would be appearing in the team tournament that is set to make its debut in Asia this November. 
+
+Sharapova transcends tennis and has long been a magnet for sponsors -- the Russian is perennially listed as the world's richest female athlete by Forbes -- while China's Li is one of the marquee names in Asia, having captured a second grand slam title at the Australian Open in January. 
+
+Li was "confirmed" as one of the entrants by the League in a press release last May. 
+
+"Maria and Li Na will not be participating," Eisenbud said in an email. 
+
+Mahesh Bhupathi, a grand slam doubles winner and the main man behind the project modeled after cricket's highly successful Indian Premier League, will now be hoping he can secure the likes of Rafael Nadal, Novak Djokovic and Andy Murray. 
+
+Roger Federer, the 17-time grand slam champion and still the biggest name in the sport, told Gulf News this week he generally backed the idea. 
+
+The player list is expected to be revealed Friday. 
+
+"Firstly, I want to see whether it takes off or not," Federer told Gulf News. "I know a lot of people have invested in it or are part of it. Anywhere where tennis grows is a good thing, so I hope it takes off and becomes very successful. 
+History:
+When?
+in January.
+Is she from Australia?
+no
+Ambiguous Question:
+Where then?
+Ground Truth: Who are you referring to?
+
+
+30mvjzjnhmdm3mr1koni06l7n9v9jv|4|2
+Story:
+CHAPTER TWENTY TWO. 
+
+THE PIGS' CURE. 
+
+It was not long before our hero recovered from his delirium. Leading, as he had been doing, an abstemious and healthy life, ordinary disease could not long maintain its grasp of him. His superabundant life seemed to cast it off with the ease with which his physical frame was able to cast aside human foes. But he could not thus shake off the leprosy. 
+
+One of the first things he did on recovering consciousness was to uncover his arm. The fatal spot had increased considerably in size. With something of a shudder he looked round his little hut, endeavouring to remember where he was and to recall recent events. He was alone at the time, and he fancied the fight with the robbers and rescue of the boy must have been all a dream. The name Cormac, however, puzzled him not a little. Many a time before that had he dreamed of vivid scenes and thrilling incidents, but never in his recollection had he dreamt a name! 
+
+Being thoughtfully disposed, he lay meditating listlessly on this point in that tranquil frame of mind which often accompanies convalescence, and had almost fallen asleep when a slight noise outside awoke him. The curtain-door was lifted, and Cormac, entering, sat quietly down on a block of wood beside him. 
+
+Bladud became suddenly aware that he had not been dreaming, but he did not move. Through his slightly opened eyelids he watched the lad while he mixed some berries in a cup of water. As he lay thus silently observant, he was deeply impressed with the handsome countenance of his nurse and the graceful movements of his slight figure. 
+History:
+What was the name he thought he had dreamed?
+Cormac
+Did he really dream it?
+no
+Ambiguous Question:
+Did Cormac appear?
+Ground Truth: Do you mean before or after the hero was meditating?
+
+
+3dygaii7pl8ohwblw33ojxx853jqp1|10|2
+Story:
+Joe was in his bedroom. He was reading a book that his teacher gave him. The book was titled, "Everything You'd Want to Know About Fish." He was reading the book because he was interested in learning more about fish. Joe thought reading the book was fun. He liked to imagine himself swimming with fish he read about in the book. Also, he liked looking at the pictures. 
+
+Joe's mother called him. Joe closed the book, and went downstairs. He asked his mother, "Do you need something?" 
+
+And his mother said, "Joe, it's time for dinner."
+History:
+What else did he like?
+Looking at the pictures.
+Who called him?
+His mother.
+Ambiguous Question:
+What did he do first?
+Ground Truth: Do you mean before or after his mother called him?
+
+
+3wakvudhuwgr3je2hqtctc3c926u77|12|2
+Story:
+CHAPTER XI 
+
+THE MAN AT THE ASTOR 
+
+The duties of Master Pugsy Maloney at the offices of _Cosy Moments_ were not heavy; and he was accustomed to occupy his large store of leisure by reading narratives dealing with life in the prairies, which he acquired at a neighbouring shop at cut rates in consideration of their being shop-soiled. It was while he was engrossed in one of these, on the morning following the visit of Mr. Parker, that the seedy-looking man made his appearance. He walked in from the street, and stood before Master Maloney. 
+
+"Hey, kid," he said. 
+
+Pugsy looked up with some hauteur. He resented being addressed as "kid" by perfect strangers. 
+
+"Editor in, Tommy?" inquired the man. 
+
+Pugsy by this time had taken a thorough dislike to him. To be called "kid" was bad. The subtle insult of "Tommy" was still worse. 
+
+"Nope," he said curtly, fixing his eyes again on his book. A movement on the part of the visitor attracted his attention. The seedy man was making for the door of the inner room. Pugsy instantly ceased to be the student and became the man of action. He sprang from his seat and wriggled in between the man and the door. 
+
+"Youse can't butt in dere," he said authoritatively. "Chase yerself." 
+
+The man eyed him with displeasure. 
+
+"Fresh kid!" he observed disapprovingly. 
+
+"Fade away," urged Master Maloney. 
+
+The visitor's reply was to extend a hand and grasp Pugsy's left ear between a long finger and thumb. Since time began, small boys in every country have had but one answer for this action. Pugsy made it. He emitted a piercing squeal in which pain, fear, and resentment strove for supremacy. 
+History:
+What does he say?
+Hey, kid
+What does he look like?
+Seedy
+Ambiguous Question:
+Does he annoy him?
+Ground Truth: By "him" do you mean Pugsy Maloney or Mr. Parker?
+
+
+3ea3qwiz4iv9sqg90c7zf57j4ubitg|6|2
+Story:
+"Show them the money!" That's what some people are saying for college athletes. They say students who play sports for their school should receive salaries. 
+
+Top athletes should be paid because many of them practice full time, Mark Jameson argues. Rico Cannon, a former college football player, agrees. "Nonathletes can get a job for extra spending money, but many student athletes spend so many hours in training that they don't have time to work," he explains. "Shouldn't athletes be able to earn extra money too?" 
+
+The students also make money for their schools when people buy tickets to their games. The players should receive some of that cash, supporter Robbie Pokora reasons. 
+
+College athletes are about honor and tradition, but they're also a business. Thanks to ticket sales, there's money for schools to build new athletic stadiums and give the coaches high salaries. The cash should be shared with athletes. They're the ones out on the field or court working hard for their school. 
+
+The money matter has others _ , though. Kaitlyn Rentala argues that colleges should not pay their athletes. Students are in school to get an education. Playing a sport is an extracurricular activity, not a job. If athletes need extra money, they can apply for college scholarships . Michael Massett is a middle school teacher and a football and a basketball coach. He agrees. "Athletes should be paid with scholarships, like nonathletes are," Massett explains. 
+
+In addition, if colleges pay their athletes, those students might focus more on sports than on their education. "Most students do not become professional athletes after college. If they focus too much on sports, they may not learn the skills they need to get good jobs," Kate Macrae reasons. Plus, she says, many athletes have schoolships that help them pay for school.
+History:
+Can they be employed?
+No
+Why?
+they don't have time to work
+Ambiguous Question:
+What other reason is there?
+Ground Truth: Do you mean what other reason they should get paid
+
+
+3p59jyt76lk5h527b9m7sp02eunt2g|7|2
+Story:
+CHAPTER IV--PAUL BLACKTHORN 
+
+'I say,' cried Harold, running up into his brother's room, as soon as he had put away the pony, 'do you know whether Paul is gone?' 
+
+'It is always Paul, Paul!' exclaimed Ellen; 'I'm sure I hope he is.' 
+
+'But why do you think he would be?' asked Alfred. 
+
+'Oh, didn't you hear? He knows no more than a baby about anything, and so he turned the cows into Darnel meadow, and never put the hurdle to stop the gap--never thinking they could get down the bank; so the farmer found them in the barley, and if he did not run out against him downright shameful--though Paul up and told him the truth, that 'twas nobody else that did it.' 
+
+'What, and turned him off?' 
+
+'Well, that's what I want to know,' said Harold, going on with his tea. 'Paul said to me he didn't know how he could stand the like of that--and yet he didn't like to be off--he'd taken a fancy to the place, you see, and there's me, and there's old Caesar--and so he said he wouldn't go unless the farmer sent him off when he came to be paid this evening--and old Skinflint has got him so cheap, I don't think he will.' 
+
+'For shame, Harold; don't call names!' 
+
+'Well, there he is,' said Alfred, pointing into the farm-yard, towards the hay-loft door. This was over the cow-house in the gable end; and in the dark opening sat Paul, his feet on the top step of the ladder, and Caesar, the yard-dog, lying by his side, his white paws hanging down over the edge, his sharp white muzzle and grey prick ears turned towards his friend, and his eyes casting such appealing looks, that he was getting more of the hunch of bread than probably Paul could well spare. 
+History:
+What was Harold drinking?
+tea
+Who spotted Paul first?
+Alfred
+Ambiguous Question:
+What did he say when he saw him?
+Ground Truth: Do you mean what did Alfred say when he was Paul?
+
+
+3v26sbztbder9sei68k31obqkyzzzz|15|2
+Story:
+(CNN) -- Hilary Duff says her new album is "very positive" but admits that it started out "a lot heavier and a lot darker" because of the separation from her husband, Mike Comrie. 
+
+"I'm separated from my husband right now, which has been a very difficult thing to go through," she told Billboard's "Pop Shop" podcast. "In the beginning, the album was a lot heavier and a lot darker, because I had to get that out. Once I did get that out, a lot of fun came." 
+
+Duff married Comrie, a former pro hockey player, in 2010 after dating for three years. Their son, Luca, was born in 2012. Duff and Comrie announced their separation in January. 
+
+Duff, 26, admits that she's "nervous" after being away from music for seven years. Her just-released single, "Chasing the Sun," is from her still-untitled album, which will be her first studio release since 2007's "Dignity." 
+
+She says she first started thinking of new material when she was pregnant with her son. After having the child and taking another year, she was even more anxious. 
+
+"I felt like I was missing a big part of myself," she said. 
+
+Duff established a successful singing career on the heels of her popular Disney show, "Lizzie McGuire," which aired from 2001 to 2004. She spent most of her teenage years touring and says that turning 20 was a big factor in leaving the road. 
+
+"It was time for me to be a person, and the break just ended up being a long time," she said. 
+History:
+How long?
+three years
+How long were they married before they had a child?
+2 years
+Ambiguous Question:
+What is his name?
+Ground Truth: Do you mean the child?
+
+
+3f1567xtnw53p9vefe7rx7xt13d9qa|13|2
+Story:
+How to react to Iran's new smiley-faced president, Hassan Rouhani? 
+
+Smile back, but don't stop squeezing Iran with sanctions. 
+
+Rouhani has offered a series of positive gestures since taking office in early August. He has released some political prisoners. He sent New Year's greetings to Jews in Iran and around the world. He took a phone call from the president of the United States. 
+
+Does any of this portend real change in Iran? 
+
+The case for skepticism is strong. None of the regime has changed in any way. Iran continues to make mischief through the region, most horrifically by supporting the brutal actions of the Bashar al-Assad regime in Syria. As far as anyone can tell, Iran pursues nuclear weapons as determinedly as ever. 
+
+Rouhani himself is no liberal and no Democrat. An early supporter of the Ayatollah Khomeini, Rouhani held senior positions in the Iranian state during the regime's most vicious period of international terrorism, the early 1990s - the years in which Iranian-backed terrorists carried out assassinations in Berlin and Paris and carried out two terrible bombings of Jewish targets in Buenos Aires, killing 114 people and wounding nearly a thousand more. 
+
+As Iran's chief nuclear negotiator in the 2000s, Rouhani nimbly evaded international efforts to achieve a peaceful end to the country's drive for weapons of mass death. 
+
+More fundamentally, the president of Iran does not govern the country's national security system. The military and the secret police answer to the supreme leader, the Ayatollah Khameini, who has very emphatic geopolitical ideas of his own. Compared with all that, a cheerful tweet and a few words of condemnation of Nazi crimes don't seem much of an offset. 
+History:
+What has he let go as president?
+political prisoners
+What did he give Jews?
+New Year's greetings
+Ambiguous Question:
+Where?
+Ground Truth: Do you mean where was he when he sent the greetings?
+
+
+3ermj6l4dys8qb9t8o2q22miw4fm7v|14|2
+Story:
+Materialism is a form of philosophical monism which holds that matter is the fundamental substance in nature, and that all phenomena, including mental phenomena and consciousness, are identical with material interactions. 
+
+Materialism is closely related to physicalism, the view that all that exists is ultimately physical. Philosophical physicalism has evolved from materialism with the discoveries of the physical sciences to incorporate more sophisticated notions of physicality than mere ordinary matter, such as: spacetime, physical energies and forces, dark matter, and so on. Thus the term "physicalism" is preferred over "materialism" by some, while others use the terms as if they are synonymous. 
+
+Materialism belongs to the class of monist ontology. As such, it is different from ontological theories based on dualism or pluralism. For singular explanations of the phenomenal reality, materialism would be in contrast to idealism, neutral monism, and spiritualism. 
+
+Despite the large number of philosophical schools and subtle nuances between many, all philosophies are said to fall into one of two primary categories, which are defined in contrast to each other: Idealism, and materialism.[a] The basic proposition of these two categories pertains to the nature of reality, and the primary distinction between them is the way they answer two fundamental questions: "what does reality consist of?" and "how does it originate?" To idealists, spirit or mind or the objects of mind (ideas) are primary, and matter secondary. To materialists, matter is primary, and mind or spirit or ideas are secondary, the product of matter acting upon matter.
+History:
+What would be secondary to them?
+matter is primary, and mind or spirit or ideas are secondar
+What does the basic proposition of these two categories pretain to?
+nature of reality
+Ambiguous Question:
+What would materialism be in contrast to
+Ground Truth: Do you want to know what materialism would be in contrast to for singular explanations of the phenomenal reality or for the categories that all philosophies are said to fall into?
+
+
+3d8you6s9ek8zj0xygokny3gep1u6j|13|2
+Story:
+Shanghai is one of the four direct-controlled municipalities of China and the most populous city proper in the world with a population of more than 24 million . It is a global financial centre and transport hub, with the world's busiest container port. Located in the Yangtze River Delta, it sits on the south edge of the estuary of the Yangtze in the middle portion of the East China coast. The municipality borders the provinces of Jiangsu and Zhejiang to the north, south and west, and is bounded to the east by the East China Sea. 
+
+As a major administrative, shipping and trading city, Shanghai grew in importance in the 19th century due to trade and recognition of its favourable port location and economic potential. The city was one of five treaty ports forced open to foreign trade following the British victory over China in the First Opium War. The subsequent 1842 Treaty of Nanking and 1844 Treaty of Whampoa allowed the establishment of the Shanghai International Settlement and the French Concession. The city then flourished as a centre of commerce between China and other parts of the world (predominantly Western countries), and became the primary financial hub of the Asia-Pacific region in the 1930s. However, with the Communist Party takeover of the mainland in 1949, trade was limited to other socialist countries, and the city's global influence declined. In the 1990s, the economic reforms introduced by Deng Xiaoping resulted in an intense re-development of the city, aiding the return of finance and foreign investment to the city.
+History:
+What happened to international trade then?
+it was limited
+Did it ever have a resurgence?
+yes
+Ambiguous Question:
+When?
+Ground Truth: Do you mean when was trade limited or when did it have a resurgence in trade?
+
+
+37w3jxsd668na7z8zzydod86yhkwy3|4|2
+Story:
+CHAPTER IV 
+
+KARI 
+
+Thus began my life in London in the house of my uncle, John Grimmer, who was called the Goldsmith. In truth, however, he was more than this, since not only did he fashion and trade in costly things; he lent out moneys to interest upon security to great people who needed it, and even to the king Richard and his Court. Also he owned ships and did much commerce with Holland, France, yes, and with Spain and Italy. Indeed, although he appeared so humble, his wealth was very large and always increased, like a snowball rolling down a hill; moreover, he owned much land, especially in the neighbourhood of London where it was likely to grow in value. 
+
+"Money melts," he would say, "furs corrupt with moth and time, and thieves break in and steal. But land--if the title be good--remains. Therefore buy land, which none can carry away, near to a market or a growing town if may be, and hire it out to fools to farm, or sell it to other fools who wish to build great houses and spend their goods in feeding a multitude of idle servants. Houses eat, Hubert, and the larger they are, the more they eat." 
+
+No word did he say to me as to my dwelling on with him, yet there I remained, by common consent, as it were. Indeed on the morrow of my coming a tailor appeared to measure me for such garments as he thought I should wear, by his command, I suppose, as I was never asked for payment, and he bade me furnish my chamber to my own liking, also another room at the back of the house that was much larger than it seemed, which he told me was to be mine to work in, though at what I was to work he did not say. 
+History:
+What was he called?
+the Goldsmith
+What did he believe people should invest in?
+land
+Ambiguous Question:
+What's one thing that could be done with that investment?
+Ground Truth: Do you want to know the thing that can be done that starts with "h" or the one that starts with "s"?
+
+
+35k3o9huabdntgwm99cjdmuqlp6fe0|9|2
+Story:
+The Apollo program, also known as Project Apollo, was the third United States human spaceflight program carried out by the National Aeronautics and Space Administration (NASA), which accomplished landing the first humans on the Moon from 1969 to 1972. First conceived during Dwight D. Eisenhower's administration as a three-man spacecraft to follow the one-man Project Mercury which put the first Americans in space, Apollo was later dedicated to President John F. Kennedy's national goal of "landing a man on the Moon and returning him safely to the Earth" by the end of the 1960s, which he proposed in a May 25, 1961, address to Congress. Project Mercury was followed by the two-man Project Gemini (1962–66). The first manned flight of Apollo was in 1968. 
+
+Apollo ran from 1961 to 1972, and was supported by the two-man Gemini program which ran concurrently with it from 1962 to 1966. Gemini missions developed some of the space travel techniques that were necessary for the success of the Apollo missions. Apollo used Saturn family rockets as launch vehicles. Apollo/Saturn vehicles were also used for an Apollo Applications Program, which consisted of Skylab, a space station that supported three manned missions in 1973–74, and the Apollo–Soyuz Test Project, a joint Earth orbit mission with the Soviet Union in 1975.
+History:
+Apollo was dedicated to which president's goal?
+John F. Kennedy's
+What was the main object of the gaol?
+landing a man on the Moon and returning him safely to the Earth
+Ambiguous Question:
+When he proposed that?
+Ground Truth: Do you mean when did he make the proposal?
+
+
+3vw04l3zlt6dz2eo488x7if4547xxk|14|2
+Story:
+Yesterday I started the Year of Giving, my first day of a year-long journey into exploring the act of giving and the meaning of charity. I chose December 15 as the starting date, which marked three years since my mother died from heart disease. She was one of the most generous people that I have ever known. She always thought of others first and certainly serves as an inspiration to me. 
+
+I had a rather busy day yesterday, ironic for someone who is unemployed right now. In the morning I went to the gym, and unsuccessfully got the phone call from the unemployment office for some job searching. Before I knew it, it was noon. I grabbed a quick lunch and rushed down to a meeting. On my way to Connecticut, I wondered if I would see someone that I would feel forced to give my first $10 to. I was running late and decided to do it afterwards. 
+
+After the meeting I had about half an hour to find the first person of my Year of Giving! I decided to check out Dupont Circle. I had met a guy there named Jerry once and thought he would willingly accept my first $10. He wasn't there, but I did see a man sitting by himself who looked really lonely, so I approached him. Now I had to figure out what I was going to say. I think I said something like, "Hi, can I sit down here?" "I would like to know if I could give you $10?" He asked me to repeat what I had said. I did, then he looked at me funny, got up and left. 
+
+I then started walking south where I spotted a man standing by the bus stop on Connecticut Ave. He appeared to be in his 60s. I don't know what drew me to him, but I thought I would make my second attempt. I was a bit nervous and asked him which bus came by that stop. Then I explained that I was starting a year-long project to give $10 to someone every day and that I wanted to give my $10 for today to him. The gentleman, I later found out that his name was Ed, responded without hesitation that he could not accept my offer and that there were many people more deserving the money than him. This was exactly one of the things that I hoped would happen. People would think of others before themselves!
+History:
+did she go up to the man
+Yes
+did he accept the money
+No
+Ambiguous Question:
+where did she go next
+Ground Truth: Do you mean after the first man or the second?
+
+
+3b1nlc6ugzwx47h7t7ycpjt60iagp1|10|2
+Story:
+Islamabad, Pakistan (CNN) -- The Pakistani Taliban vowed Thursday to carry out attacks against India to avenge the death of a man executed by Indian authorities for his role in the 2008 terrorist assault on Mumbai. 
+
+Mohammed Ajmal Kasab, a Pakistani, was hanged Wednesday in Pune, a city southeast of Mumbai. He was the lone surviving gunman from the attacks in India's financial capital in November 2008 that killed more than 160 people. 
+
+Read more: Who are the Pakistani Taliban? 
+
+Ihsanullah Ihsan, the spokesman for the Pakistani Taliban, said the militant group would conduct various attacks in India in response to the execution. He didn't provide further details. 
+
+The Pakistani Taliban, who are closely linked with their namesake in Afghanistan and with al Qaeda, operate in the ungoverned area that sits on the border of Pakistan and Afghanistan. 
+
+Read more: Mumbai attack survivor: 'It's like a dead man living' 
+
+India has requested extra protection for its diplomats in Pakistan following the execution, said J.P. Singh, an official at India's Ministry of External Affairs. 
+
+India executes last Mumbai gunman 
+
+He said the ministry had no immediate comment on the threat from the Taliban. 
+
+The Taliban spokesman said they are demanding that Kasab's body be returned to Pakistan for an Islamic burial. He criticized the Pakistani government, saying it had failed by not requesting the return of the body. 
+
+Read more: The Mumbai attacks: Getting the story amid chaos 
+
+Indian authorities said Wednesday that Kasab had been buried in the "surrounding area" of the jail where he was hanged. They didn't say what kind of burial rites had been performed. 
+History:
+Do they have ties with other groups?
+with al Qaeda
+What did India ask for to secure their officials in Pakistan?
+extra protection for its diplomats in Pakistan
+Ambiguous Question:
+Who reported this?
+Ground Truth: Do you mean who reported the whole article or who reported that India asked for extra protection for its diplomats?
+
+
+3rxpczqmqpbunfy585nmonb8w0j1gs|12|2
+Story:
+Mike wanted to make a cake for his Mom's birthday. His dad was going to help him. Mike had eggs, milk, and flour at his house, but no sugar! Dad told Mike to take his bicycle to the store so he could buy sugar for the cake. On his way to the store, Mike saw his friend, Sally, at the park. He rode over to say hello. Mike and Sally played lots of games at the park. After a long time, Mike saw it was starting to get dark. He needed to hurry if he was going to make it to the store and get home before night time. Mike rode as fast as he could, and made it to the store. The store was really big, but Mike found the sugar really fast. When Mike was on his way to the front of the store to pay for the sugar, he saw a toy he had been wanting for a long time. But Mike only had enough money to pay for the sugar or the toy. Mike didn't know what to do! The cake would taste good and would make his mom happy. But, the toy was so cool! Mike bought the sugar for his mom's cake, because she was always so nice to him. He could always get the toy another time. 
+
+
+
+2. What did Mike find at the store that he wanted to buy
+History:
+Did he find what he needed?
+yes
+Did he see anything else?
+yes
+Ambiguous Question:
+What?
+Ground Truth: Do you mean what did he see in general, or what else did he see that he wanted to buy?
+
+

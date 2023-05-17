@@ -1,0 +1,669 @@
+32xvdsjfpzx14acn2clv6b5aksj2ms|5|2
+Story:
+Joe was in his bedroom. He was reading a book that his teacher gave him. The book was titled, "Everything You'd Want to Know About Fish." He was reading the book because he was interested in learning more about fish. Joe thought reading the book was fun. He liked to imagine himself swimming with fish he read about in the book. Also, he liked looking at the pictures. 
+
+Joe's mother called him. Joe closed the book, and went downstairs. He asked his mother, "Do you need something?" 
+
+And his mother said, "Joe, it's time for dinner."
+History:
+Who called him?
+His mother.
+Ambiguous Question:
+What did he do first?
+Ground Truth: Do you mean first in the story?
+
+
+3tvss0c0e10rtl0eptbegwgrj6itw9|11|2
+Story:
+In economics, a free market is a system in which the prices for goods and services are determined by the open market and consumers, in which the laws and forces of supply and demand are free from any intervention by a government, price-setting monopoly, or other authority. 
+
+The concept of free market contrasts with regulated market, in which a government intervenes in supply and demand through various methods such as tariffs used to restrict trade and protect the economy. In a free market economy, prices for goods and services are set freely by the forces of supply and demand and are allowed to reach their point of equilibrium without intervention by government policy. 
+
+Although free markets are commonly associated with capitalism within a market economy in contemporary usage and popular culture, free markets have also been advocated by free-market anarchists, market socialists, and some proponents of cooperatives and advocates of profit sharing. Criticism of the theoretical concept consider systems with significant market power, inequality of bargaining power, or information asymmetry to be less than free, with regulation being necessary to control those imbalances. 
+
+The laissez-faire principle expresses a preference for an absence of non-market pressures on prices and wages, such as those from discriminatory government taxes, subsidies, tariffs, regulations of purely private behavior, or government-granted or coercive monopolies. Friedrich Hayek argued in "The Pure Theory of Capital" that the goal is the preservation of the unique information contained in the price itself.
+History:
+anything else?
+Yes
+Ambiguous Question:
+what?
+Ground Truth: Do you mean any other type of free market economy?
+
+
+3igi0vl647kltzms1bysq3xdrrnonr|6|2
+Story:
+In economics, a free market is a system in which the prices for goods and services are determined by the open market and consumers, in which the laws and forces of supply and demand are free from any intervention by a government, price-setting monopoly, or other authority. 
+
+The concept of free market contrasts with regulated market, in which a government intervenes in supply and demand through various methods such as tariffs used to restrict trade and protect the economy. In a free market economy, prices for goods and services are set freely by the forces of supply and demand and are allowed to reach their point of equilibrium without intervention by government policy. 
+
+Although free markets are commonly associated with capitalism within a market economy in contemporary usage and popular culture, free markets have also been advocated by free-market anarchists, market socialists, and some proponents of cooperatives and advocates of profit sharing. Criticism of the theoretical concept consider systems with significant market power, inequality of bargaining power, or information asymmetry to be less than free, with regulation being necessary to control those imbalances. 
+
+The laissez-faire principle expresses a preference for an absence of non-market pressures on prices and wages, such as those from discriminatory government taxes, subsidies, tariffs, regulations of purely private behavior, or government-granted or coercive monopolies. Friedrich Hayek argued in "The Pure Theory of Capital" that the goal is the preservation of the unique information contained in the price itself.
+History:
+aret there more?
+yes
+Ambiguous Question:
+please mention them.
+Ground Truth: Do you mean more types of free market economies?
+
+
+3ydtzai2wxgebz5ld4llfye57wl41m|6|2
+Story:
+BBC News Online is the website of BBC News, the division of the BBC responsible for newsgathering and production. The website is the most frequently accessed news website in the United Kingdom, and forms a major part of BBC Online (bbc.co.uk), which records around 70 million unique users a week (around 60 to 70% of visitors are from the UK). 
+
+The website contains international news coverage, as well as British, entertainment, science, and political news. Many reports are accompanied by audio and video from the BBC's television and radio news services, while the latest TV and radio bulletins are also available to view or listen to on the site together with other current affairs programmes. 
+
+BBC News Online is closely linked to its sister department website, that of BBC Sport. Both sites follow similar layout and content options and respective journalists work alongside each other. Location information provided by users is also shared with the website of BBC Weather to provide local content. 
+
+From 1998 to 2001 the site was named best news website at the BAFTA Interactive Entertainment Awards when the award category was withdrawn. It has previously won both the Judges' award and the People's Voice award for best news site at the annual Webby Awards.
+History:
+for?
+for best news site
+Ambiguous Question:
+where was this?
+Ground Truth: Are you asking about the physical location?
+
+
+3duzq9u6smodzwnuaj1skp1raa8vsa|6|2
+Story:
+We live in an amazing world, reading the following news and you will find it yourself. News 1: Bao Xishun is the tallest man in the world. He is 2.36 metres tall. He Pingping is the shortest man in the world. He is only 0.73 metres tall. They are Chinese. On July 13th, Bao Xishun married a girl and He Pingping took part in their wedding ceremony . News 2: In the USA, a seventh-grader, Aidan Murray Medley went fishing in the sea one morning. The 12-year-old boy caught a 250-kilogram shark! It took Aidan 28 minutes to catch the shark. It was so hard that his body lost all feeling. Aidan now has the Florida record . He beat a 232-kilogram catch from 1981. News 3: A young sheep climbs a tree to feed on leaves in a park in the southern Swedish town of Lund. The sheep climbed to a height of seven metres and spent an hour and a half in the tree before returning to the ground.
+History:
+Did that hurt him?
+Yes
+Ambiguous Question:
+How?
+Ground Truth: Are you asking how he was hurt?
+
+
+3dbqwde4y6yzlpgaww2thxxmay5n5c|18|2
+Story:
+Russian (ру́сский язы́к, russkiy yazyk, pronounced [ˈruskʲɪj jɪˈzɨk] ( listen)) is an East Slavic language and an official language in Russia, Belarus, Kazakhstan, Kyrgyzstan and many minor or unrecognised territories. It is an unofficial but widely-spoken language in Ukraine, Latvia, Estonia, and to a lesser extent, the other countries that were once constituent republics of the Soviet Union and former participants of the Eastern Bloc. Russian belongs to the family of Indo-European languages and is one of the three living members of the East Slavic languages. Written examples of Old East Slavonic are attested from the 10th century onwards. 
+
+Russian distinguishes between consonant phonemes with palatal secondary articulation and those without, the so-called soft and hard sounds. This distinction is found between pairs of almost all consonants and is one of the most distinguishing features of the language. Another important aspect is the reduction of unstressed vowels. Stress, which is unpredictable, is not normally indicated orthographically though an optional acute accent (знак ударения, znak udareniya) may be used to mark stress, such as to distinguish between homographic words, for example замо́к (zamok, meaning a lock) and за́мок (zamok, meaning a castle), or to indicate the proper pronunciation of uncommon words or names.
+History:
+are there other countries that also use it?
+Yes
+Ambiguous Question:
+What are they?
+Ground Truth: Are you asking what other countries use the East Slavic language?
+
+
+3pxx5px6lxyuqm3uo2o1yddelnmaba|12|2
+Story:
+John was very hungry. So he chose to make a sandwich. John invited Susan, Tim, and Jack over to help him. They all pulled out bread, lettuce, tomato, meat, pickle, and cheese. Cheese is Johns favorite food. One at a time, they each put one ingredient on the sandwich. John put the bread down. Tim put the tomato down. Susan put the meat down. Jack put the lettuce down. John also put the cheese down. Susan put the pickle down. After they finished, John ate his sandwich and it was delicious.
+History:
+Did she also put down another topping?
+yes
+Ambiguous Question:
+What was it?
+Ground Truth: Are you asking what she put down first?
+
+
+3uxuoq9okex7oa04blcltbri2p17ab|4|2
+Story:
+(CNN) -- The 5-year-old son of country music singer Mindy McCready has been recovered and is in good health in the custody of officials in Arkansas, a spokeswoman for the Florida Department of Children and Families told CNN Friday. 
+
+"We're working with local law enforcement and the Arkansas (Division of Children and Family Services) and we're going to bring him home to Florida to his legal guardian as soon as possible," Terri Durdaller said about the boy, Zander. 
+
+Mindy McCready's assistant said the singer turned Zander over to the Arkansas authorities and that he would be returned to her on Monday. "She's looking forward to having her case heard in front of an unbiased courtroom," the assistant said. "She has a 99% chance of her child leaving with her on Monday morning." 
+
+She described Zander as "very OK." 
+
+But Mindy McCready's mother and stepfather, Gayle and Michael Inge, have legal custody of the boy and the singer has only visitation rights. 
+
+"We're relieved," they told CNN. "We feel sorrow for Zander because he's traumatized, and for Mindy. We just hope she does the right thing from here on out and that this is a wake-up call for her." 
+
+The boy was located hours after Gayle Inge made a public plea for her daughter to obey a court order to return her son to the care of the Inges. 
+
+The imbroglio started when McCready, who has fought a public battle against drug addiction, took her son from her father's Florida home. 
+
+This week, a Florida judge ordered McCready to return the boy to authorities. When she did not comply, another judge issued an emergency "pickup order," authorizing officers to pick up the boy. The singer was ordered to produce Zander and failed to do so. 
+History:
+who did they tell this too ?
+CNN
+Ambiguous Question:
+where does he live ?
+Ground Truth: Do you mean Zander?
+
+
+3e13vnj1nnv8j640ytnp9zoocgr1i7|10|2
+Story:
+CHAPTER III--SOAMES PREPARES TO TAKE STEPS 
+
+When Soames entered his sister's little Louis Quinze drawing-room, with its small balcony, always flowered with hanging geraniums in the summer, and now with pots of Lilium Auratum, he was struck by the immutability of human affairs. It looked just the same as on his first visit to the newly married Darties twenty-one years ago. He had chosen the furniture himself, and so completely that no subsequent purchase had ever been able to change the room's atmosphere. Yes, he had founded his sister well, and she had wanted it. Indeed, it said a great deal for Winifred that after all this time with Dartie she remained well-founded. From the first Soames had nosed out Dartie's nature from underneath the plausibility, savoir faire, and good looks which had dazzled Winifred, her mother, and even James, to the extent of permitting the fellow to marry his daughter without bringing anything but shares of no value into settlement. 
+
+Winifred, whom he noticed next to the furniture, was sitting at her Buhl bureau with a letter in her hand. She rose and came towards him. Tall as himself, strong in the cheekbones, well tailored, something in her face disturbed Soames. She crumpled the letter in her hand, but seemed to change her mind and held it out to him. He was her lawyer as well as her brother. 
+
+Soames read, on Iseeum Club paper, these words: 
+
+'You will not get chance to insult in my own again. I am leaving country to-morrow. It's played out. I'm tired of being insulted by you. You've brought on yourself. No self-respecting man can stand it. I shall not ask you for anything again. Good-bye. I took the photograph of the two girls. Give them my love. I don't care what your family say. It's all their doing. I'm going to live new life. 'M.D.' 
+History:
+Anyone else
+yes
+Ambiguous Question:
+Who?
+Ground Truth: DO you mean who else had been dazzled by Dartie's good looks or who else was in the room when Soames entered?
+
+
+3spj033421314nz9s0fyzneywhyyjp|17|2
+Story:
+An antenna (plural antennae or antennas), or aerial, is an electrical device which converts electric power into radio waves, and vice versa. It is usually used with a radio transmitter or radio receiver. In transmission, a radio transmitter supplies an electric current oscillating at radio frequency (i.e. a high frequency alternating current (AC)) to the antenna's terminals, and the antenna radiates the energy from the current as electromagnetic waves (radio waves). In reception, an antenna intercepts some of the power of an electromagnetic wave in order to produce a tiny voltage at its terminals, that is applied to a receiver to be amplified. 
+
+Typically an antenna consists of an arrangement of metallic conductors (elements), electrically connected (often through a transmission line) to the receiver or transmitter. An oscillating current of electrons forced through the antenna by a transmitter will create an oscillating magnetic field around the antenna elements, while the charge of the electrons also creates an oscillating electric field along the elements. These time-varying fields radiate away from the antenna into space as a moving transverse electromagnetic field wave. Conversely, during reception, the oscillating electric and magnetic fields of an incoming radio wave exert force on the electrons in the antenna elements, causing them to move back and forth, creating oscillating currents in the antenna.
+History:
+Does it have another name?
+yes
+Ambiguous Question:
+What would that be?
+Ground Truth: Are you interested in another name for antenna or another name for electromagnetic waves?
+
+
+39asuflu6x74t2n793i5jtuxpy5xek|6|2
+Story:
+(CNN) -- Hilary Duff says her new album is "very positive" but admits that it started out "a lot heavier and a lot darker" because of the separation from her husband, Mike Comrie. 
+
+"I'm separated from my husband right now, which has been a very difficult thing to go through," she told Billboard's "Pop Shop" podcast. "In the beginning, the album was a lot heavier and a lot darker, because I had to get that out. Once I did get that out, a lot of fun came." 
+
+Duff married Comrie, a former pro hockey player, in 2010 after dating for three years. Their son, Luca, was born in 2012. Duff and Comrie announced their separation in January. 
+
+Duff, 26, admits that she's "nervous" after being away from music for seven years. Her just-released single, "Chasing the Sun," is from her still-untitled album, which will be her first studio release since 2007's "Dignity." 
+
+She says she first started thinking of new material when she was pregnant with her son. After having the child and taking another year, she was even more anxious. 
+
+"I felt like I was missing a big part of myself," she said. 
+
+Duff established a successful singing career on the heels of her popular Disney show, "Lizzie McGuire," which aired from 2001 to 2004. She spent most of her teenage years touring and says that turning 20 was a big factor in leaving the road. 
+
+"It was time for me to be a person, and the break just ended up being a long time," she said. 
+History:
+What is the name of her new song?
+Chasing the Sun
+Ambiguous Question:
+How does she feel?
+Ground Truth: Do you mean how does she feel about being away from music or how does she feel after having a child and taking a year off?
+
+
+33l7pjkhcgyg3k4wrqv82gd51188t6|12|2
+Story:
+(CNN) -- Hilary Duff says her new album is "very positive" but admits that it started out "a lot heavier and a lot darker" because of the separation from her husband, Mike Comrie. 
+
+"I'm separated from my husband right now, which has been a very difficult thing to go through," she told Billboard's "Pop Shop" podcast. "In the beginning, the album was a lot heavier and a lot darker, because I had to get that out. Once I did get that out, a lot of fun came." 
+
+Duff married Comrie, a former pro hockey player, in 2010 after dating for three years. Their son, Luca, was born in 2012. Duff and Comrie announced their separation in January. 
+
+Duff, 26, admits that she's "nervous" after being away from music for seven years. Her just-released single, "Chasing the Sun," is from her still-untitled album, which will be her first studio release since 2007's "Dignity." 
+
+She says she first started thinking of new material when she was pregnant with her son. After having the child and taking another year, she was even more anxious. 
+
+"I felt like I was missing a big part of myself," she said. 
+
+Duff established a successful singing career on the heels of her popular Disney show, "Lizzie McGuire," which aired from 2001 to 2004. She spent most of her teenage years touring and says that turning 20 was a big factor in leaving the road. 
+
+"It was time for me to be a person, and the break just ended up being a long time," she said. 
+History:
+How long were they married before they had a child?
+2 years
+Ambiguous Question:
+What is his name?
+Ground Truth: Do you mean her husband or her child?
+
+
+34fnn24dcm9txoko3yb4ydvtddmy5f|17|2
+Story:
+World War I (WWI or WW1), also known as the First World War, the Great War, or the War to End All Wars, was a global war originating in Europe that lasted from 28 July 1914 to 11 November 1918. More than 70 million military personnel, including 60 million Europeans, were mobilised in one of the largest wars in history. Over nine million combatants and seven million civilians died as a result of the war (including the victims of a number of genocides), a casualty rate exacerbated by the belligerents' technological and industrial sophistication, and the tactical stalemate caused by gruelling trench warfare. It was one of the deadliest conflicts in history, and paved the way for major political changes, including revolutions in many of the nations involved. Unresolved rivalries still extant at the end of the conflict contributed to the start of the Second World War only twenty-one years later. 
+
+The war drew in all the world's economic great powers, assembled in two opposing alliances: the Allies (based on the Triple Entente of the Russian Empire, the French Third Republic, and the United Kingdom of Great Britain and Ireland) versus the Central Powers of Germany and Austria-Hungary. Although Italy was a member of the Triple Alliance alongside Germany and Austria-Hungary, it did not join the Central Powers, as Austria-Hungary had taken the offensive against the terms of the alliance. These alliances were reorganised and expanded as more nations entered the war: Italy, Japan and the United States joined the Allies, while the Ottoman Empire and Bulgaria joined the Central Powers.
+History:
+how many non-combatants died?
+seven million
+Ambiguous Question:
+who joined the Central Powers?
+Ground Truth: When?
+
+
+3wygz5xf3wfzjltibfnligqathgks1|4|2
+Story:
+CHAPTER XXXIV 
+
+'Midst furs, and silks, and jewels' sheen, He stood, in simple Lincoln green, The center of the glittering ring; And Snowdon's knight is Scotland's king! --_Lady of the Lake_. 
+
+The commencement of the following year was passed, on the part of the Americans, in making great preparations, in conjunction with their allies, to bring the war to a close. In the South, Greene and Rawdon made a bloody campaign, that was highly honorable to the troops of the latter, but which, by terminating entirely to the advantage of the former, proved him to be the better general of the two. 
+
+New York was the point that was threatened by the allied armies; and Washington, by exciting a constant apprehension for the safety of that city, prevented such reënforcements from being sent to Cornwallis as would have enabled him to improve his success. 
+
+At length, as autumn approached, every indication was given that the final moment had arrived. 
+
+The French forces drew near to the royal lines, passing through the neutral ground, and threatened an attack in the direction of King's Bridge, while large bodies of Americans were acting in concert. By hovering around the British posts, and drawing nigh in the Jerseys, they seemed to threaten the royal forces from that quarter also. The preparations partook of the nature of both a siege and a storm. But Sir Henry Clinton, in the possession of intercepted letters from Washington, rested within his lines, and cautiously disregarded the solicitations of Cornwallis for succor. 
+History:
+did anyone else help?
+yes
+Ambiguous Question:
+who?
+Ground Truth: Do you mean who helped Greene?
+
+
+3sle99er0ndvrub20u40f64nu0bzb2|18|2
+Story:
+There once was a doggy named Jack that was really bored. One day he was sitting on the sofa he thought to himself, "Maybe I'll go for a ride." The dog put on his shoes and hat and walked out of the door. He began riding down the street and he saw a lot of funny things. He saw a pumpkin name Sue using toothpaste, a cat name Walt watching a movie and a bear name Phil cooking on a grill. On his drive back home he saw a rat name Randy, and a lion name Leo riding a bike. When the doggy got back home he wanted to write a book about all of the things that he saw. He went into his office and gathered the pen and paper, sat down and began writing. After hours of writing he felt that his leg was hurting from being bent under the table so long. He wrote his last sentence and got up to walk off the pain. The doggy cooked his dinner, ate, then went to bed and the next day he woke up and read his story and liked what he wrote so much that he thought he would write another story later that day.
+History:
+What was it's name?
+Phil
+Ambiguous Question:
+What was he doing?
+Ground Truth: Do you mean Phil?
+
+
+33l7pjkhcgyg3k4wrqv82gd50sbt8b|18|2
+Story:
+CHAPTER XXIII 
+
+AN ELECTION OF OFFICERS 
+
+"Election of officers to-morrow!" 
+
+"As if every cadet at the school didn't know it, Pepper." 
+
+"Well, Andy, have you made up your mind how you are going to vote?" 
+
+"Sure I have," replied the acrobatic youth. "I am going to vote for Bart Conners for major, since Jack don't want to run again." 
+
+"That's the way I am going to vote, too." 
+
+"How about the two captains?" asked Joe Nelson. 
+
+"Well, I think I'll vote for Dave Kearney for one," answered Pepper. "I am not so sure about the other." 
+
+"What's the matter with Harry Blossom?" asked Bert Field. "He seems to be a nice sort." 
+
+"He is." 
+
+"I understand Reff Ritter wants to be a captain," put in Stuffer. 
+
+"Sure, an' he'd be afther wantin' to be major, only he ain't popular enough," came from Emerald. 
+
+"Coulter is out for a captaincy, too," said Jack, who had come up during the talk. 
+
+"Do you think either of them will be elected?" asked Andy. 
+
+"Not if I can prevent it," replied the young major. "Neither of them deserves any office." 
+
+"I understand Dan Baxter wants to be major," said Stuffer. "Talk about gall! What has he ever done for the school? Nothing." 
+
+"He won't get the office," said Jack. 
+
+"Is Bart going to have a walkover?" asked Pepper. 
+
+"Hardly. Both Dave Kearney and Harry Blossom will run against him, and so will Bob Grenwood, and they all have their friends." 
+
+"Well, let the best fellows win, say I!" cried Andy, and then he ran off, to do some fancy "stunts" in the gymnasium. 
+History:
+Who would he have voted for if they had run?
+Jack
+Ambiguous Question:
+What other position is being voted on?
+Ground Truth: Other than what position?
+
+
+30mvjzjnhmdm3mr1koni06l7n9v9jv|4|2
+Story:
+Tripoli, Libya (CNN) -- At first glance, "Mahmoud" would seem the perfect candidate to be a supporter of Moammar Gadhafi. 
+
+He has prospered during the Libyan leader's 41-year reign, first as a professional and later taking care of his deceased father's businesses. 
+
+But, as with many things in Tripoli, a first glance can be deceiving. 
+
+"Ninety percent of the people in Tripoli hate Gadhafi," Mahmoud told me over sips of espresso at a corner coffee shop this weekend. "All his people do is tell lies. If anyone tells you different they are just afraid." 
+
+CNN is withholding his real name for his own safety. 
+
+On an almost hourly basis, regime officials and government minders tell foreign journalists that Tripoli is a stronghold of Gadhafi and that dissent has vanished in recent months. 
+
+CNN, like other media here, is under severe government restrictions. But I recently managed to slip away from government minders to talk directly to several Libyans. 
+
+And according to several eyewitness accounts, major demonstrations were held against Libya's strongman as recently as last week. 
+
+And in the Souq al-Juma neighborhood of the capital, where anti-Gadhafi protests first erupted in February, the government's propaganda bubble is quickly burst. 
+
+While international journalists including me were ferried by government minders to a pro-Gadhafi rally at Green Square on Friday afternoon, multiple sources tell CNN that several Tripoli neighborhoods were wracked by running battles between protesters and security forces. 
+
+"They were protesting right around the corner. They streamed out of a mosque and onto the small square," said Mahmoud. "Almost immediately Gadhafi forces fired at them with live rounds." 
+History:
+How long has he been in power?
+41 years
+Ambiguous Question:
+Is he liked?
+Ground Truth: Are you asking whether he is liked in Tripoli or in the whole of Libya?
+
+
+3dygaii7pl8ohwblw33ojxx853jqp1|10|2
+Story:
+Tripoli, Libya (CNN) -- At first glance, "Mahmoud" would seem the perfect candidate to be a supporter of Moammar Gadhafi. 
+
+He has prospered during the Libyan leader's 41-year reign, first as a professional and later taking care of his deceased father's businesses. 
+
+But, as with many things in Tripoli, a first glance can be deceiving. 
+
+"Ninety percent of the people in Tripoli hate Gadhafi," Mahmoud told me over sips of espresso at a corner coffee shop this weekend. "All his people do is tell lies. If anyone tells you different they are just afraid." 
+
+CNN is withholding his real name for his own safety. 
+
+On an almost hourly basis, regime officials and government minders tell foreign journalists that Tripoli is a stronghold of Gadhafi and that dissent has vanished in recent months. 
+
+CNN, like other media here, is under severe government restrictions. But I recently managed to slip away from government minders to talk directly to several Libyans. 
+
+And according to several eyewitness accounts, major demonstrations were held against Libya's strongman as recently as last week. 
+
+And in the Souq al-Juma neighborhood of the capital, where anti-Gadhafi protests first erupted in February, the government's propaganda bubble is quickly burst. 
+
+While international journalists including me were ferried by government minders to a pro-Gadhafi rally at Green Square on Friday afternoon, multiple sources tell CNN that several Tripoli neighborhoods were wracked by running battles between protesters and security forces. 
+
+"They were protesting right around the corner. They streamed out of a mosque and onto the small square," said Mahmoud. "Almost immediately Gadhafi forces fired at them with live rounds." 
+History:
+Does the government tell the truth?
+no
+Ambiguous Question:
+What do they say?
+Ground Truth: Are you asking what the government says or what the people of Tripoli say?
+
+
+3wakvudhuwgr3je2hqtctc3c926u77|12|2
+Story:
+Jack woke up on a Saturday morning. He got out of bed and went to the bathroom, and brushed his teeth. He put on his clothes and walked to the kitchen. Jack had a few choices to pick for breakfast. He could choose between an apple, pear, cereal or eggs. He picked an apple to eat for breakfast. After his breakfast, he turned on the TV to find something to watch. He could watch sports, the news, the weather or a cooking show. He chose to watch the weather. The reporter said fall was coming but that the weather was getting warmer instead of cooler. He turned off the TV and went outside to the backyard. Jack wanted to make some hot dogs for lunch the next day. He went to the store to get hot dogs, mustard, and ketchup. After coming back home from the store, Jack made lunch. After lunch, he found that he needed to do some cleaning. He started cleaning the kitchen and moved on to the living room.
+History:
+Did he take a nap after his meal?
+No
+Ambiguous Question:
+Why?
+Ground Truth: Do you mean after breakfast or lunch?
+
+
+3ea3qwiz4iv9sqg90c7zf57j4ubitg|6|2
+Story:
+Jack woke up on a Saturday morning. He got out of bed and went to the bathroom, and brushed his teeth. He put on his clothes and walked to the kitchen. Jack had a few choices to pick for breakfast. He could choose between an apple, pear, cereal or eggs. He picked an apple to eat for breakfast. After his breakfast, he turned on the TV to find something to watch. He could watch sports, the news, the weather or a cooking show. He chose to watch the weather. The reporter said fall was coming but that the weather was getting warmer instead of cooler. He turned off the TV and went outside to the backyard. Jack wanted to make some hot dogs for lunch the next day. He went to the store to get hot dogs, mustard, and ketchup. After coming back home from the store, Jack made lunch. After lunch, he found that he needed to do some cleaning. He started cleaning the kitchen and moved on to the living room.
+History:
+Is that it?
+no
+Ambiguous Question:
+What else?
+Ground Truth: Are asking about what he could eat or what he could watch on TV?
+
+
+3p59jyt76lk5h527b9m7sp02eunt2g|7|2
+Story:
+(CNN) -- Gordon Stoker, who as part of the vocal group the Jordanaires sang backup on hits by Elvis Presley, Patsy Cline, George Jones and countless others, died Wednesday at his home in Brentwood, Tennessee. He was 88. 
+
+His death was confirmed by the group's website. 
+
+For many years, the Jordanaires were Elvis' go-to backup singers, performing on hits including "Hound Dog," "Are You Lonesome Tonight" and "Crying in the Chapel." 
+
+The group also supported Patsy Cline on "Crazy," Jim Reeves on "Four Walls," Kenny Rogers on "Lucille" and Jones on "He Stopped Loving Her Today." 
+
+On their own, they generally stuck to gospel, releasing more than a dozen albums over the course of several decades. 
+
+The group met Presley after a performance with Eddy Arnold in 1955. According to a much-told story, after the show the then-unknown Elvis told the group that, if he ever landed a major-label contract -- he was on Memphis' Sun Records at the time -- he'd have the Jordanaires back him up. After Presley joined RCA in 1956, he was true to his word. The group sang with him on both recordings and in concert for the next 14 years. 
+
+Stoker wasn't an original member of the group, which formed in Springfield, Missouri, in the 1940s. He was hired as its piano player in 1950 and only became a vocalist later -- staying for more than 60 years, generally as its lead tenor. 
+
+"As a longtime member of the vocal quartet the Jordanaires, he helped to influence the sound of gospel, country and pop music with a unique and versatile style while recording with an impressive roster of artists," said the Recording Academy in a statement. "We have lost a gifted and timeless artist who made significant contributions to music and our industry." 
+History:
+How old was he?
+88
+Ambiguous Question:
+Who did he sing back up for?
+Ground Truth: Do you mean what was the name of the group he sang for or which artists did he sing back up to?
+
+
+3v26sbztbder9sei68k31obqkyzzzz|15|2
+Story:
+(CNN) -- He was the soccer referee known as "golden whistle" who officiated in high-profile events such as the World Cup and the Olympics. 
+
+But a Chinese court has called fulltime on Lun Ju's career by jailing him for match fixing. 
+
+China's state news agency Xinhua reported on Thursday that Lu has been sentenced to five and a half years in prison by a court in Liaoning Province after accepting $128,000 to fix seven matches in China's national league. 
+
+Three other officials -- Huang Junjie, Wan Daxue and Zhou Weixin -- were also jailed for seven, six, and three and a half years respectively. 
+
+The cases were brought after a government crackdown on persistent allegations of gambling, match fixing and corruption in China's football leagues was launched in 2009. 
+
+But it is the fall of Lu that has grabbed the most headlines around the world. He was the first Chinese official to referee at a World Cup, when South Korea and Japan hosted the showpiece event in 2002. 
+
+Prior to that he had taken charge of matches at the 2000 Sydney Olympics and was twice voted referee of the year by the Asian Football Confederation. 
+
+But the court in the city of Dandong, near the border with North Korea, found that Lu had altered the outcome of seven games that involved four clubs including Shanghai Shenhua, who have just signed former France striker Nicolas Anelka from English club Chelsea. 
+
+Huang was convicted of accepting $247,975 from seven separate cases while $31,760 of his personal assets were also confiscated. 
+History:
+Anything else?
+Yes
+Ambiguous Question:
+What?
+Ground Truth: Do you mean what else were the allegations aside from gambling?
+
+
+3f1567xtnw53p9vefe7rx7xt13d9qa|13|2
+Story:
+(CNN) -- Hilary Duff says her new album is "very positive" but admits that it started out "a lot heavier and a lot darker" because of the separation from her husband, Mike Comrie. 
+
+"I'm separated from my husband right now, which has been a very difficult thing to go through," she told Billboard's "Pop Shop" podcast. "In the beginning, the album was a lot heavier and a lot darker, because I had to get that out. Once I did get that out, a lot of fun came." 
+
+Duff married Comrie, a former pro hockey player, in 2010 after dating for three years. Their son, Luca, was born in 2012. Duff and Comrie announced their separation in January. 
+
+Duff, 26, admits that she's "nervous" after being away from music for seven years. Her just-released single, "Chasing the Sun," is from her still-untitled album, which will be her first studio release since 2007's "Dignity." 
+
+She says she first started thinking of new material when she was pregnant with her son. After having the child and taking another year, she was even more anxious. 
+
+"I felt like I was missing a big part of myself," she said. 
+
+Duff established a successful singing career on the heels of her popular Disney show, "Lizzie McGuire," which aired from 2001 to 2004. She spent most of her teenage years touring and says that turning 20 was a big factor in leaving the road. 
+
+"It was time for me to be a person, and the break just ended up being a long time," she said. 
+History:
+who?
+Luc
+Ambiguous Question:
+when?
+Ground Truth: When did what happen?
+
+
+3ermj6l4dys8qb9t8o2q22miw4fm7v|14|2
+Story:
+A family of four went to the zoo today. The animal zoo they were going to had a bunch of different kinds of animals! The kids were so excited to go that they had almost forgot to bring their camera. They arrived to the zoo and the first thing they saw were the flamingos! They were so pretty and pink. They all stood around very silently and looked at the people. The next animal they saw were the lions. They were so scary looking that the kids were scared to walk close to the fence. After the lions were the giraffes. They were so tall, the kids had to lean all the way back to see them. The kids were hungry so they went to go eat lunch. The family had a bunch of food such as pizza, burgers, chicken fingers, and fries. After lunch, they went to see the monkeys. They were so loud and smelly. Some of the monkeys went right up to the glass to look at the people. The family took a break after seeing the monkeys as they were tired from all the walking. The park was so big that they had so many more animals to see! Their feet started hurting, so the family went to see a few more animals. They went home after a really fun day at the zoo. They had seen a lot of animals they never would have seen outside of the zoo. They loved the zoo so much they wanted to go back next week! The parents said they would come back soon to see how the animals were doing.
+History:
+Then what?
+giraffes
+Ambiguous Question:
+What did the kids need to do?
+Ground Truth: When?
+
+
+3d8you6s9ek8zj0xygokny3gep1u6j|13|2
+Story:
+Bill Gates was born on October 28, 1955. He grew up in Seattle, Washington. He was a very clever boy. His favorite subjects at school were science and math. When he was 13, he started to play with computers. At that time, computers were large machines. Once he was very interested in a very old computer. He and some of his friends spent lots of time doing unusual things with it. In the end, they worked out a software program with the old machine. Bill sold it for $4,200 when he was only 17. In 1973, Bill went to Harvard University . In his third school year, he left Harvard to work for a company called Microsoft. Bill began his company in 1975 with his friend Paul Allen. They thought the computer would come into every office and every home soon. So they began developing the software forpersonalcomputers. They improved the software to make it easier for people to use computers.
+History:
+at what age did he start to play with computers?
+13
+Ambiguous Question:
+when did he quit harvard?
+Ground Truth: Are you looking for the exact year or the school year in which he quit Harvard?
+
+
+37w3jxsd668na7z8zzydod86yhkwy3|4|2
+Story:
+CHAPTER XXI 
+
+TROUBLES IN THE FOLD--A MESSAGE 
+
+Gabriel Oak had ceased to feed the Weatherbury flock for about four-and-twenty hours, when on Sunday afternoon the elderly gentlemen Joseph Poorgrass, Matthew Moon, Fray, and half-a-dozen others, came running up to the house of the mistress of the Upper Farm. 
+
+"Whatever IS the matter, men?" she said, meeting them at the door just as she was coming out on her way to church, and ceasing in a moment from the close compression of her two red lips, with which she had accompanied the exertion of pulling on a tight glove. 
+
+"Sixty!" said Joseph Poorgrass. 
+
+"Seventy!" said Moon. 
+
+"Fifty-nine!" said Susan Tall's husband. 
+
+"--Sheep have broke fence," said Fray. 
+
+"--And got into a field of young clover," said Tall. 
+
+"--Young clover!" said Moon. 
+
+"--Clover!" said Joseph Poorgrass. 
+
+"And they be getting blasted," said Henery Fray. 
+
+"That they be," said Joseph. 
+
+"And will all die as dead as nits, if they bain't got out and cured!" said Tall. 
+
+Joseph's countenance was drawn into lines and puckers by his concern. Fray's forehead was wrinkled both perpendicularly and crosswise, after the pattern of a portcullis, expressive of a double despair. Laban Tall's lips were thin, and his face was rigid. Matthew's jaws sank, and his eyes turned whichever way the strongest muscle happened to pull them. 
+
+"Yes," said Joseph, "and I was sitting at home, looking for Ephesians, and says I to myself, ''Tis nothing but Corinthians and Thessalonians in this danged Testament,' when who should come in but Henery there: 'Joseph,' he said, 'the sheep have blasted theirselves--'" 
+History:
+was another named?
+Yes
+Ambiguous Question:
+which one?
+Ground Truth: Another what?
+
+
+35k3o9huabdntgwm99cjdmuqlp6fe0|9|2
+Story:
+Max is a very happy cow. He's dark brown, with big blue eyes, and a soft pink nose. He lives in a huge field during the summer, with beautiful, and tasty, buttercups and hay. During the winter he lives in a nice, warm barn. 
+
+The hay isn't as tasty then, but it keeps him fed until summer comes back. One winter day Max wanted to see what was happening outside when it turned cold and bright. He had never gone out during the winter because the Farmer always locked the barn door behind him. But today the door was wide open, and Max could see the sunshine reflecting off the bright ground. He had to know why! So Max pushed open the gate to his little house with his nose and walked over to the door. Max was surprised and confused by the ground outside, it was so white and sparkly. His breath started fogging in the air, and the ground was cold and crunchy. "What is this?" He asked the rooster sitting on the fence. The roosters name was Omaha, and he was all white except for a big red puff on his head. 
+
+"It's snow, son! Did you grow up in a barn?!" The rooster laughed and flew away towards his little rooster house. 
+
+"It's so pretty!" Max said. He pushed it with his nose. "Oh! It's so chilly!" He started to take a bite of the crunchy white bits. He wanted to see if they had a good taste, when he heard the farmer. 
+
+"Max! What are you doing out here?" The farmer, named Bob, asked. He was loud, but not mad. "It's much too cold for a small cow like you, we better get you back inside!" He pushed Max inside the barn, and this time locked the barn door tight.
+History:
+where was he at?
+sitting on the fence
+Ambiguous Question:
+What was this animal called?
+Ground Truth: You mean the type of animal in general or the name of the specific animal in the story?
+
+
+3vw04l3zlt6dz2eo488x7if4547xxk|14|2
+Story:
+Easter Island is a Chilean island in the southeastern Pacific Ocean, at the southeasternmost point of the Polynesian Triangle in Oceania. Easter Island is famous for its 887 extant monumental statues, called "moai", created by the early Rapa Nui people. In 1995, UNESCO named Easter Island a World Heritage Site, with much of the island protected within Rapa Nui National Park. 
+
+Polynesian people most likely settled on Easter Island sometime between 700 and 1100 CE, and created a thriving and industrious culture as evidenced by the island's numerous enormous stone "moai" and other artefacts. However, human activity, the introduction of the Polynesian rat and overpopulation led to gradual deforestation and extinction of natural resources which severely weakened the Rapa Nui civilization. By the time of European arrival in 1722, the island's population had dropped to 2,000–3,000 from an estimated high of approximately 15,000 just a century earlier. European diseases and Peruvian slave raiding in the 1860s further reduced the Rapa Nui population, to a low of only 111 inhabitants in 1877. 
+
+Easter Island is one of the most remote inhabited islands in the world. The nearest inhabited land (around 50 residents in 2013) is Pitcairn Island, away; the nearest town with a population over 500 is Rikitea, on the island of Mangareva, away; the nearest continental point lies in central Chile, away.
+History:
+what is the nearest inhabitated land to it?
+Pitcairn Island
+Ambiguous Question:
+how many peopole did it have?
+Ground Truth: Are you asking how many people lived on Easter Island in 1722?
+
+
+3b1nlc6ugzwx47h7t7ycpjt60iagp1|10|2
+Story:
+The International Criminal Court (ICC or ICCt) is an intergovernmental organization and international tribunal that sits in The Hague in the Netherlands. The ICC has the jurisdiction to prosecute individuals for the international crimes of genocide, crimes against humanity, and war crimes. The ICC is intended to complement existing national judicial systems and it may therefore only exercise its jurisdiction when certain conditions are met, such as when national courts are unwilling or unable to prosecute criminals or when the United Nations Security Council or individual states refer situations to the Court. The ICC began functioning on 1 July 2002, the date that the Rome Statute entered into force. The Rome Statute is a multilateral treaty which serves as the ICC's foundational and governing document. States which become party to the Rome Statute, for example by ratifying it, become member states of the ICC. Currently, there are 124 states which are party to the Rome Statute and therefore members of the ICC. However, Burundi has given formal notice that it will withdraw from the Rome Statute. 
+
+The ICC has four principal organs: the Presidency, the Judicial Divisions, the Office of the Prosecutor, and the Registry. The President is the most senior judge chosen by his or her peers in the Judicial Division, which hears cases before the Court. The Office of the Prosecutor is headed by the Prosecutor who investigates crimes and initiates proceedings before the Judicial Division. The Registry is headed by the Registrar and is charged with managing all the administrative functions of the ICC, including the headquarters, detention unit, and public defense office.
+History:
+Where is it located?
+Netherlands
+Ambiguous Question:
+Who do they have authority over?
+Ground Truth: Do you mean which types of individuals?
+
+
+3rxpczqmqpbunfy585nmonb8w0j1gs|12|2
+Story:
+(CNN) -- Iggy Azalea would love it if everyone channeled "Frozen" and just "let it go." 
+
+The Australian rapper has broken her silence about a supposed feud between herself and Nicki Minaj, rumors that were sparked after Minaj gave a curiously pointed acceptance speech at the BET Awards on Sunday. 
+
+The New York-bred MC made it clear that when "you hear Nicki Minaj spit, Nicki Minaj wrote it," leaving observers to assume that she was taking a dig at Azalea, who's been rumored to work with ghostwriters and was Minaj's competitor at the awards ceremony. 
+
+Nicki Minaj vs. Iggy Azalea: Where's the beef? 
+
+Although Minaj said during her acceptance speech that she wasn't giving "shade" -- aka, disrespect -- it nonetheless appeared that way to many. 
+
+With the Internet chomping down on the apparent beef, both Minaj and Azalea have tried to clear the air. 
+
+"The media puts words in my mouth all the time and this is no different. I will always take a stance on women writing b/c I believe in us!" Minaj tweeted on July 2. "I've congratulated Iggy on the success of 'Fancy,' publicly. She should be very proud of that. All the women nominated should b proud. ... That will never change my desire to motivate women to write. Our voices have to be heard. I hope I inspire up & coming females to do that." 
+
+Azalea initially remained silent on the subject, but by July 3 the rapper had grown tired of the commentary. 
+
+"I have to say the general explosion of pettiness online in the last few days is hard to ignore and honestly ... lame," Azalea wrote in a statement, as captured on her Instagram account. "If I had won the BET award that would've been great but it wasn't my year and I don't mind -- so you shouldn't either." 
+History:
+who?
+Nicki Minaj
+Ambiguous Question:
+when?
+Ground Truth: When did what happen?
+
+
+3skemfqbz35h01e9xhhg1pq9hoe8kw|6|2
+Story:
+Three Boys and a Dad 
+
+Brad closed the door slowly as Sue left home to visit her mother.Expecting a whole day to relax,he was thinking whether to read the newspaper or watch his favourite TV talk show on his first day off in months."This will be like a walk in the park,"he'd told his wife."I'll look after the kids,and you can go visit your mom." 
+
+Things started well,but just after eight o'clock,his three little "good kids"--Mike,Randy,and Alex--came down the stairs in their night clothes and shouted "breakfast,daddy."When food had not appeared within thirty seconds,Randy began using his spoon on Alex's head as if it were a drum.Alex started to shout loudly in time to the beat .Mike chanted "Where's my toast,where's my toast" in the background.Brad realised his newspaper would have to wait for a few seconds. 
+
+Life became worse after breakfast.Mike wore Randy's underwear on his head.Randy locked himself in the bathroom,while Alex shouted again because he was going to wet his pants.Nobody could find clean socks,although they were before their very eyes.Someone named "Not Me" had spilled a whole glass of orange juice into the basket of clean clothes.Brad knew the talk show had already started. 
+
+By ten o'clock,things were out of control.Alex was wondering why the fish in the jar refused his bread and butter.Mike was trying to show off his talent by decorating the kitchen wall with his colour pencils.Randy,thankfully,appeared to be reading quietly in the family room,but closer examination showed that he was eating apple jam straight from the bottle with his hands.Brad realised that the talk show was over and reading would be impossible. 
+
+At exactly 11:17,Brad called the daycare centre ."I suddenly have to go into work and my wife's away.Can I bring the boys over in a few minutes?"The answer was obviously "yes" because Brad was smiling.(2012*,B)
+History:
+anything else?
+yes
+Ambiguous Question:
+what else?
+Ground Truth: Are you talking about what else he wanted to do?
+
+
+34x6j5flptysvl8n1qy4m1bww3kjqz|5|2
+Story:
+Aviation is the practical aspect or art of aeronautics, being the design, development, production, operation and use of aircraft, especially heavier than air aircraft. The word "aviation" was coined by French writer and former naval officer Gabriel La Landelle in 1863, from the verb "avier" (synonymous flying), itself derived from the Latin word "avis" ("bird") and the suffix "-ation". 
+
+There are early legends of human flight such as the story of Icarus in Greek myth and Jamshid in Persian myth, and later, somewhat more credible claims of short-distance human flights appear, such as the flying automaton of Archytas of Tarentum (428–347 BC), the winged flights of Abbas Ibn Firnas (810–887), Eilmer of Malmesbury (11th century), and the hot-air Passarola of Bartholomeu Lourenço de Gusmão (1685–1724). 
+
+The modern age of aviation began with the first untethered human lighter-than-air flight on November 21, 1783, of a hot air balloon designed by the Montgolfier brothers. The practicality of balloons was limited because they could only travel downwind. It was immediately recognized that a steerable, or dirigible, balloon was required. Jean-Pierre Blanchard flew the first human-powered dirigible in 1784 and crossed the English Channel in one in 1785. 
+
+Rigid airships became the first aircraft to transport passengers and cargo over great distances. The best known aircraft of this type were manufactured by the German Zeppelin company.
+History:
+could it be steered?
+This one, no.
+Ambiguous Question:
+who created it?
+Ground Truth: Do you mean the one that could be steered or the one that could not be steered?
+
+
+3qemnnsb2xz5mh3gvv3njczontvd7i|7|2
+Story:
+(CNN) -- Money talks -- that's hardly a revelation, but the overriding feeling towards Saturday's David Haye versus Dereck Chisora "circus fight" in London is shock and outrage that it could even take place. 
+
+With neither fighter holding a British boxing license, promoter Frank Warren had to resort to asking the little-known Luxembourg federation to sanction the bout. 
+
+It has since been expelled from the European Boxing Union for agreeing to give legitimacy to an event that no-one else would touch. 
+
+Chisora was banned by the World Boxing Council and the British Boxing Board of Control following his bust-up with Haye in Munich in February, while his former world champion opponent escaped punishment only because he had already retired. 
+
+Their ugly scuffle at a press conference after Chisora's defeat by Vitali Klitschko, which Haye attended, has set the scene for a showdown straight from the pages of the professional wrestling handbook. 
+
+Their pantomime behavior has only served to rack up the ticket sales to close to 30,000 and secure airtime in 60 countries worldwide. 
+
+Chisora threatens to shoot Haye 
+
+"Chisora's not a nice guy, the fact he bites people in the ring, spits water in peoples' faces, slaps people at weigh-ins, kisses people at weigh-ins. What's to like?" Haye said this week. 
+
+Boxing commentator Steve Bunce has compared Haye and Chisora's Munich brawl to Lennox Lewis' pre-fight rumble with Mike Tyson a decade ago. Lewis punched Tyson, and in exchange the American bit his leg. This was heralded at the time as the biggest fight ever. 
+History:
+What was its name?
+British Boxing Board of Contro
+Ambiguous Question:
+What happened to Chisora's opponent?
+Ground Truth: Which opponent?
+
+
