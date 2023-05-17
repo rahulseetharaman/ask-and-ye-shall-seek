@@ -39,9 +39,13 @@ def evaluate_metrics(model_name):
 
     metric = bertscore.compute(predictions=generated, references=refs, model_type="microsoft/deberta-xlarge-mnli")
     pickle.dump(metric, open(f"{model_name}_test_bertscore.pkl", "wb"))
+    metric['precision'] = sum(metric['precision'])/len(metric['precision'])
+    metric['recall'] = sum(metric['recall'])/len(metric['recall'])
+    metric['f1'] = sum(metric['f1'])/len(metric['f1'])
+    
     metrics.append(metric)
 
-    with open(f'{model_name}_metrics', 'w') as f:
+    with open(f'{model_name}_metrics.json', 'w') as f:
         json.dump(metrics, f)
 
 if __name__== '__main__':
