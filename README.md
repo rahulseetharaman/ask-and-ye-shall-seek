@@ -9,10 +9,11 @@ This is the code for our final project report titled [Ask and Ye Shall Seek: Gen
 In this project, we experimented with multiple strategies to ask clarifying questions to ambiguous user queries. We synthetically augment a dataset and fine-tune 7 open-source language models with changes to their training objectives. In addition, we identified four qualitative metrics that a clarification question can be evaluated upon. A substantial number of evaluations including human and automated evaluations for generations on the test set have been performed.
 
 ## Group
-Rahul Seetharaman - rseetharaman@umass.edu
-Rohan Lekhwani - rlekhwani@umass.edu
-Aman Bansal - amanbansal@umass.edu
-Shreeya Patil - shreeyadeepa@umass.edu
+
+- Rahul Seetharaman - [rseetharaman@umass.edu](rseetharaman@umass.edu)
+- Rohan Lekhwani - [rlekhwani@umass.edu](rlekhwani@umass.edu)
+- Aman Bansal - [amanbansal@umass.edu](amanbansal@umass.edu)
+- Shreeya Patil - [shreeyadeepa@umass.edu](shreeyadeepa@umass.edu)
 
 ## Getting Around
 
