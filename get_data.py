@@ -19,7 +19,7 @@ class ABGCoQADataset(Dataset):
 
     def _build_data(self, data_file):
         dataset = []
-        with open(f"data/{data_file}") as f:
+        with open(f"data/coqa_abg/{data_file}") as f:
             coqa_data = json.load(f)
 
         # create a dict of dicts by id
@@ -27,7 +27,7 @@ class ABGCoQADataset(Dataset):
 
         if 'train' in data_file:
             for i in range(15):
-                with open(f"data/output_{i}.json") as f:
+                with open(f"data/data_aug/output_{i}.json") as f:
                     output_data = json.load(f)
                     for output in output_data:
                         story = coqa_data_dict[output['id']]['story']
@@ -71,4 +71,4 @@ class ABGCoQADataset(Dataset):
     
 if __name__ == "__main__":
     data_obj = ABGCoQADataset('coqa_abg_test.json', 'test')
-    print(data_obj.dataset[41])
+    print(len(data_obj.dataset))
