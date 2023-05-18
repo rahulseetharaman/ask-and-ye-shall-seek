@@ -39,7 +39,7 @@ def format_text(entry):
     ans = ans[:-2]+"\n"
     return ans
 
-f = open('coqa_abg_train.json')
+f = open('../coqa_abg/coqa_abg_train.json')
 jsonDump = []
 trainData = json.load(f)
 outCount = 0
